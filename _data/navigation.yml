@@ -2,12 +2,7 @@
 main:
   - title: "Publications"
     url: /publications/  
-    
-  - title: "Projects"
-    url: /projects/
 
-  - title: "CV"
-    url: /cv/
 
   # - title: "Group"
   #   url: /people/

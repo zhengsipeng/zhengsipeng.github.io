@@ -1,0 +1,34 @@
+# Authors
+
+Name Name:
+  name        : "Name Name"
+  uri         : "http://name.com"
+  email       : "name@name.com"
+  bio         : "This is the first name."
+  avatar      : "bio-photo-2.jpg"
+  twitter     : "name"
+  google_plus : "Name"
+
+Name2 Name2:
+  name        : "Name2 Name2"
+  email       : "name2@name2.com"
+  bio         : "I ordered what?"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"
+
+Sipeng Zheng:
+  name             : "Sipeng Zheng"
+  avatar           : "profile.png"
+  bio              : "Ph.D @RUC, expert in computer vision"
+  location         : "Beijing, China"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "spzheng@baai.ac.cn"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://zhengsipeng.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"

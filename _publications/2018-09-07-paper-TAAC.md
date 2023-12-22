@@ -10,5 +10,3 @@ citation: 'Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V
 ---
 This paper is about future changes in rice yields over the Mekong River Delta due to climate change.
 
-[Download paper here](http://zejiang-unsw.github.io/files/Jiang-TAAC-2018.pdf)
-

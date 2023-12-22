@@ -96,6 +96,20 @@ Relation understanding in videos (ACM MM 2019 grand challenge).
 [pdf](https://dl.acm.org/doi/10.1145/3343031.3356080)
 
   
+## Awards
+* National Scholarship for Ph.D Students.
+* 2022 Ranked 3th in CVPR 2022 Ego4D Natural Language Query Challenge.
+* 2021 Ranked 3th in NIST TRECVID 2021 Ad-hoc Video Search (AVS) Challenge. (20+ teams)
+* 2021 Ranked 4th in CVPR 2021 HOMAGE Scene-graph Generation Challenge.
+* 2020 Ranked 2th in ACM MM 2020 Video Relationship Understanding Grand Challenge.
+* 2019 Ranked 2nd in ACM MM 2019 Video Relationship Understanding Grand Challenge.
+* Best Method Prize in ACM MM 2019 Grand Challenge.
+* 2019 First Class Scholarship for Ph.D Students from 2018 to 2021.
+* 2015 First Prize in National University Mathematical Modeling Competition of Beijing Area.
+
+## Services
+* Conference Reviewer for CVPR, ICCV, ECCV, NeurIPS, AAAI, ACM MM, ICME.
+* Journal Reviewer for IJCV, TCSVT, TMM, JATS.
 
 ## For more information
 More info about Sipeng Zheng can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV](http://zhengsipeng.github.io/files/cv_zsp_eng.pdf).

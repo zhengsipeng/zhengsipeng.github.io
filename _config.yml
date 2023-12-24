@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ze Jiang"
+title                    : "Sipeng Zheng"
 title_separator          : "-"
-name                     : &name "Ze Jiang"
-description              : &description "Researcher in WRC@UNSW, Sydney, Australia"
-url                      : https://zejiang-unsw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sipeng Zheng"
+description              : &description "Researcher in BAAI, Beijing, China"
+url                      : https://zhengsipeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zejiang-unsw.github.io"
+repository               : "zhengsipeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,15 @@ analytics:
 
 # Site Author
 author: 
-  name             : "Ze Jiang"
+  name             : "Sipeng Zheng"
   avatar           : "profile.jpg"
-  bio              : "Researcher in WRC@UNSW, specialised in statistical hydrology"
-  location         : "Sydney, Australia"
+  bio              : "Researcher in BAAI, specialised in multimodal learning and computer vision"
+  location         : "Beijing, Chine"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=4iVouPYAAAAJ&hl=en"
-  email            : "ze.jiang@hotmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Ze_Jiang3"
-  publons          : "https://publons.com/researcher/3963266/ze-jiang/"
+  googlescholar    : "https://scholar.google.com/citations?user=OonuDhcAAAAJ&hl=zh-CN"
+  email            : "zhengsipeng27@gmail.com"
+  researchgate     : "https://www.researchgate.net/scientific-contributions/Sipeng-Zheng-2165353196"
   uri              : 
   bitbucket        :
   codepen          :
@@ -97,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zejiang-unsw"
+  github           : "zhengsipeng"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zejiang"
-  orcid            : "http://orcid.org/0000-0002-3472-0829"
+  linkedin         : "sipengz"
+  orcid            : #"http://orcid.org/0000-0002-3472-0829"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
-  twitter          : "ZeJiang3"
+  twitter          : #"ZeJiang3"
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCDgVmJEzD5czbTlTdVVewKA"
+  youtube          : #"UCDgVmJEzD5czbTlTdVVewKA"
   wikipedia        :
       
 # Reading Files
@@ -277,7 +276,7 @@ permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 # timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Australia/Sydney # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: China/Beijing # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:

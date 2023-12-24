@@ -67,7 +67,7 @@ Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, **Sipeng Zheng**, Qin Jin.
 [[code]](https://github.com/zhengsipeng/HCL-FSAR)
 
 
-* VRDformer: End-to-end video visual relation detection with transformer (CVPR 2022 Oral).  
+* VRDFormer: End-to-end video visual relation detection with transformer (CVPR 2022 Oral).  
 **Sipeng Zheng**, Shizhe Chen, Qin Jin.
 [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf)
 [[code]](https://github.com/zhengsipeng/VRDFormer_VRD)

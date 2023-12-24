@@ -2,7 +2,7 @@
 title: "LLaMA Rider: Spurring Large Language Models to Explore the Open World."
 collection: publications
 permalink: /publication/2023-10-paper-LLAMA-RIDER
-excerpt: 'Recently, various studies have leveraged Large Language Models (LLMs) to help decision-making and planning in environments'
+excerpt: 'This paper proposes a self-driven framework for LLM-based agents in open worlds.'
 date: 2023-10-01
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2310.08922'

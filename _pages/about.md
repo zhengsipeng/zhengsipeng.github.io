@@ -35,9 +35,9 @@ Yicheng Feng, Yuxuan Wang, Jiazheng Liu, **Sipeng Zheng**, Zongqing Lu.
 
 POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World (ACM MM 2023).  
 Boshen Xu, **Sipeng Zheng**, Qin Jin
-[pdf](https://dl.acm.org/doi/10.1145/3581783.3612484)
-[page](https://xuboshen.github.io/POV/) 
-[code](https://github.com/xuboshen/pov_acmmm2023)
+[[pdf]](https://dl.acm.org/doi/10.1145/3581783.3612484)
+[[page]](https://xuboshen.github.io/POV/) 
+[[code]](https://github.com/xuboshen/pov_acmmm2023)
 
 
 No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection (2023). 

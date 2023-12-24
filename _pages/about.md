@@ -52,8 +52,7 @@ Qi Zhang, **Sipeng Zheng**, Qin Jin.
 
 * Accommodating audio modality in CLIP for multimodal processing (AAAI 2023). 
 Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, **Sipeng Zheng**, Qin Jin. 
-[[pdf]](https://arxiv.org/abs/2310.08922)
-[[code]](https://github.com/PKU-RL/LLaMA-Rider)
+[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26153/25925)
 
 
 * Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos (IEEC 2023). 

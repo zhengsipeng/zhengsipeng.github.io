@@ -2,8 +2,8 @@
 title: "Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework"
 collection: publications
 permalink: /publication/2023-3-paper-OPENCAT
-excerpt: 'This paper proposes an open-category pre-trained model for human-object interaction understanding. '
-date: 2023-03-01
+excerpt: 'This paper proposes an open-category pre-trained model for human-object interaction understanding.'
+date: 2023-06-01
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.pdf'
 citation: 'S Zheng, B Xu, Q Jin. (2023). "Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework." <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. 19392-19402.'

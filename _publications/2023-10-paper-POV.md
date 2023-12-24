@@ -3,7 +3,7 @@ title: "POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object I
 collection: publications
 permalink: /publication/2023-3-paper-POV
 excerpt: 'This paper propose a prompt-oriented view-agnostic learning framework for multi-view action understanding.'
-date: 2018-03-01
+date: 2018-10-01
 venue: 'Proceedings of the 31st ACM International Conference on Multimedia'
 paperurl: 'https://doi.org/10.1007/s00704-018-2617-z'
 citation: 'B Xu, S Zheng, Q Jin. (2023). "POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World." <i>Proceedings of the 31st ACM International Conference on Multimedia</i>. 2807-2816.'

@@ -2,7 +2,7 @@
 title: "No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection"
 collection: publications
 permalink: /publication/2023-3-paper-NO-FRILL
-excerpt: 'This paper proposes an effective no-frill framework for temporal video grounding. '
+excerpt: 'This paper proposes an effective no-frill framework for temporal video grounding.'
 date: 2023-03-01
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2307.10567'

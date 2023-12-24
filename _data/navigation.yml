@@ -4,5 +4,5 @@ main:
     url: /publications/  
 
 
-   - title: "Group"
-     url: /people/
+  # - title: "Group"
+  #   url: /people/

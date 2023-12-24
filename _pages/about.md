@@ -93,7 +93,6 @@ Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, **Sipeng Zheng**, Qin Jin.
 
 * Relation understanding in videos (ACM MM 2019 grand challenge). 
 **Sipeng Zheng**, Xiangyu Chen, Shizhe Chen, and Qin Jin.
-
 [[pdf]](https://dl.acm.org/doi/10.1145/3343031.3356080)
 
   

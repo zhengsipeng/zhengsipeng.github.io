@@ -1,5 +1,5 @@
 ---
-title: "LLaMA Rider: Spurring Large Language Models to Explore the Open World."
+title: "LLaMA Rider: Spurring Large Language Models to Explore the Open World"
 collection: publications
 permalink: /publication/2023-10-paper-LLAMA-RIDER
 excerpt: 'This paper proposes a self-driven framework for LLM-based agents in open worlds.'

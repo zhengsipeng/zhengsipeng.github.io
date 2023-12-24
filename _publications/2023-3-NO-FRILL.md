@@ -1,11 +1,11 @@
 ---
 title: "No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection"
 collection: publications
-permalink: /publication/2023-3-paper-POV
-excerpt: 'We humans are good at translating third-person observations of hand-object interactions (HOI) into an egocentric view. '
+permalink: /publication/2023-3-paper-NO-FRILL
+excerpt: 'This paper proposes an effective no-frill framework for temporal video grounding. '
 date: 2018-03-01
-venue: 'Proceedings of the 31st ACM International Conference on Multimedia'
-paperurl: 'https://doi.org/10.1007/s00704-018-2617-z'
-citation: 'B Xu, S Zheng, Q Jin. (2023). "POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World." <i>Proceedings of the 31st ACM International Conference on Multimedia</i>. 2807-2816.'
+venue: 'arXiv preprint'
+paperurl: 'https://arxiv.org/abs/2307.10567'
+citation: 'Q Zhang, S Zheng, Q Jin. (2023). "No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection." <i>arXiv preprint</i>. arXiv:2307.10567.'
 ---
-We humans are good at translating third-person observations of hand-object interactions (HOI) into an egocentric view. 
+Temporal video grounding (TVG) aims to retrieve the time interval of a language query from an untrimmed video. A significant challenge in TVG is the low "Semantic Noise Ratio (SNR)", which results in worse performance with lower SNR. Prior works have addressed this challenge using sophisticated techniques. In this paper, we propose a no-frills TVG model that consists of two core modules, namely multi-scale neighboring attention and zoom-in boundary detection. The multi-scale neighboring attention restricts each video token to only aggregate visual contexts from its neighbor, enabling the extraction of the most distinguishing information with multi-scale feature hierarchies from high-ratio noises. The zoom-in boundary detection then focuses on local-wise discrimination of the selected top candidates for fine-grained grounding adjustment. With an end-to-end training strategy, our model achieves competitive performance on different TVG benchmarks, while also having the advantage of faster inference speed and lighter model parameters, thanks to its lightweight architecture.

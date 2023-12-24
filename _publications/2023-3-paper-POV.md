@@ -1,5 +1,5 @@
 ---
-title: "POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World."
+title: "POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World"
 collection: publications
 permalink: /publication/2023-3-paper-POV
 excerpt: 'This paper propose a prompt-oriented view-agnostic learning framework for multi-view action understanding.'

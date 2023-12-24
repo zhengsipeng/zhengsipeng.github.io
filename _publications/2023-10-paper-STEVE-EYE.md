@@ -1,5 +1,5 @@
 ---
-title: "Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds."
+title: "Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds"
 collection: publications
 permalink: /publication/2023-10-paper-STEVE-EYE
 excerpt: 'This paper proposes the first large multi-modal model for open-world agents in Minecraft.'

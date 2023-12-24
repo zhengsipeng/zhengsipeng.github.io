@@ -18,7 +18,7 @@ I am particularly interested in various tasks such as visual relation detection,
 
 
 
-## Selected Journal Publications
+## Publications
 
 * Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds (2023). 
 **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu. 

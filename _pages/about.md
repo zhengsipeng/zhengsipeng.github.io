@@ -11,11 +11,14 @@ redirect_from:
 This is Sipeng Zheng's personal homepage. 
 
 ## A short introduction
-I'm Sipeng Zheng, a researcher affiliated with the Multimodal Interaction Research Group at the Beijing Academy of Artificial Intelligence(BAAI), , where I collaborate with Prof. Zongqing Lu. 
-I obtained my PhD and bachelor degree from Renmin University of China (RUC), under the guidance of Prof. Qin Jin. 
+I'm Sipeng Zheng, a researcher affiliated with the Multimodal Interaction Research Group at the [Beijing Academy of Artificial Intelligence(BAAI)](https://www.baai.ac.cn), , where I collaborate with [Prof. Zongqing Lu](https://z0ngqing.github.io). 
+I obtained my PhD and bachelor degree from [Renmin University of China (RUC)](https://en.ruc.edu.cn), under the guidance of [Prof. Qin Jin](https://www.jin-qin.com). 
 My primary research focus revolves around human behavior understanding, vision-and-language learning, and embodied artificial intelligence.
-I am particularly interested in various tasks such as visual relation detection, scene graph generation, action recognition, open-world agent planning, and more.
 
+
+## Research Interest
+* visual relation detection, scene graph generation, action recognition and etc.
+* large multimodal model learning.
 
 
 ## Publications

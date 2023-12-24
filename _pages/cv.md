@@ -23,39 +23,21 @@ Research Interests
 * Open-world embodied agent learning
 
 
-Professional Experience
+Work Experience
 ======
-* Jun. 2021 - Current: Research Associate
-  * Water Research Centre, University of New South Wales, Sydney, Australia
-  * Duties included: 
-	+ The development of Wavelet System Prediction (WASP) for characterizing chaotic system
-    + Hydro-climatological forecasting using CMIP decadal and ACCESS seasonal forecasts
-    + Interannual rainfall forecasting with CMIP6 decadal projections over Australia
-    + Bias characterisation and correction in Numerical Weather Prediction (NWP) models
-  * Supervisors: Prof. [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en) and A/Prof. [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en)
+* Jul. 2023 - Current: Research Scientist
+  * Beijing Academy of Artificial Intelligence, Beijing, China
+  * Duties included: large multimodal model, multi-agent learning
 
-* Aug. 2023 - Current: Guest Scientist
-* May 2023 - Jul. 2023: Scientist
-  * Helmholtz-Centre Potsdam - German Research Centre (GFZ), Potsdam, Brandenburg, Germany
-  * Duties included: 
-	+ Climate-informed Flood Frequency Analysis under a changing climate
-  * Supervisor: Prof. Dr. [Bruno Merz](https://www.gfz-potsdam.de/en/staff/bruno.merz/sec44)
 
-* Nov. 2015 - Feb. 2018: Research Assistant/Engineer
-  * Tropical Marine Science Institute, National University of Singapore, Singapore
-  * Duties included: 
-	+ DSSAT crop modeling of future rice yield in Vietnam under climate change, Singapore-MIT Alliance project.
-	+ Development of index-based drought insurance for sovereign disaster risk transfer, International Finance Corporation, World Bank project. 
-	+ Impact of climate change on inland and coastal flooding in Singapore, Public Utilities Board (PUB) project.
-	+ Effectiveness of ABC Waters design features in residential developments, PUB-TMSI-Monash University project.
-  * Supervisor: Prof. [Shie-Yui Liong](https://scholar.google.com.au/citations?user=PvpaEVUAAAAJ&hl=en)
+* Apr. 2022 - Oct. 2022: Research Intern
+  * Microsoft Research Asia, Beijing, China
+  * Duties included: temporal sentence grounding for long-term videos.
 
-* Mar. 2015 - Sep. 2015: Intern
-  * Ingenieurgesellschaft Prof. Dr. Sieker mbH, Berlin, Germany
-  * Duties included:
-    + Development of the Time-Area function model based on QGIS environment for stormwater management.
-    + Flood modelling and mitigation of Hafar Al-Batin city in Saudi Arabia.   
-  * Supervisors: Prof. [Frank Molkenthin](https://www.b-tu.de/fg-hydrologie/team/mitarbeiter/apl-prof-frank-molkenthin) and Prof. [Heiko Sieker](https://www.sieker.de/aktuelles/news/heiko-sieker-honorarprofessor-an-der-tu-berlin-143.html?no_cache=1)
+* Nov. 2021 - Apr. 2022: Research Intern
+  * Beijing Academy of Artificial Intelligence, Beijing, China
+  * Duties included: multi-lingual language-vision-audio pre-training.
+
 
 Awards & Honors
 ======
@@ -88,28 +70,7 @@ Mandarin(Native), English(Fluent)
 
 Skills & Expertise 
 ======
-* Statistical hydrology and water resource engineering.
 * Strong interpersonal skills with a good sense of teamwork. 
-* Programming Skills: R, C/C++, and Python in both Unix and Windows systems.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
+* Programming Skills: Python C/C++ and Html in both Unix and Windows systems.
+* Rich experience in large model pre-training.
 
-Service & Leadership
-======
-* Contribute to the First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
-* Contribute to the Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
-* Topic Coordinator for a [Special Issue of Frontiers in Marine Science](https://www.frontiersin.org/research-topics/46827/toxicological-endpoints-and-bioavailability-of-emerging-contaminants-and-their-impacts-on-marine-nut)
-* Reviewer Editor: 
-  + Frontiers in Water (Sections: Water and Climate; Water and Hydrocomplexity)
-* Reviewer for Scholarly Journals: 
-  + Journal of Hydrology
-  + International Journal of River Basin Management 
-  + Weather and Climate Extremes; Journal of Applied Meteorology and Climatology
-  + Frontiers in Water; Water; Sustainability; International Journal of Environmental Research and Public Health
-
-Membership
-======
-* American Geophysical Union (AGU)
-* European Geosciences Union (EGU) 
-* Asia Oceania Geosciences Society (AOGS)
-* International Commission of Statistical Hydrology (ICSH-IAHS)
-* Modeling and Simulation Society of Australia and New Zealand (MSSANZ)

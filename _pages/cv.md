@@ -8,30 +8,20 @@ redirect_from:
 
 {% include base_path %}
 
-Download [CV](http://zejiang-unsw.github.io/files/CV_ZeJIANG.pdf)
+Download [CV](http://zhengsipeng.github.io/files/cv_zsp_eng.pdf)
 ======
 
 Education
 ======
-* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
-* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
+* B.Eng. in Computer Science and Engineering, Renmin University of China, China, 2023
+* Ph.D. in Computer Science and Engineering, Renmin University of China, China, 2023
 
 Research Interests
 ======
-* Hydro-climate extremes modelling and forecasting (e.g. Wavelet System Prediction)
-* Postprocessing techniques for correcting bias in climate and weather prediction models
-* Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrology/Hydraulics and water quality modelling
-* Hydro-Informatics and water management
+* Computer vision and human behavior understanding
+* Multimodal understanding with large language models
+* Open-world embodied agent learning
 
-Research Highlights
-======
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
-* An [open-source tool](https://cran.r-project.org/web/packages/WASP/index.html) for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Development of a [postprocessing method](https://doi.org/10.1175/MWR-D-22-0217.1) for correcting bias in Numerical Weather Predictions in the time-frequency domain
-* Quantification of future changes in [drought](https://doi.org/10.1029/2022EF003350) and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
 Professional Experience
 ======
@@ -69,16 +59,20 @@ Professional Experience
 
 Awards & Honors
 ======
-* 2021, Engineering Faculty Postdoctoral Writing Fellowship funded by UNSW
-* 2019, OzEWEX Summer Institute Scholarship
-* 2018, University International Postgraduate Award (UIPA) funded by UNSW
-* 2013, Erasmus Mundus Scholarship Award by European Union
-* 2010, National Undergraduate Mathematical Contest in Modeling (Provincial Award)
+* National Scholarship for Ph.D Students.
+* 2022 Ranked 3th in CVPR 2022 Ego4D Natural Language Query Challenge.
+* 2021 Ranked 3th in NIST TRECVID 2021 Ad-hoc Video Search (AVS) Challenge. (20+ teams)
+* 2021 Ranked 4th in CVPR 2021 HOMAGE Scene-graph Generation Challenge.
+* 2020 Ranked 2th in ACM MM 2020 Video Relationship Understanding Grand Challenge.
+* 2019 Ranked 2nd in ACM MM 2019 Video Relationship Understanding Grand Challenge.
+* Best Method Prize in ACM MM 2019 Grand Challenge.
+* 2019 First Class Scholarship for Ph.D Students from 2018 to 2021.
+* 2015 First Prize in National University Mathematical Modeling Competition of Beijing Area.
 
-Grants & Fellowships
+Services
 ======
-* 2023-24, **Global Research and Innovation Partnerships (GRIP)** (~$20K AUD, PI), UNSW GLOBAL DIVISION. Title: Index-based Insurance for Agriculture Risk Transfer under a Changing Climate. 
-* 2023, **Helmholtz Visiting Researcher Grant** (~$20K EUR, PI), Helmholtz Association of German Research Centers. Title: A novel method to estimate flood extremes using spectrally transformed climate information.
+* Conference Reviewer for CVPR, ICCV, ECCV, NeurIPS, AAAI, ACM MM, ICME.
+* Journal Reviewer for IJCV, TCSVT, TMM, JATS.
 
 Publications
 ======
@@ -86,21 +80,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Languages
 ======
-Mandarin(Native), English(Fluent), German(Basic), French(Basic)
+Mandarin(Native), English(Fluent)
+
 
 Skills & Expertise 
 ======

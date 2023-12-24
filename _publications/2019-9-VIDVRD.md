@@ -2,7 +2,7 @@
 title: "Relation understanding in videos"
 collection: publications
 permalink: /publication/2019-9-paper-VIDVRD
-excerpt: 'This paper proposes a effective video relation detection model. <br/><img src='/images/crop.png'>'
+excerpt: 'This paper proposes a effective video relation detection model.'
 date: 2019-9-01
 venue: 'Proceedings of the 27th ACM International Conference on Multimedia'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3343031.3356080'

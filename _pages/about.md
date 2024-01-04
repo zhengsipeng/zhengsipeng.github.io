@@ -42,7 +42,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 ## Publications
 <table>
 <tr>
-  <td> <img src="./images/pubs/steve_eye_23.png", style="width: 100px;"/>
+  <td> <img src="./images/pubs/steve_eye_23.png" style="width: 100px;"/>
   </td>
   <td> Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds
   </td>

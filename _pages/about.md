@@ -86,7 +86,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/nofrill_23.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-      <p><strong>No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection</strong><br>
+      <p><b style="font-size: 18px">No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection</b><br>
         Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
         arxiv
       </p>
@@ -101,7 +101,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/cvpr23_open.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-      <p><b>Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework</b><br>
+      <p><b style="font-size: 18px">Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework</b><br>
         <b>Sipeng Zheng</b>, Boshen Xu, Qin Jin<br>
         CVPR, 2023
       </p>
@@ -115,7 +115,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/aaai23_audio.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-      <p><b>Accommodating audio modality in CLIP for multimodal processing</b><br>
+      <p><b style="font-size: 18px">Accommodating audio modality in CLIP for multimodal processing</b><br>
         Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, <b>Sipeng Zheng</b>, Qin Jin<br>
         AAAI, 2023
       </p>
@@ -128,7 +128,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/cvpr22_nlq.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-      <p><b>Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos</b><br>
+      <p><b style="font-size: 18px">Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos</b><br>
         <b>Sipeng Zheng</b>, Bei Liu, Jianlong Fu, Wen-Huang Cheng<br>
         IEEC, 2023
       </p>

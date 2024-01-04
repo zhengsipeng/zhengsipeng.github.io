@@ -14,8 +14,9 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 
 
 ## Research Interest
-* Visual relation detection, scene graph generation, action recognition.
-* Large multimodal model learning.
+* Computer vision and human behavior understanding
+* Multimodal understanding with large language models
+* Open-world embodied agent learning
 
 
 ## Work Experience
@@ -33,6 +34,11 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
   * Beijing Academy of Artificial Intelligence, Beijing, China
   * Duties included: multi-lingual language-vision-audio pre-training.
 
+
+## Education
+======
+* B.Eng. in Computer Science and Engineering, Renmin University of China, China, 2023
+* Ph.D. in Computer Science and Engineering, Renmin University of China, China, 2023
 
 
 ## Publications

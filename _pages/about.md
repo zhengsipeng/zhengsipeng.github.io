@@ -135,7 +135,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/cvpr22_nlq.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/eccv22_fewshot.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning</b><br>
         <b>Sipeng Zheng</b>, Shizhe Chen, Qin Jin<br>
@@ -147,15 +147,23 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
   </td>
 </tr>
 
+<tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/cvpr22_vrdformer.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+      <p style="font-size: 15px"><b style="font-size: 18px">VRDFormer: End-to-end video visual relation detection with transformer</b><br>
+        <b>Sipeng Zheng</b>, Shizhe Chen, Qin Jin<br>
+        CVPR Oral, 2022
+      <br>
+          [<a target="_blank" href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf">pdf</a>] 
+          [<a target="_blank" href="https://github.com/zhengsipeng/VRDFormer_VRD">code</a>]
+      </p>
+  </td>
+</tr>
+
 </table>
 
 
 
-
-* VRDFormer: End-to-end video visual relation detection with transformer (CVPR 2022 Oral).  
-**Sipeng Zheng**, Shizhe Chen, Qin Jin.
-[[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf)
-[[code]](https://github.com/zhengsipeng/VRDFormer_VRD)
 
 
 * Exploring anchor-based detection for ego4d natural language query (CVPR 2022 workshop). 

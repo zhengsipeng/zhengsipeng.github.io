@@ -94,6 +94,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
       </p>
       <p> 
           [<a target="_blank" href="https://arxiv.org/abs/2307.10567">pdf</a>] 
+          [<a target="_blank" href="https://github.com/QiQAng/AwareNet">code</a>]
       </p>
   </td>
 </tr>
@@ -125,15 +126,25 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
       </p>
   </td>
 </tr>
+
+<tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/cvpr23_open.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+      <p><b>Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos</b><br>
+        <b>Sipeng Zheng</b>, Bei Liu, Jianlong Fu, Wen-Huang Cheng<br>
+        IEEC, 2023
+      </p>
+      <p> 
+          [<a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10043460">pdf</a>] 
+          [<a target="_blank" href="https://github.com/QiQAng/AwareNet">code</a>]
+      </p>
+  </td>
+</tr>
+
 </table>
 
 
 
-
-* Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos (IEEC 2023). 
-**Sipeng Zheng**, Bei Liu, Jianlong Fu, Wen-Huang Cheng. 
-[[pdf]](https://ieeexplore.ieee.org/abstract/document/10043460)
-[[code]](https://github.com/QiQAng/AwareNet)
 
 
 * Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning (ECCV 2022). 

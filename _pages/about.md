@@ -61,8 +61,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
       <p><b style="font-size: 18px">LLaMA Rider: Spurring Large Language Models to Explore the Open World</b><br>
         Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
         arxiv
-      </p>
-      <p> 
+        <br>
           [<a target="_blank" href="https://arxiv.org/abs/2310.08922">pdf</a>] 
           [<a target="_blank" href="https://github.com/PKU-RL/LLaMA-Rider">code</a>] 
       </p>
@@ -75,8 +74,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
       <p><b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
         Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
         ACM MM, 2023
-      </p>
-      <p> 
+      <br>
           [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
           [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>]
           [<a target="_blank" href="https://xuboshen.github.io/POV/">page</a>] 
@@ -90,8 +88,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
       <p><b style="font-size: 18px">No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection</b><br>
         Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
         arxiv
-      </p>
-      <p> 
+      <br>
           [<a target="_blank" href="https://arxiv.org/abs/2307.10567">pdf</a>] 
           [<a target="_blank" href="https://github.com/QiQAng/AwareNet">code</a>]
       </p>
@@ -105,8 +102,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
       <p><b style="font-size: 18px">Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework</b><br>
         <b>Sipeng Zheng</b>, Boshen Xu, Qin Jin<br>
         CVPR, 2023
-      </p>
-      <p> 
+      <br>
           [<a target="_blank" href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.pdf">pdf</a>] 
       </p>
   </td>
@@ -119,8 +115,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
       <p><b style="font-size: 18px">Accommodating audio modality in CLIP for multimodal processing</b><br>
         Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, <b>Sipeng Zheng</b>, Qin Jin<br>
         AAAI, 2023
-      </p>
-      <p> 
+      <br>
           [<a target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/view/26153/25925">pdf</a>] 
       </p>
   </td>
@@ -132,8 +127,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
       <p><b style="font-size: 18px">Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos</b><br>
         <b>Sipeng Zheng</b>, Bei Liu, Jianlong Fu, Wen-Huang Cheng<br>
         IEEC, 2023
-      </p>
-      <p> 
+      <br>
           [<a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10043460">pdf</a>] 
           [<a target="_blank" href="https://github.com/QiQAng/AwareNet">code</a>]
       </p>
@@ -146,8 +140,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
       <p><b style="font-size: 18px">Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning</b><br>
         <b>Sipeng Zheng</b>, Bei Liu, Jianlong Fu, Wen-Huang Cheng<br>
         EECV, 2022
-      </p>
-      <p> 
+      <br>
           [<a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10043460">pdf</a>] 
           [<a target="_blank" href="https://github.com/QiQAng/AwareNet">code</a>]
       </p>

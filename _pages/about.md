@@ -160,22 +160,33 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
   </td>
 </tr>
 
+<tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/cvpr22_nlq.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+      <p style="font-size: 15px"><b style="font-size: 18px">Exploring anchor-based detection for ego4d natural language query</b><br>
+        <b>Sipeng Zheng</b>, Qi Zhang, Bei Liu, Qin Jin, Jianlong Fu<br>
+        CVPR Workshop, 2022
+      <br>
+          [<a target="_blank" href="https://arxiv.org/abs/2208.05375">pdf</a>] 
+          [<a target="_blank" href="https://github.com/QiQAng/AwareNet">code</a>]
+      </p>
+  </td>
+</tr>
+
+<tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/cvpr22_vrdformer.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+      <p style="font-size: 15px"><b style="font-size: 18px">Skeleton-based interactive graph network for human object interaction detection</b><br>
+        <b>Sipeng Zheng</b>, Shizhe Chen, Qin Jin<br>
+        ICME, 2020
+      <br>
+          [<a target="_blank" href="https://ieeexplore.ieee.org/document/9102755">pdf</a>] 
+          [<a target="_blank" href="https://github.com/zhengsipeng/SIGN">code</a>]
+      </p>
+  </td>
+</tr>
+
 </table>
-
-
-
-
-
-* Exploring anchor-based detection for ego4d natural language query (CVPR 2022 workshop). 
-**Sipeng Zheng**, Qi Zhang, Bei Liu, Qin Jin, Jianlong Fu. 
-[[pdf]](https://arxiv.org/abs/2208.05375)
-[[code]](https://github.com/QiQAng/AwareNet)
-
-
-* Skeleton-based interactive graph network for human object interaction detection (ICME 2020). 
-**Sipeng Zheng**, Shizhe Chen, Qin Jin.
-[[pdf]](https://ieeexplore.ieee.org/document/9102755)
-[[code]](https://github.com/zhengsipeng/SIGN)
 
 
 * Visual relation detection with multi-level attention (ACM MM 2019). 

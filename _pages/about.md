@@ -74,7 +74,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
   <td style="border: none;"> <img src="./images/pubs/mm23_pov.png" width="100%" height="100px"/></td>
   <td> 
       <p><strong>POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</strong><br>
-        Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+        Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin
         ACM MM, 2023
       </p>
       <p> 

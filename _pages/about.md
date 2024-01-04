@@ -42,18 +42,20 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 ## Publications
 
 <!-- Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds -->
-<div class="row" id="seq">
-  <div class="col-md-3 panel">
-    <img src="./images/pubs/steve_eye_23.png" width="100%" height="100px">
+<div class="container">
+  <div class="row" id="seq">
+    <div class="col-md-3 panel">
+      <img src="./images/pubs/steve_eye_23.png" width="100%" height="100px">
+    </div>
+    <div class="col-md-9">
+      <h5 class="text-muted">Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</h5>
+      <b>Sipeng Zheng</b>, Jiazheng Liu, Yicheng Feng, Zongqing Lu <br>
+      arxiv <br>
+      <p> [<a target="_blank" href="https://arxiv.org">pdf</a>]</p>
+      <br>
+    </div>
   </div>
-  <div class="col-md-9">
-    <h5 class="text-muted">Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</h5>
-    <b>Sipeng Zheng</b>, Jiazheng Liu, Yicheng Feng, Zongqing Lu <br>
-    arxiv <br>
-    <p> [<a target="_blank" href="https://arxiv.org">pdf</a>]</p>
-    <br>
-  </div>
-</div>
+<div>
 
 * Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds (2023). 
 **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu. 

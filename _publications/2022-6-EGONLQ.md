@@ -14,5 +14,5 @@ In this paper we provide the technique report of Ego4D natural language query ch
 
 <figure style="text-align: center;">
 <img src="../images/pubs/cvpr22_nlq.jpg" width="100%" height="100%" alt="替代文本">
-<figcaption style="text-align: center; font-size: 18px">Figure 1</figcaption>
+<figcaption style="text-align: center; font-size: 18px">Figure 1: Overall framework of our pipeline.</figcaption>
 </figure>

@@ -40,7 +40,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 
 
 ## Publications
-<table border="0" style="border:none;">
+<table border="0" style="border:none; width: 100%;">
 <tr>
   <td> <img src="./images/pubs/steve_eye_23.png" style="width: 300px;"/></td>
   <td> 

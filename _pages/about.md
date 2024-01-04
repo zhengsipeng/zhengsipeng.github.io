@@ -4,21 +4,18 @@ title: "Sipeng Zheng"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
 
-This is Sipeng Zheng's personal homepage. 
-
-## A short introduction
 I'm Sipeng Zheng, a researcher affiliated with the Multimodal Interaction Research Group at the [Beijing Academy of Artificial Intelligence(BAAI)](https://www.baai.ac.cn), , where I collaborate with [Prof. Zongqing Lu](https://z0ngqing.github.io). 
 I obtained my PhD and bachelor degree from [Renmin University of China (RUC)](https://en.ruc.edu.cn), under the guidance of [Prof. Qin Jin](https://www.jin-qin.com). 
 My primary research focus revolves around human behavior understanding, vision-and-language learning, and embodied artificial intelligence.
+My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV](http://zhengsipeng.github.io/files/cv_zsp_eng.pdf).
 
 
 ## Research Interest
-* visual relation detection, scene graph generation, action recognition and etc.
-* large multimodal model learning.
+* Visual relation detection, scene graph generation, action recognition.
+* Large multimodal model learning.
 
 
 ## Publications
@@ -112,6 +109,3 @@ Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, **Sipeng Zheng**, Qin Jin.
 ## Services
 * Conference Reviewer for CVPR, ICCV, ECCV, NeurIPS, AAAI, ACM MM, ICME.
 * Journal Reviewer for IJCV, TCSVT, TMM, JATS.
-
-## For more information
-More info about Sipeng Zheng can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV](http://zhengsipeng.github.io/files/cv_zsp_eng.pdf).

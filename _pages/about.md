@@ -139,7 +139,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning</b><br>
         <b>Sipeng Zheng</b>, Shizhe Chen, Qin Jin<br>
-        EECV, 2022
+        ECCV, 2022
       <br>
           [<a target="_blank" href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640293.pdf">pdf</a>] 
           [<a target="_blank" href="https://github.com/zhengsipeng/HCL-FSAR">code</a>]
@@ -186,17 +186,34 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
   </td>
 </tr>
 
+<tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/mm2019.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+      <p style="font-size: 15px"><b style="font-size: 18px">Visual relation detection with multi-level attention</b><br>
+        <b>Sipeng Zheng</b>, Shizhe Chen, Qin Jin<br>
+        ACM MM, 2019
+      <br>
+          [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3343031.3350962">pdf</a>] 
+      </p>
+  </td>
+</tr>
+
+<tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/mm2019_gc.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+      <p style="font-size: 15px"><b style="font-size: 18px">Relation understanding in videos</b><br>
+        <b>Sipeng Zheng</b>, Xiangyu Chen, Shizhe Chen, Qin Jin<br>
+        ACM MM Grand Challenge, 2019 
+      <br>
+          [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3343031.3356080">pdf</a>] 
+      </p>
+  </td>
+</tr>
+
 </table>
 
 
-* Visual relation detection with multi-level attention (ACM MM 2019). 
-**Sipeng Zheng**, Shizhe Chen, Qin Jin.
-[[pdf]](https://dl.acm.org/doi/10.1145/3343031.3350962)
 
-
-* Relation understanding in videos (ACM MM 2019 grand challenge). 
-**Sipeng Zheng**, Xiangyu Chen, Shizhe Chen, and Qin Jin.
-[[pdf]](https://dl.acm.org/doi/10.1145/3343031.3356080)
 
   
 ## Awards

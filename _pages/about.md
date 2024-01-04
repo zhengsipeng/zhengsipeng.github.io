@@ -57,7 +57,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/llama_rider_23.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-      <p><strong>LLaMA Rider: Spurring Large Language Models to Explore the Open World</strong><br>
+      <p><b style="font-size: 18px">LLaMA Rider: Spurring Large Language Models to Explore the Open World</b><br>
         Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
         arxiv
       </p>
@@ -71,7 +71,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/mm23_pov.png" width="500px" height="100px"/></td>
   <td style="border: none;"> 
-      <p><strong>POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</strong><br>
+      <p><b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
         Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
         ACM MM, 2023
       </p>

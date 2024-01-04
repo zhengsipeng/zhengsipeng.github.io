@@ -18,6 +18,23 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 * Large multimodal model learning.
 
 
+Work Experience
+======
+* Jul. 2023 - Current: Research Scientist
+  * Beijing Academy of Artificial Intelligence, Beijing, China
+  * Duties included: large multimodal model, multi-agent learning
+
+
+* Apr. 2022 - Oct. 2022: Research Intern
+  * Microsoft Research Asia, Beijing, China
+  * Duties included: temporal sentence grounding for long-term videos.
+
+* Nov. 2021 - Apr. 2022: Research Intern
+  * Beijing Academy of Artificial Intelligence, Beijing, China
+  * Duties included: multi-lingual language-vision-audio pre-training.
+
+
+
 ## Publications
 
 * Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds (2023). 

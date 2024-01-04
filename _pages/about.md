@@ -70,6 +70,20 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
   </td>
 </tr>
 
+<tr style="border: none;">
+  <td> <img src="./images/pubs/llama_rider_23.png" style="height: 100px; width: 500px;"/></td>
+  <td> 
+      <p><strong>POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</strong><br>
+        Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+        arxiv
+      </p>
+      <p> 
+          [<a target="_blank" href="https://arxiv.org/abs/2310.08922">pdf</a>] 
+          [<a target="_blank" href="https://github.com/PKU-RL/LLaMA-Rider">code</a>] 
+      </p>
+  </td>
+</tr>
+
 </table>
 
 

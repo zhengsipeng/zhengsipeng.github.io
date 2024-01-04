@@ -60,10 +60,12 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
   <td> <img src="./images/pubs/llama_rider_23.png" style="height: 100px; width: 500px;"/></td>
   <td> 
       <p><strong>LLaMA Rider: Spurring Large Language Models to Explore the Open World</strong><br>
-        <b>Sipeng Zheng</b>, Jiazheng Liu, Yicheng Feng, Zongqing Lu<br>
-        arxiv<br></p>
+        Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
+        arxiv
+      </p>
   </td>
 </tr>
+
 </table>
 
 

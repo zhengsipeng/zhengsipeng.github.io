@@ -58,7 +58,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/llama_rider_23.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-      <p><b style="font-size: 18px">LLaMA Rider: Spurring Large Language Models to Explore the Open World</b><br>
+      <p style="font-size: 15px"><b style="font-size: 18px">LLaMA Rider: Spurring Large Language Models to Explore the Open World</b><br>
         Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
         arxiv
         <br>
@@ -71,7 +71,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/mm23_pov.png" width="500px" height="100px"/></td>
   <td style="border: none;"> 
-      <p><b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
+      <p style="font-size: 15px"><b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
         Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
         ACM MM, 2023
       <br>
@@ -85,7 +85,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/nofrill_23.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-      <p><b style="font-size: 18px">No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection</b><br>
+      <p style="font-size: 15px"><b style="font-size: 18px">No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection</b><br>
         Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
         arxiv
       <br>
@@ -99,7 +99,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/cvpr23_open.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-      <p><b style="font-size: 18px">Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework</b><br>
+      <p style="font-size: 15px"><b style="font-size: 18px">Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework</b><br>
         <b>Sipeng Zheng</b>, Boshen Xu, Qin Jin<br>
         CVPR, 2023
       <br>
@@ -112,7 +112,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/aaai23_audio.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-      <p><b style="font-size: 18px">Accommodating audio modality in CLIP for multimodal processing</b><br>
+      <p style="font-size: 15px"><b style="font-size: 18px">Accommodating audio modality in CLIP for multimodal processing</b><br>
         Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, <b>Sipeng Zheng</b>, Qin Jin<br>
         AAAI, 2023
       <br>
@@ -124,7 +124,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/cvpr22_nlq.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-      <p><b style="font-size: 18px">Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos</b><br>
+      <p style="font-size: 15px"><b style="font-size: 18px">Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos</b><br>
         <b>Sipeng Zheng</b>, Bei Liu, Jianlong Fu, Wen-Huang Cheng<br>
         IEEC, 2023
       <br>
@@ -137,7 +137,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/cvpr22_nlq.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-      <p><b style="font-size: 18px">Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning</b><br>
+      <p style="font-size: 15px"><b style="font-size: 18px">Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning</b><br>
         <b>Sipeng Zheng</b>, Shizhe Chen, Qin Jin<br>
         EECV, 2022
       <br>

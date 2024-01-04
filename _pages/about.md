@@ -20,7 +20,6 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 
 
 ## Work Experience
-======
 * Jul. 2023 - Current: Research Scientist
   * Beijing Academy of Artificial Intelligence, Beijing, China
   * Duties included: large multimodal model, multi-agent learning
@@ -36,13 +35,11 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 
 
 ## Education
-======
 * B.Eng. in Computer Science and Engineering, Renmin University of China, China, 2023
 * Ph.D. in Computer Science and Engineering, Renmin University of China, China, 2023
 
 
 ## Publications
-
 * Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds (2023). 
 **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu. 
 [[pdf]](https://arxiv.org/abs/2310.13255)

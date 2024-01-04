@@ -42,8 +42,8 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 ## Publications
 <table border="0" style="border:none; width: 100%;">
 <tr>
-  <td> <img src="./images/pubs/steve_eye_23.png" style="width: 300px;"/></td>
-  <td> 
+  <td> <img src="./images/pubs/steve_eye_23.png" style="width: 400px;"/></td>
+  <td style="border: none;"> 
       <p><strong>Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</strong><br>
         <b>Sipeng Zheng</b>, Jiazheng Liu, Yicheng Feng, Zongqing Lu<br>
         arxiv<br></p>
@@ -52,7 +52,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 </tr>
 
 <tr>
-  <td> <img src="./img/pubs/llama_rider_23.png" style="width: 300px;"/></td>
+  <td> <img src="./img/pubs/llama_rider_23.png" style="width: 400px;"/></td>
   <td> 
       <p><strong>LLaMA Rider: Spurring Large Language Models to Explore the Open World</strong><br>
         <b>Sipeng Zheng</b>, Jiazheng Liu, Yicheng Feng, Zongqing Lu<br>

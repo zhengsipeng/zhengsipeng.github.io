@@ -42,6 +42,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 ## Publications
 * Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds (2023). 
 **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu. 
+
 [[pdf]](https://arxiv.org/abs/2310.13255)
 [[page]](https://sites.google.com/view/steve-eye) 
 [[code]](https://github.com/BAAI-Agents/Steve-Eye)

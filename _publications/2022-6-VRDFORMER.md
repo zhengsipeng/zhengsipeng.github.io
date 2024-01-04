@@ -17,12 +17,12 @@ Visual relation understanding plays an essential role for holistic video underst
 
 
 <figure style="text-align: center;">
-<figcaption style="text-align: center; font-size: 18px">Table 1: Comparison with previous works on the relation detection task.</figcaption>
 <img src="../images/pubs_exps/cvpr22_vrdformer_1.png" width="200px" height="200px" alt="替代文本">
+<figcaption style="text-align: center; font-size: 18px">Table 1: Comparison with previous works on the relation detection task.</figcaption>
 </figure>
 
 
 <figure style="text-align: center;">
-<figcaption style="text-align: center; font-size: 18px">Table 2: Comparison results with previous state-of-the-art works on the relation tagging task.</figcaption>
 <img src="../images/pubs_exps/cvpr22_vrdformer_2.png" width="200px" height="200px" alt="替代文本">
+<figcaption style="text-align: center; font-size: 18px">Table 2: Comparison results with previous state-of-the-art works on the relation tagging task.</figcaption>
 </figure>

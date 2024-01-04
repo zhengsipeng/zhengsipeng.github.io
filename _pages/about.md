@@ -41,10 +41,11 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 
 ## Publications
 <table border="0" style="border:none; width: 100%;">
+
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/steve_eye_23.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-        <p style="font-size: 12px"><b style="font-size: 18px">Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</b><br>
+        <p style="font-size: 15px"><b style="font-size: 18px">Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</b><br>
         <b>Sipeng Zheng</b>, Jiazheng Liu, Yicheng Feng, Zongqing Lu<br>
         arxiv<br>
         [<a target="_blank" href="https://arxiv.org/abs/2310.13255">pdf</a>] 
@@ -139,13 +140,25 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
   </td>
 </tr>
 
+<tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/cvpr22_nlq.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+      <p><b style="font-size: 18px">Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning</b><br>
+        <b>Sipeng Zheng</b>, Bei Liu, Jianlong Fu, Wen-Huang Cheng<br>
+        EECV, 2022
+      </p>
+      <p> 
+          [<a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10043460">pdf</a>] 
+          [<a target="_blank" href="https://github.com/QiQAng/AwareNet">code</a>]
+      </p>
+  </td>
+</tr>
+
 </table>
 
 
 
 
-
-* Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning (ECCV 2022). 
 **Sipeng Zheng**, Shizhe Chen, Qin Jin.
 [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640293.pdf)
 [[code]](https://github.com/zhengsipeng/HCL-FSAR)

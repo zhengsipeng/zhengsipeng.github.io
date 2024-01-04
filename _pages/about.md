@@ -87,7 +87,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/nofrill_23.png" style="height: 100px; width: 500px;"/></td>
-  <td> 
+  <td style="border: none;"> 
       <p><strong>No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection</strong><br>
         Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
         arxiv

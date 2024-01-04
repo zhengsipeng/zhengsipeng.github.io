@@ -71,7 +71,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/mm23_pov.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/mm23_pov.png" width="100%" height="100px"/></td>
   <td> 
       <p><strong>POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</strong><br>
         Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
@@ -79,33 +79,27 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
       </p>
       <p> 
           [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
-          [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>] 
+          [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>]
+          [<a target="_blank" href="https://xuboshen.github.io/POV/">page</a>] 
+      </p>
+  </td>
+</tr>
+
+<tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/nofrill_23.png" style="height: 100px; width: 500px;"/></td>
+  <td> 
+      <p><strong>No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection</strong><br>
+        Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
+        arxiv
+      </p>
+      <p> 
+          [<a target="_blank" href="https://arxiv.org/abs/2310.08922">pdf</a>] 
+          [<a target="_blank" href="https://github.com/PKU-RL/LLaMA-Rider">code</a>] 
       </p>
   </td>
 </tr>
 
 </table>
-
-
-* Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds (2023). 
-**Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu. 
-
-[[pdf]](https://arxiv.org/abs/2310.13255)
-[[page]](https://sites.google.com/view/steve-eye) 
-[[code]](https://github.com/BAAI-Agents/Steve-Eye)
-
-
-* LLaMA Rider: Spurring Large Language Models to Explore the Open World (2023). 
-Yicheng Feng, Yuxuan Wang, Jiazheng Liu, **Sipeng Zheng**, Zongqing Lu. 
-[[pdf]](https://arxiv.org/abs/2310.08922)
-[[code]](https://github.com/PKU-RL/LLaMA-Rider)
-
-
-* POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World (ACM MM 2023).  
-Boshen Xu, **Sipeng Zheng**, Qin Jin.
-[[pdf]](https://dl.acm.org/doi/10.1145/3581783.3612484)
-[[page]](https://xuboshen.github.io/POV/) 
-[[[code]]](https://github.com/xuboshen/pov_acmmm2023)
 
 
 * No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection (2023). 

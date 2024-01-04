@@ -78,8 +78,8 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
         ACM MM, 2023
       </p>
       <p> 
-          [<a target="_blank" href="https://arxiv.org/abs/2310.08922">pdf</a>] 
-          [<a target="_blank" href="https://github.com/PKU-RL/LLaMA-Rider">code</a>] 
+          [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
+          [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>] 
       </p>
   </td>
 </tr>

@@ -11,4 +11,8 @@ citation: 'S Zheng, S Chen, Q Jin. "Skeleton-based interactive graph network for
 The human-object interaction detection (HOI) task aims to localize human and objects in an input image and predict their relationships, which is essential for understanding human behaviors in complex scenes. Due to the human-centric nature of the HOI task, it is beneficial to make use of human-related knowledge such as human skeletons to infer fine-grained human-object interactions. However, previous works simply embed skeletons via convolutional networks, which fail to capture structured connections in human skeletons and ignore the object influence. In this work, we propose a Skeleton-based Interactive Graph Network (SIGN) to capture fine-grained human-object interactions via encoding interactive graphs between keypoints in human skeletons and object from spatial and appearance aspects. Experimental results demonstrate the effectiveness of our SIGN model, which achieves significant improvement over baselines and outperforms other state-of-the-art methods on two benchmarks.
 
 
-![image missing](../images/pubs/icme20_skeleton.jpg "Figure 1")
+
+<figure>
+<img src="../images/pubs/icme20_skeleton.jpg" width="100%" height="100%" alt="替代文本">
+<figcaption style="text-align: center; font-size: 18px">Figure 1</figcaption>
+</figure>

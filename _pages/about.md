@@ -98,8 +98,9 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
   </td>
 </tr>
 
+
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/nofrill_23.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/cvpr23_open.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p><b>Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework</b><br>
         <b>Sipeng Zheng</b>, Boshen Xu, Qin Jin<br>
@@ -110,13 +111,23 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
       </p>
   </td>
 </tr>
+
+
+<tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/cvpr23_open.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+      <p><b>Accommodating audio modality in CLIP for multimodal processing</b><br>
+        Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, <b>Sipeng Zheng</b>, Qin Jin<br>
+        AAAI, 2023
+      </p>
+      <p> 
+          [<a target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/view/26153/25925">pdf</a>] 
+      </p>
+  </td>
+</tr>
 </table>
 
 
-
-* Accommodating audio modality in CLIP for multimodal processing (AAAI 2023). 
-Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, **Sipeng Zheng**, Qin Jin. 
-[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26153/25925)
 
 
 * Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos (IEEC 2023). 

@@ -11,4 +11,8 @@ citation: 'S Zheng, Q Zhang, B Liu, Q Jin, J Fu. "Exploring anchor-based detecti
 In this paper we provide the technique report of Ego4D natural language query challenge in CVPR 2022. Natural language query task is challenging due to the requirement of comprehensive understanding of video contents. Most previous works address this task based on third-person view datasets while few research interest has been placed in the ego-centric view by far. Great progress has been made though, we notice that previous works can not adapt well to ego-centric view datasets e.g., Ego4D mainly because of two reasons: 1) most queries in Ego4D have a excessively small temporal duration (e.g., less than 5 seconds); 2) queries in Ego4D are faced with much more complex video understanding of long-term temporal orders. Considering these, we propose our solution of this challenge to solve the above issues.
 
 
-![image missing](../images/pubs/cvpr22_nlq.jpg "Figure 1")
+
+<figure style="text-align: center;">
+<img src="../images/pubs/cvpr22_nlq.jpg" width="100%" height="100%" alt="替代文本">
+<figcaption style="text-align: center; font-size: 18px">Figure 1</figcaption>
+</figure>

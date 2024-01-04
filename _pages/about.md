@@ -40,16 +40,17 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 
 
 ## Publications
-<table>
+<table border="0" style="border:none;">
 <tr>
   <td> <img src="./images/pubs/steve_eye_23.png" style="width: 300px;"/></td>
   <td> 
       <p><strong>Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</strong><br>
         <b>Sipeng Zheng</b>, Jiazheng Liu, Yicheng Feng, Zongqing Lu<br>
-        arxiv<br>
+        arxiv<br></p>
   </td>
 </tr>
 </table>
+
 <!-- Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds -->
 <div class="container">
   <div class="row" id="seq">

@@ -44,7 +44,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/steve_eye_23.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-        <p style="font-size: 18px"><strong>Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</strong><br>
+        <p style="font-size: 18px"><b>Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</b><br>
         <b>Sipeng Zheng</b>, Jiazheng Liu, Yicheng Feng, Zongqing Lu<br>
         arxiv
         </p>
@@ -98,17 +98,20 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
   </td>
 </tr>
 
+<tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/nofrill_23.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+      <p><b>Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework</b><br>
+        <b>Sipeng Zheng</b>, Boshen Xu, Qin Jin<br>
+        CVPR, 2023
+      </p>
+      <p> 
+          [<a target="_blank" href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.pdf">pdf</a>] 
+      </p>
+  </td>
+</tr>
 </table>
 
-
-* No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection (2023). 
-Qi Zhang, **Sipeng Zheng**, Qin Jin.
-[[pdf]](https://arxiv.org/abs/2307.10567)
-
-
-* Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework (CVPR 2023). 
-**Sipeng Zheng**, Boshen Xu, Qin Jin.
-[[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.pdf)
 
 
 * Accommodating audio modality in CLIP for multimodal processing (AAAI 2023). 

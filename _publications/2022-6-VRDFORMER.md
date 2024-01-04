@@ -18,6 +18,6 @@ Visual relation understanding plays an essential role for holistic video underst
 </div>
 
 <figure style="text-align: center;">
-<img src="../images/pubs_exps/cvpr22_vrdformer_1.png" width="100%" height="100%" alt="替代文本">
+<img src="../images/pubs_exps/cvpr22_vrdformer_1.png" width="70%" height="70%" alt="替代文本">
 <figcaption style="text-align: center; font-size: 18px">Figure 2</figcaption>
 </figure>

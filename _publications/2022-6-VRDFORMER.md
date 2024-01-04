@@ -12,12 +12,12 @@ Visual relation understanding plays an essential role for holistic video underst
 
 <div style="text-align: center;">
 <figure style="text-align: center;">
+<figcaption style="text-align: center; font-size: 18px">Figure 1: Overall framework of the query-based relation instance generation module in our VRDFormer. It consists of: (a) framelevel object pair detection (blue module), which detects object pairs based on static or recurrent queries for each frame; (b) tracklet pair updating (orange module), which autoregressively updates a tracklet pair memory frame by frame. (c) relation classification (grey module), which predicts relations per frame for each detected tracklet pair with temporal aggregation to model the long-term dependencies</figcaption>
 <img src="../images/pubs/cvpr22_vrdformer.jpg" width="100%" height="100%" alt="替代文本">
-<figcaption style="text-align: center; font-size: 18px">Figure 1</figcaption>
 </figure>
 </div>
 
 <figure style="text-align: center;">
-<img src="../images/pubs_exps/cvpr22_vrdformer_1.png" width="70%" height="70%" alt="替代文本">
 <figcaption style="text-align: center; font-size: 18px">Figure 2</figcaption>
+<img src="../images/pubs_exps/cvpr22_vrdformer_1.png" width="70%" height="70%" alt="替代文本">
 </figure>

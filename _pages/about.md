@@ -44,7 +44,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/steve_eye_23.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-        <p><strong>Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</strong><br>
+        <p style="font-size: 18px"><strong>Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</strong><br>
         <b>Sipeng Zheng</b>, Jiazheng Liu, Yicheng Feng, Zongqing Lu<br>
         arxiv
         </p>
@@ -74,7 +74,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
   <td style="border: none;"> <img src="./images/pubs/mm23_pov.png" width="500px" height="100px"/></td>
   <td style="border: none;"> 
       <p><strong>POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</strong><br>
-        Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin
+        Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
         ACM MM, 2023
       </p>
       <p> 
@@ -93,8 +93,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
         arxiv
       </p>
       <p> 
-          [<a target="_blank" href="https://arxiv.org/abs/2310.08922">pdf</a>] 
-          [<a target="_blank" href="https://github.com/PKU-RL/LLaMA-Rider">code</a>] 
+          [<a target="_blank" href="https://arxiv.org/abs/2307.10567">pdf</a>] 
       </p>
   </td>
 </tr>

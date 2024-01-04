@@ -174,7 +174,7 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/cvpr22_vrdformer.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/icme20_skeleton.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">Skeleton-based interactive graph network for human object interaction detection</b><br>
         <b>Sipeng Zheng</b>, Shizhe Chen, Qin Jin<br>

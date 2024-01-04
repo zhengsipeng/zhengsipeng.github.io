@@ -63,6 +63,10 @@ My CV can be found in [CV](https://zhengsipeng.github.io/cv/) or [downloaded CV]
         Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
         arxiv
       </p>
+      <p> 
+          [<a target="_blank" href="https://arxiv.org/abs/2310.08922">pdf</a>] 
+          [<a target="_blank" href="https://github.com/PKU-RL/LLaMA-Rider">code</a>] 
+      </p>
   </td>
 </tr>
 

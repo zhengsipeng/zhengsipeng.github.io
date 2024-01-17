@@ -47,7 +47,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/files/cv_
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</b><br>
         <b>Sipeng Zheng</b>, Jiazheng Liu, Yicheng Feng, Zongqing Lu<br>
-        arxiv<br>
+        ICLR 2024<br>
         [<a target="_blank" href="https://arxiv.org/abs/2310.13255">pdf</a>] 
         [<a target="_blank" href="https://github.com/BAAI-Agents/Steve-Eye">code</a>] 
         [<a target="_blank" href="https://sites.google.com/view/steve-eye">page</a>]

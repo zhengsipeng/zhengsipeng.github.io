@@ -228,5 +228,5 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/files/cv_
 * 2015 First Prize in National University Mathematical Modeling Competition of Beijing Area.
 
 ## Services
-* Conference Reviewer for CVPR, ICCV, ECCV, NeurIPS, AAAI, ACM MM, ICME.
+* Conference Reviewer for CVPR, ICCV, ECCV, ACCV, NeurIPS, AAAI, ACM MM, ICME.
 * Journal Reviewer for IJCV, TCSVT, TMM, JATS.

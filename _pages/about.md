@@ -64,16 +64,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/files/cv_
   </td>
 </tr>
 
-<tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/unicode_24.png" style="height: 100px; width: 500px;"/></td>
-  <td style="border: none;"> 
-        <p style="font-size: 15px"><b style="font-size: 18px">UniCode: Learning a Unified Codebook for Multimodal Large Language Models</b><br>
-        <b>Sipeng Zheng</b>, Bohan Zhou, Yicheng Feng, Ye Wang, Zongqing Lu<br>
-        ICLR 2024<br>
-        [<a target="_blank" href="https://arxiv.org/abs/2310.13255">pdf</a>] 
-        </p>
-  </td>
-</tr>
+
 
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/steve_eye_23.png" style="height: 100px; width: 500px;"/></td>

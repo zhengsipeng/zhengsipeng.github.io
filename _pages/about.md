@@ -43,6 +43,39 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/files/cv_
 <table border="0" style="border:none; width: 100%;">
 
 <tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/spaformer_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+        <p style="font-size: 15px"><b style="font-size: 18px">SPAFormer: Sequential 3D Part Assembly with Transformers</b><br>
+        Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+        arxiv<br>
+        [<a target="_blank" href="https://arxiv.org/abs/2310.13255">pdf</a>] 
+        </p>
+  </td>
+</tr>
+
+<tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/unicode_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+        <p style="font-size: 15px"><b style="font-size: 18px">UniCode: Learning a Unified Codebook for Multimodal Large Language Models</b><br>
+        <b>Sipeng Zheng</b>, Bohan Zhou, Yicheng Feng, Ye Wang, Zongqing Lu<br>
+        arxiv<br>
+        [<a target="_blank" href="https://arxiv.org/abs/2310.13255">pdf</a>] 
+        </p>
+  </td>
+</tr>
+
+<tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/unicode_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+        <p style="font-size: 15px"><b style="font-size: 18px">UniCode: Learning a Unified Codebook for Multimodal Large Language Models</b><br>
+        <b>Sipeng Zheng</b>, Bohan Zhou, Yicheng Feng, Ye Wang, Zongqing Lu<br>
+        ICLR 2024<br>
+        [<a target="_blank" href="https://arxiv.org/abs/2310.13255">pdf</a>] 
+        </p>
+  </td>
+</tr>
+
+<tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/steve_eye_23.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</b><br>
@@ -60,7 +93,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/files/cv_
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">LLaMA Rider: Spurring Large Language Models to Explore the Open World</b><br>
         Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
-        arxiv
+        NAACL
         <br>
           [<a target="_blank" href="https://arxiv.org/abs/2310.08922">pdf</a>] 
           [<a target="_blank" href="https://github.com/PKU-RL/LLaMA-Rider">code</a>] 

@@ -48,7 +48,8 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/files/cv_
         <p style="font-size: 15px"><b style="font-size: 18px">SPAFormer: Sequential 3D Part Assembly with Transformers</b><br>
         Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
         arxiv<br>
-        [<a target="_blank" href="https://arxiv.org/abs/2310.13255">pdf</a>] 
+        [<a target="_blank" href="https://arxiv.org/pdf/2403.05874.pdf">pdf</a>] 
+        [<a target="_blank" href="https://github.com/xuboshen/SPAFormer">code</a>] 
         </p>
   </td>
 </tr>
@@ -84,7 +85,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/files/cv_
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">LLaMA Rider: Spurring Large Language Models to Explore the Open World</b><br>
         Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
-        NAACL
+        NAACL 2024
         <br>
           [<a target="_blank" href="https://arxiv.org/abs/2310.08922">pdf</a>] 
           [<a target="_blank" href="https://github.com/PKU-RL/LLaMA-Rider">code</a>] 

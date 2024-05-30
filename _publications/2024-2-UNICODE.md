@@ -2,7 +2,7 @@
 title: "UniCode: Learning a Unified Codebook for Multimodal Large Language Models"
 collection: publications
 permalink: /publication/2024-2-UNICODE
-excerpt: 'This paper proposes the first large multi-modal model for open-world agents in Minecraft.'
+excerpt: 'This paper proposes UniCode, novel approach within the domain of multimodal large language models (MLLMs) that learns a unified codebook to efficiently tokenize visual, text, and potentially other types of signals.'
 date: 2024-05-01
 venue: 'arXiv preprint, 2024'
 paperurl: 'https://arxiv.org/abs/2403.09072'
@@ -15,6 +15,6 @@ The unified codebook empowers our model to extend visual instruction tuning to n
 Despite using significantly fewer parameters and less data during training, Unicode demonstrates promising capabilities in visual reconstruction and generation. It also achieves performances comparable to leading MLLMs across a spectrum of VQA benchmarks.
 
 <figure>
-<img src="../images/pubs/egonce++_24.png" width="100%" height="100%" alt="替代文本">
-<figcaption style="font-size: 18px">Figure 1: Illustration of our pretraining framework. (a) EgoVLMs are trained with EgoNCE++, where the visual encoder is trained using LoRA [14] to enhance video representation, while the text encoder remains frozen. Specifically, EgoNCE++ consists of (b) V2T: generating HOI-related negative captions for fine-grained supervision, and (c) T2V: leveraging the strong ability of EgoVLMs to recognize nouns by aggregating video features with similar nouns.</figcaption>
+<img src="../images/pubs/unicode_24.png" width="100%" height="100%" alt="替代文本">
+<figcaption style="font-size: 18px">Figure 1: Illustration of multiple paradigms to obtain a unified codebook. Dotted line indicates the training loop: (a) frozen LLM codebook, which initiates the codebook with a pretrained LLM and freezes it during training; (b) dual alternative training, which jointly trains both visual tokenizer and LLM, by alternatively updating each one’s codebook using the other’s parameters. (c) language-driven iterative training, which smoothly updates the codebook of visual tokenizer with LLM’s through a moving average manner.</figcaption>
 </figure>

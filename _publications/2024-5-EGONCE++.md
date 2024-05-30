@@ -1,12 +1,12 @@
 ---
-title: "Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds"
+title: "EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?"
 collection: publications
-permalink: /publication/2023-10-paper-STEVE-EYE
+permalink: /publication/2024-5-EGONCE++
 excerpt: 'This paper proposes the first large multi-modal model for open-world agents in Minecraft.'
 date: 2024-05-01
 venue: 'arXiv preprint, 2024'
 paperurl: 'https://arxiv.org/abs/2310.13255'
-citation: 'S Zheng, J Liu, Y Feng, Z Lu. "Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds." <i>2023 arXiv preprint</i>. arXiv:2310.13255.'
+citation: 'B Xu, S Zheng, Z Wang, Y Du1, Q Jin. "EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?" <i>2023 arXiv preprint</i>. arXiv:2405.17719v1.'
 ---
 Recent studies have presented compelling evidence that large language models (LLMs) can equip embodied agents with the self-driven capability to interact with the world, which marks an initial step toward versatile robotics. However, these efforts tend to overlook the visual richness of open worlds, rendering the entire interactive process akin to "a blindfolded text-based game." Consequently, LLM-based agents frequently encounter challenges in intuitively comprehending their surroundings and producing responses that are easy to understand. In this paper, we propose Steve-Eye, an end-to-end trained large multimodal model designed to address this limitation. Steve-Eye integrates the LLM with a visual encoder which enables it to process visual-text inputs and generate multimodal feedback. In addition, we use a semi-automatic strategy to collect an extensive dataset comprising 850K open-world instruction pairs, empowering our model to encompass three essential functions for an agent: multimodal perception, foundational knowledge base, and skill prediction and planning. Lastly, we develop three open-world evaluation benchmarks, then carry out extensive experiments from a wide range of perspectives to validate our model's capability to strategically act and plan. Codes and datasets will be released.
 

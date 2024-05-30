@@ -3,8 +3,8 @@ title: "LLaMA Rider: Spurring Large Language Models to Explore the Open World"
 collection: publications
 permalink: /publication/2023-10-paper-LLAMA-RIDER
 excerpt: 'This paper proposes a self-driven framework for LLM-based agents in open worlds.'
-date: 2023-11-01
-venue: 'Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024'
+date: 2024-06-01
+venue: 'Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL)'
 paperurl: 'https://arxiv.org/abs/2310.08922'
 citation: 'Y Feng, Y Wang, J Liu, S Zheng, Z Lu. "LLaMA Rider: Spurring Large Language Models to Explore the Open World." <i>2023 arXiv preprint</i>. arXiv:2310.08922.'
 ---

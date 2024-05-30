@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-2-UNICODE
 excerpt: 'This paper proposes UniCode, novel approach within the domain of multimodal large language models (MLLMs) that learns a unified codebook to efficiently tokenize visual, text, and potentially other types of signals.'
 date: 2024-05-01
-venue: 'arXiv preprint, 2024'
+venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2403.09072'
 citation: 'S Zheng, B Zhou, Y Feng, Y Wang, Z Lu. "UniCode: Learning a Unified Codebook for Multimodal Large Language Models" <i>2024 arXiv preprint</i>. arXiv:2403.09072.'
 ---

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-5-EGONCE++
 excerpt: 'This paper introduces a novel asymmetric contrastive objective for EgoHOI named EgoNCE++, while proposing an open-vocabulary benchmark named EgoHOIBench to reveal the diminished performance of current egocentric video-language models (EgoVLM) on fined-grained concepts.'
 date: 2024-05-01
-venue: 'arXiv preprint, 2024'
+venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2310.13255'
 citation: 'B Xu, S Zheng, Z Wang, Y Du1, Q Jin. "EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?" <i>2024 arXiv preprint</i>. arXiv:2405.17719v1.'
 ---

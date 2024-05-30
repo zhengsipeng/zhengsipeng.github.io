@@ -2,7 +2,7 @@
 title: "EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?"
 collection: publications
 permalink: /publication/2024-5-EGONCE++
-excerpt: 'This paper proposes the first large multi-modal model for open-world agents in Minecraft.'
+excerpt: 'This paper introduces a novel asymmetric contrastive objective for EgoHOI named EgoNCE++, while proposing an open-vocabulary benchmark named EgoHOIBench to reveal the diminished performance of current egocentric video-language models (EgoVLM) on fined-grained concepts.'
 date: 2024-05-01
 venue: 'arXiv preprint, 2024'
 paperurl: 'https://arxiv.org/abs/2310.13255'

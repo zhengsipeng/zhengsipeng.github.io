@@ -46,7 +46,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/files/cv_
   <td style="border: none;"> <img src="./images/pubs/egonce++_24.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?</b><br>
-        Boshen Xu, <b>Sipeng Zheng</b>, Ziheng Wang, Yang Du, Zhinan Song, Qin Jin<br>
+        Boshen Xu, Ziheng Wang, Yang Du, Zhinan Song, <b>Sipeng Zheng</b>, Qin Jin<br>
         arxiv<br>
         [<a target="_blank" href="https://arxiv.org/html/2405.17719v1">pdf</a>] 
         [<a target="_blank" href="https://github.com/xuboshen/egoncepp">code</a>] 
@@ -58,7 +58,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/files/cv_
   <td style="border: none;"> <img src="./images/pubs/spaformer_24.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">SPAFormer: Sequential 3D Part Assembly with Transformers</b><br>
-        Boshen Xu, <b>Sipeng Zheng</b>, Ziheng Wang, Yang Du, Zhinan Song, Qin Jin<br>
+        Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
         arxiv<br>
         [<a target="_blank" href="https://arxiv.org/html/2405.17719v1">pdf</a>] 
         [<a target="_blank" href="[https://github.com/xuboshen/SPAFormer](https://github.com/xuboshen/EgoNCEpp)">code</a>] 

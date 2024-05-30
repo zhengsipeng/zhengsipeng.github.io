@@ -5,8 +5,8 @@ permalink: /publication/2024-2-UNICODE
 excerpt: 'This paper proposes the first large multi-modal model for open-world agents in Minecraft.'
 date: 2024-05-01
 venue: 'arXiv preprint, 2024'
-paperurl: 'https://arxiv.org/abs/2310.13255'
-citation: 'B Xu, S Zheng, Z Wang, Y Du1, Q Jin. "EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?" <i>2023 arXiv preprint</i>. arXiv:2405.17719v1.'
+paperurl: 'https://arxiv.org/abs/2403.09072'
+citation: 'S Zheng, B Zhou, Y Feng, Y Wang, Z Lu. "UniCode: Learning a Unified Codebook for Multimodal Large Language Models" <i>2024 arXiv preprint</i>. arXiv:2403.09072.'
 ---
 In this paper, we propose \textbf{UniCode}, a novel approach within the domain of multimodal large language models (MLLMs) that learns a unified codebook to efficiently tokenize visual, text, and potentially other types of signals. 
 This innovation addresses a critical limitation in existing MLLMs: their reliance on a text-only codebook, which restricts MLLM's ability to generate images and texts in a multimodal context. 

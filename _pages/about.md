@@ -43,7 +43,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/files/cv_
 <table border="0" style="border:none; width: 100%;">
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/egonce_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/egonce++_24.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?</b><br>
         Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>

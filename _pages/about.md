@@ -46,11 +46,10 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/quargpt_24.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
-        <p style="font-size: 15px"><b style="font-size: 18px">QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds</b><br>
-        Ye Wang, Yuting Mei, <b>Sipeng Zheng</b>, Qin Jin<br>
+        <p style="font-size: 15px"><b style="font-size: 18px">From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities</b><br>
+        Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, <b>Sipeng Zheng</b>, Zongqing Lu<br>
         arxiv<br>
-        [<a target="_blank" href="https://arxiv.org/pdf/2406.16578">pdf</a>] 
-        [<a target="_blank" href="https://quadruped-hub.github.io/Quadruped-GPT/">page</a>] 
+        [<a target="_blank" href="https://arxiv.org/abs/2410.02155">pdf</a>] 
         </p>
   </td>
 </tr>

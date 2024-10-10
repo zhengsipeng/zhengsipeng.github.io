@@ -57,6 +57,19 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 
 
 <tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/quargpt_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+        <p style="font-size: 15px"><b style="font-size: 18px">QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds</b><br>
+        Yuting Mei$^*$, Ye Wang$^*$, <b>Sipeng Zheng</b>, Qin Jin<br>
+        arxiv<br>
+        [<a target="_blank" href="https://arxiv.org/pdf/2406.16578">pdf</a>] 
+        [<a target="_blank" href="https://quadruped-hub.github.io/Quadruped-GPT/">page</a>] 
+        </p>
+  </td>
+</tr>
+
+
+<tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/egonce++_24.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?</b><br>

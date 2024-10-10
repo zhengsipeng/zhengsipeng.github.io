@@ -46,6 +46,17 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 <tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/quargpt_24.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
+        <p style="font-size: 15px"><b style="font-size: 18px">Quo Vadis, Motion Generation? From Large Language Models to Large Motion Models</b><br>
+        Ye Wang$^*$, <b>Sipeng Zheng</b>$^*$, Bin Cao, Qianshan Wei, Qin Jin, Zongqing Lu<br>
+        arxiv<br>
+        [<a target="_blank" href="https://arxiv.org/abs/2410.03311">pdf</a>] 
+        </p>
+  </td>
+</tr>
+
+<tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/quargpt_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities</b><br>
         Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, <b>Sipeng Zheng</b>, Zongqing Lu<br>
         arxiv<br>

@@ -44,7 +44,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 <table border="0" style="border:none; width: 100%;">
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/quargpt_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/motion_24.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">Quo Vadis, Motion Generation? From Large Language Models to Large Motion Models</b><br>
         Ye Wang$^*$, <b>Sipeng Zheng</b>$^*$, Bin Cao, Qianshan Wei, Qin Jin, Zongqing Lu<br>
@@ -55,7 +55,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/quargpt_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/2dbpe_24.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities</b><br>
         Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, <b>Sipeng Zheng</b>, Zongqing Lu<br>

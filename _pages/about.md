@@ -96,9 +96,9 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">SPAFormer: Sequential 3D Part Assembly with Transformers</b><br>
         Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
-        arxiv<br>
-        [<a target="_blank" href="https://arxiv.org/html/2405.17719v1">pdf</a>] 
-        [<a target="_blank" href="[https://github.com/xuboshen/SPAFormer](https://github.com/xuboshen/EgoNCEpp)">code</a>] 
+        3DV 2025<br>
+        [<a target="_blank" href="https://arxiv.org/abs/2403.05874">pdf</a>] 
+        [<a target="_blank" href="[https://github.com/xuboshen/SPAFormer](https://github.com/xuboshen/SPAFormer)">code</a>] 
         </p>
   </td>
 </tr>

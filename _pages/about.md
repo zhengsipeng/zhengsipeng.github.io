@@ -160,7 +160,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
   <td style="border: none;"> <img src="./images/pubs/nofrill_23.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection</b><br>
-        Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
+        Qi Zhang, <b>Sipeng Zheng</b>, Qin Jin<br>
         arxiv
       <br>
           [<a target="_blank" href="https://arxiv.org/abs/2307.10567">pdf</a>] 

@@ -49,7 +49,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">Quo Vadis, Motion Generation? From Large Language Models to Large Motion Models</b><br>
         Ye Wang$^*$, <b>Sipeng Zheng</b>$^*$, Bin Cao, Qianshan Wei, Qin Jin, Zongqing Lu<br>
-        arxiv<br>
+        arxiv 2024<br>
         [<a target="_blank" href="https://arxiv.org/abs/2410.03311">pdf</a>] 
         [<a target="_blank" href="[https://arxiv.org/abs/2410.03311](http://www.motionbase3d.com">page</a>] 
         </p>
@@ -61,7 +61,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities</b><br>
         Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, <b>Sipeng Zheng</b>, Zongqing Lu<br>
-        arxiv<br>
+        arxiv 2024<br>
         [<a target="_blank" href="https://arxiv.org/abs/2410.02155">pdf</a>] 
         </p>
   </td>
@@ -73,7 +73,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds</b><br>
         Yuting Mei$^*$, Ye Wang$^*$, <b>Sipeng Zheng</b>, Qin Jin<br>
-        arxiv<br>
+        arxiv 2024<br>
         [<a target="_blank" href="https://arxiv.org/pdf/2406.16578">pdf</a>] 
         [<a target="_blank" href="https://quadruped-hub.github.io/Quadruped-GPT/">page</a>] 
         </p>
@@ -86,7 +86,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?</b><br>
         Boshen Xu, Ziheng Wang, Yang Du, Zhinan Song, <b>Sipeng Zheng</b>, Qin Jin<br>
-        arxiv<br>
+        arxiv 2024<br>
         [<a target="_blank" href="https://arxiv.org/html/2405.17719v1">pdf</a>] 
         [<a target="_blank" href="https://github.com/xuboshen/egoncepp">code</a>] 
         </p>

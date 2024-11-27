@@ -50,6 +50,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
         Ye Wang$^*$, <b>Sipeng Zheng</b>$^*$, Bin Cao, Qianshan Wei, Qin Jin, Zongqing Lu<br>
         arxiv<br>
         [<a target="_blank" href="https://arxiv.org/abs/2410.03311">pdf</a>] 
+        [<a target="_blank" href="[https://arxiv.org/abs/2410.03311](http://www.motionbase3d.com">page</a>] 
         </p>
   </td>
 </tr>
@@ -161,7 +162,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection</b><br>
         Qi Zhang, <b>Sipeng Zheng</b>, Qin Jin<br>
-        arxiv
+        arxiv 2023
       <br>
           [<a target="_blank" href="https://arxiv.org/abs/2307.10567">pdf</a>] 
           [<a target="_blank" href="https://github.com/QiQAng/AwareNet">code</a>]

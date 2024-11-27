@@ -18,6 +18,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 * Human behavior understanding
 * Large language models and large multimodal models
 * Open-world embodied agent learning
+* Human motion understanding
 
 
 ## Work Experience

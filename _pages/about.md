@@ -45,6 +45,18 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 <table border="0" style="border:none; width: 100%;">
 
 <tr style="border: none;">
+  <td style="border: none;"> <img src="./images/pubs/mmdiag_25.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> 
+        <p style="font-size: 15px"><b style="font-size: 18px">Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning</b><br>
+        Jiazheng Liu, <b>Sipeng Zheng</b>, Börje F Karlsson, Zongqing Lu<br>
+        arxiv 2025<br>
+        [<a target="_blank" href="https://arxiv.org/abs/2503.07002">pdf</a>] 
+        </p>
+  </td>
+</tr>
+
+
+<tr style="border: none;">
   <td style="border: none;"> <img src="./images/pubs/videoorin_24.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">VideoOrion: Tokenizing Object Dynamics in Videos</b><br>

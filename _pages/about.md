@@ -42,6 +42,9 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 
 
 ## Publications
+
+"*" denotes equal contribution
+
 <table border="0" style="border:none; width: 100%;">
 
 <tr style="border: none;">

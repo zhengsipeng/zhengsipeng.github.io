@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Sipeng Zheng, currently working as a partner at a startup company <br>BeingBeyond</br>, where I collaborate with [Prof. Zongqing Lu](https://z0ngqing.github.io). 
+I'm Sipeng Zheng, currently working as a partner at a start-up company  <br>BeingBeyond</br> on foundation models for embodied AI, where I collaborate with [Prof. Zongqing Lu](https://z0ngqing.github.io). 
 Before that I was a researcher in [Beijing Academy of Artificial Intelligence(BAAI)](https://www.baai.ac.cn).
 I obtained my PhD and bachelor's degree from [Renmin University of China (RUC)](https://en.ruc.edu.cn), under the guidance of [Prof. Qin Jin](https://www.jin-qin.com). 
 My research primarily focuses on human behavior understanding, vision-and-language learning, and the development of open-world embodied agents.
@@ -26,7 +26,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 * May. 2025 - Current: Research Scientist
   * BeingBeyond, Beijing, China
   * Duties included: large multimodal model, robot learning, human motion understanding
-  * 
+
 * Jul. 2023 - May. 2025: Research Scientist
   * Beijing Academy of Artificial Intelligence, Beijing, China
   * Duties included: large multimodal model, multi-agent learning

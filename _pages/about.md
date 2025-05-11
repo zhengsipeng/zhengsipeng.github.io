@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm Sipeng Zheng, currently working as a researcher with the Multimodal Interaction Research Group at the [Beijing Academy of Artificial Intelligence(BAAI)](https://www.baai.ac.cn), where I collaborate with [Prof. Zongqing Lu](https://z0ngqing.github.io). 
+I'm Sipeng Zheng, currently working as a partner at the BeingBeyond, where I collaborate with [Prof. Zongqing Lu](https://z0ngqing.github.io). 
+Before that I was a researcher in [Beijing Academy of Artificial Intelligence(BAAI)](https://www.baai.ac.cn).
 I obtained my PhD and bachelor's degree from [Renmin University of China (RUC)](https://en.ruc.edu.cn), under the guidance of [Prof. Qin Jin](https://www.jin-qin.com). 
 My research primarily focuses on human behavior understanding, vision-and-language learning, and the development of open-world embodied agents.
 Currently I'm working towards an intelligent humanoid robot.
@@ -15,10 +16,10 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 
 
 ## Research Interest
-* Human behavior understanding
 * Large language models and large multimodal models
 * Open-world embodied agent learning
-* Human motion understanding
+* Human behavior and motion understanding
+* Robot learning
 
 
 ## Work Experience

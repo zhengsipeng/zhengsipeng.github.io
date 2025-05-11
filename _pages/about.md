@@ -98,7 +98,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
         Ye Wang$^*$, <b>Sipeng Zheng</b>$^*$, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zongqing Lu<br>
         ICML 2025<br>
           [<a target="_blank" href="https://arxiv.org/abs/2410.03311">pdf</a>] 
-        [<a target="_blank" href="[https://arxiv.org/abs/2410.03311](http://www.motionbase3d.com">page</a>] 
+        [<a target="_blank" href="http://www.motionbase3d.com">page</a>] 
         </p>
   </td>
 </tr>
@@ -110,9 +110,11 @@ We are actively recruiting full-time researchers and interns to join our team. I
         Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, <b>Sipeng Zheng</b>, Zongqing Lu<br>
         ICLR 2025<br>
         [<a target="_blank" href="https://arxiv.org/abs/2410.02155">pdf</a>] 
+        [<a target="_blank" href="https://github.com/BeingBeyond/Being-VL-0">page</a>] 
         </p>
   </td>
 </tr>
+
 
 
 <tr style="border: none;">

@@ -23,7 +23,11 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 
 
 ## Work Experience
-* Jul. 2023 - Current: Research Scientist
+* May. 2025 - Current: Research Scientist
+  * BeingBeyond, Beijing, China
+  * Duties included: large multimodal model, robot learning, human motion understanding
+  * 
+* Jul. 2023 - May. 2025: Research Scientist
   * Beijing Academy of Artificial Intelligence, Beijing, China
   * Duties included: large multimodal model, multi-agent learning
 
@@ -44,7 +48,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 
 ## Publications
 
-"*" denotes equal contribution
+<br>* denotes equal contribution</br>
 
 <table border="0" style="border:none; width: 100%;">
 

@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author: 
   name             : "Sipeng Zheng"
-  avatar           : "_profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Researcher in BeingBeyond, specialised in large multimodal learning and"
   location         : "Beijing, China"
   employer         :

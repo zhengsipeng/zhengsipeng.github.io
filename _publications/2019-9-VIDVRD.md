@@ -12,7 +12,7 @@ In this paper, we present our solutions to the grand challenge task "Relation Un
 
 
 <figure style="text-align: center;">
-<img src="../images/pubs/mm2019_gc.jpg" width="100%" height="100%" alt="替代文本">
+<img src="../images/1-mm2019_gc.jpg" width="100%" height="100%" alt="替代文本">
 <figcaption style="text-align: center; font-size: 18px">Figure 1: Overall framework of our pipeline.</figcaption>
 </figure>
 

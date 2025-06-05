@@ -181,7 +181,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/11-llama_rider_23.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/11-naacl23_llama_rider.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">LLaMA Rider: Spurring Large Language Models to Explore the Open World</b><br>
         Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>

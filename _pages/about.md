@@ -56,125 +56,368 @@ We are actively recruiting full-time researchers and interns to join our team. I
 
 <b>* denotes equal contribution</b>
 
-<div class="pagination-controls" style="text-align: center; margin: 20px 0;">
-  <a href="#page1" class="page-link active">1</a>
-  <a href="#page2" class="page-link">2</a>
-  <a href="#page3" class="page-link">3</a>
+<!-- 分页容器 -->
+<div class="pagination-container">
+  <!-- 这里将由JavaScript动态生成分页内容 -->
+   <div class="paper-item">
+    <table style="border: none; width: 100%;">
+      <tr style="border: none;">
+        <td style="border: none; width: 500px;"> 
+          <img src="./images/10-mm23_pov.png" width="500px" height="100px"/>
+        </td>
+        <td style="border: none;"> 
+          <p style="font-size: 15px">
+            <b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
+            Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+            ACM MM, 2023<br>
+            [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
+            [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>]
+            [<a target="_blank" href="https://xuboshen.github.io/POV/">page</a>] 
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+   <div class="paper-item">
+    <table style="border: none; width: 100%;">
+      <tr style="border: none;">
+        <td style="border: none; width: 500px;"> 
+          <img src="./images/10-mm23_pov.png" width="500px" height="100px"/>
+        </td>
+        <td style="border: none;"> 
+          <p style="font-size: 15px">
+            <b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
+            Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+            ACM MM, 2023<br>
+            [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
+            [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>]
+            [<a target="_blank" href="https://xuboshen.github.io/POV/">page</a>] 
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+   <div class="paper-item">
+    <table style="border: none; width: 100%;">
+      <tr style="border: none;">
+        <td style="border: none; width: 500px;"> 
+          <img src="./images/10-mm23_pov.png" width="500px" height="100px"/>
+        </td>
+        <td style="border: none;"> 
+          <p style="font-size: 15px">
+            <b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
+            Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+            ACM MM, 2023<br>
+            [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
+            [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>]
+            [<a target="_blank" href="https://xuboshen.github.io/POV/">page</a>] 
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+   <div class="paper-item">
+    <table style="border: none; width: 100%;">
+      <tr style="border: none;">
+        <td style="border: none; width: 500px;"> 
+          <img src="./images/10-mm23_pov.png" width="500px" height="100px"/>
+        </td>
+        <td style="border: none;"> 
+          <p style="font-size: 15px">
+            <b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
+            Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+            ACM MM, 2023<br>
+            [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
+            [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>]
+            [<a target="_blank" href="https://xuboshen.github.io/POV/">page</a>] 
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+   <div class="paper-item">
+    <table style="border: none; width: 100%;">
+      <tr style="border: none;">
+        <td style="border: none; width: 500px;"> 
+          <img src="./images/10-mm23_pov.png" width="500px" height="100px"/>
+        </td>
+        <td style="border: none;"> 
+          <p style="font-size: 15px">
+            <b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
+            Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+            ACM MM, 2023<br>
+            [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
+            [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>]
+            [<a target="_blank" href="https://xuboshen.github.io/POV/">page</a>] 
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+   <div class="paper-item">
+    <table style="border: none; width: 100%;">
+      <tr style="border: none;">
+        <td style="border: none; width: 500px;"> 
+          <img src="./images/10-mm23_pov.png" width="500px" height="100px"/>
+        </td>
+        <td style="border: none;"> 
+          <p style="font-size: 15px">
+            <b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
+            Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+            ACM MM, 2023<br>
+            [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
+            [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>]
+            [<a target="_blank" href="https://xuboshen.github.io/POV/">page</a>] 
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+   <div class="paper-item">
+    <table style="border: none; width: 100%;">
+      <tr style="border: none;">
+        <td style="border: none; width: 500px;"> 
+          <img src="./images/10-mm23_pov.png" width="500px" height="100px"/>
+        </td>
+        <td style="border: none;"> 
+          <p style="font-size: 15px">
+            <b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
+            Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+            ACM MM, 2023<br>
+            [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
+            [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>]
+            [<a target="_blank" href="https://xuboshen.github.io/POV/">page</a>] 
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+   <div class="paper-item">
+    <table style="border: none; width: 100%;">
+      <tr style="border: none;">
+        <td style="border: none; width: 500px;"> 
+          <img src="./images/10-mm23_pov.png" width="500px" height="100px"/>
+        </td>
+        <td style="border: none;"> 
+          <p style="font-size: 15px">
+            <b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
+            Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+            ACM MM, 2023<br>
+            [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
+            [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>]
+            [<a target="_blank" href="https://xuboshen.github.io/POV/">page</a>] 
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+   <div class="paper-item">
+    <table style="border: none; width: 100%;">
+      <tr style="border: none;">
+        <td style="border: none; width: 500px;"> 
+          <img src="./images/10-mm23_pov.png" width="500px" height="100px"/>
+        </td>
+        <td style="border: none;"> 
+          <p style="font-size: 15px">
+            <b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
+            Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+            ACM MM, 2023<br>
+            [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
+            [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>]
+            [<a target="_blank" href="https://xuboshen.github.io/POV/">page</a>] 
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+   <div class="paper-item">
+    <table style="border: none; width: 100%;">
+      <tr style="border: none;">
+        <td style="border: none; width: 500px;"> 
+          <img src="./images/10-mm23_pov.png" width="500px" height="100px"/>
+        </td>
+        <td style="border: none;"> 
+          <p style="font-size: 15px">
+            <b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
+            Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+            ACM MM, 2023<br>
+            [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
+            [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>]
+            [<a target="_blank" href="https://xuboshen.github.io/POV/">page</a>] 
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+   <div class="paper-item">
+    <table style="border: none; width: 100%;">
+      <tr style="border: none;">
+        <td style="border: none; width: 500px;"> 
+          <img src="./images/10-mm23_pov.png" width="500px" height="100px"/>
+        </td>
+        <td style="border: none;"> 
+          <p style="font-size: 15px">
+            <b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
+            Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
+            ACM MM, 2023<br>
+            [<a target="_blank" href="https://dl.acm.org/doi/10.1145/3581783.3612484">pdf</a>] 
+            [<a target="_blank" href="https://github.com/xuboshen/pov_acmmm2023">code</a>]
+            [<a target="_blank" href="https://xuboshen.github.io/POV/">page</a>] 
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
-
-<!-- Page 1 -->
-<div id="page1" class="publication-page">
-<table border="0" style="border:none; width: 100%;">
-
-<tr style="border: none;">
-  <td style="border: none;"> <img src="./images/21-arxiv25_egodtm.png" style="height: 100px; width: 500px;"/></td>
-  <td style="border: none;"> 
-        <p style="font-size: 15px"><b style="font-size: 18px">EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining</b><br>
-       Boshen Xu, Yuting Mei, Xinbi Liu, <b>Sipeng Zheng</b>, Qin Jin<br>
-        arxiv 2025<br>
-        [<a target="_blank" href="https://arxiv.org/abs/2503.15470">pdf</a>] 
-        </p>
-  </td>
-</tr>
-
-<tr style="border: none;">
-  <td style="border: none;"> <img src="./images/20-arxiv25_mmdiag.jpg" style="height: 100px; width: 500px;"/></td>
-  <td style="border: none;"> 
-        <p style="font-size: 15px"><b style="font-size: 18px">Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning</b><br>
-        Jiazheng Liu, <b>Sipeng Zheng</b>, Börje F Karlsson, Zongqing Lu<br>
-        arxiv 2025<br>
-        [<a target="_blank" href="https://arxiv.org/abs/2503.07002">pdf</a>] 
-        </p>
-  </td>
-</tr>
-
-<!-- 继续添加前10篇论文... -->
-
-</table>
-</div>
-
-<!-- Page 2 -->
-<div id="page2" class="publication-page" style="display:none;">
-<table border="0" style="border:none; width: 100%;">
-
-<tr style="border: none;">
-  <td style="border: none;"> <img src="./images/12-iclr23_steve_eye.png" style="height: 100px; width: 500px;"/></td>
-  <td style="border: none;"> 
-        <p style="font-size: 15px"><b style="font-size: 18px">Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</b><br>
-        <b>Sipeng Zheng</b>, Jiazheng Liu, Yicheng Feng, Zongqing Lu<br>
-        ICLR 2024<br>
-        [<a target="_blank" href="https://arxiv.org/abs/2310.13255">pdf</a>] 
-        [<a target="_blank" href="https://github.com/BAAI-Agents/Steve-Eye">code</a>] 
-        [<a target="_blank" href="https://sites.google.com/view/steve-eye">page</a>]
-        </p>
-  </td>
-</tr>
-
-<!-- 继续添加第11-20篇论文... -->
-
-</table>
-</div>
-
-<!-- Page 3 -->
-<div id="page3" class="publication-page" style="display:none;">
-<table border="0" style="border:none; width: 100%;">
-
-<tr style="border: none;">
-  <td style="border: none;"> <img src="./images/3-icme20_skeleton.jpg" style="height: 100px; width: 500px;"/></td>
-  <td style="border: none;"> 
-      <p style="font-size: 15px"><b style="font-size: 18px">Skeleton-based interactive graph network for human object interaction detection</b><br>
-        <b>Sipeng Zheng</b>, Shizhe Chen, Qin Jin<br>
-        ICME, 2020<br>
-          [<a target="_blank" href="https://ieeexplore.ieee.org/document/9102755">pdf</a>] 
-          [<a target="_blank" href="https://github.com/zhengsipeng/SIGN">code</a>]
-      </p>
-  </td>
-</tr>
-
-<!-- 继续添加剩余的论文... -->
-
-</table>
-</div>
-
-<script>
-// 简单的分页切换逻辑
-document.querySelectorAll('.page-link').forEach(link => {
-  link.addEventListener('click', function(e) {
-    e.preventDefault();
-    
-    // 隐藏所有页面
-    document.querySelectorAll('.publication-page').forEach(page => {
-      page.style.display = 'none';
-    });
-    
-    // 显示选中的页面
-    const pageId = this.getAttribute('href').substring(1);
-    document.getElementById(pageId).style.display = 'block';
-    
-    // 更新活动页面的样式
-    document.querySelectorAll('.page-link').forEach(link => {
-      link.classList.remove('active');
-    });
-    this.classList.add('active');
-  });
-});
-</script>
 
 <style>
-.page-link {
+.pagination {
+  position: relative;
+  margin-top: 20px;
+}
+.page-labels {
+  text-align: center;
+  margin: 20px 0;
+}
+.page-labels label {
   display: inline-block;
   padding: 5px 10px;
   margin: 0 5px;
   border: 1px solid #ddd;
-  text-decoration: none;
-  color: #333;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: all 0.3s ease;
 }
-.page-link.active {
-  background-color: #0066cc;
-  color: white;
-  border-color: #0066cc;
+.page-labels label:hover {
+  background-color: #f0f0f0;
+}
+input[type="radio"] {
+  display: none;
+}
+.page {
+  display: none;
+  animation: fadeIn 0.5s ease;
+}
+.page table {
+  border: none;
+  width: 100%;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
 }
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // 获取所有论文项（假设每篇论文都有.paper-item类）
+  const paperItems = document.querySelectorAll('.paper-item');
+  const totalPapers = paperItems.length;
+  const papersPerPage = 10; // 每页显示10篇论文
+  
+  // 计算总页数
+  const totalPages = Math.ceil(totalPapers / papersPerPage);
+  
+  // 获取分页容器
+  const paginationContainer = document.querySelector('.pagination-container');
+  
+  // 如果论文数量不足一页，直接显示所有论文
+  if (totalPages <= 1) {
+    const table = document.createElement('table');
+    table.style.border = 'none';
+    table.style.width = '100%';
+    paperItems.forEach(item => {
+      table.appendChild(item.cloneNode(true));
+    });
+    paginationContainer.appendChild(table);
+    return;
+  }
+  
+  // 创建分页结构
+  const paginationDiv = document.createElement('div');
+  paginationDiv.className = 'pagination';
+  
+  // 创建单选框
+  for (let i = 1; i <= totalPages; i++) {
+    const radio = document.createElement('input');
+    radio.type = 'radio';
+    radio.name = 'pages';
+    radio.id = `page${i}`;
+    if (i === 1) radio.checked = true;
+    paginationDiv.appendChild(radio);
+  }
+  
+  // 创建页码标签
+  const labelsDiv = document.createElement('div');
+  labelsDiv.className = 'page-labels';
+  for (let i = 1; i <= totalPages; i++) {
+    const label = document.createElement('label');
+    label.htmlFor = `page${i}`;
+    label.textContent = i;
+    labelsDiv.appendChild(label);
+  }
+  paginationDiv.appendChild(labelsDiv);
+  
+  // 创建页面内容
+  const contentDiv = document.createElement('div');
+  contentDiv.className = 'page-content';
+  
+  // 将论文分配到各页
+  for (let page = 1; page <= totalPages; page++) {
+    const pageDiv = document.createElement('div');
+    pageDiv.className = 'page';
+    
+    const table = document.createElement('table');
+    table.setAttribute('border', '0');
+    table.style.border = 'none';
+    table.style.width = '100%';
+    
+    const startIndex = (page - 1) * papersPerPage;
+    const endIndex = Math.min(startIndex + papersPerPage, totalPapers);
+    
+    for (let i = startIndex; i < endIndex; i++) {
+      table.appendChild(paperItems[i].cloneNode(true));
+    }
+    
+    pageDiv.appendChild(table);
+    contentDiv.appendChild(pageDiv);
+  }
+  
+  paginationDiv.appendChild(contentDiv);
+  paginationContainer.appendChild(paginationDiv);
+  
+  // 动态生成CSS
+  const style = document.createElement('style');
+  let cssText = '';
+  
+  // 为每页创建选择器
+  for (let i = 1; i <= totalPages; i++) {
+    cssText += `
+      #page${i}:checked ~ .page-content .page:nth-child(${i}) {
+        display: block;
+      }
+      #page${i}:checked ~ .page-labels label[for="page${i}"] {
+        background-color: #0066cc;
+        color: white;
+        border-color: #0066cc;
+      }
+    `;
+  }
+  
+  style.textContent = cssText;
+  document.head.appendChild(style);
+});
+</script>
 
   
 ## Awards

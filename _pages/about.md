@@ -9,12 +9,14 @@ redirect_from:
 
 <div class="intro">
 <h2>Welcome to My Homepage!</h2>
-I'm a general partner of <b>BeingBeyond</b>, a startup dedicated to advancing foundation models for embodied AI, where I collaborate closely [Prof. Zongqing Lu](https://z0ngqing.github.io). 
-Prior to this, I was a researcher at the [Beijing Academy of Artificial Intelligence(BAAI)](https://www.baai.ac.cn).
-I obtained my PhD and bachelor's degree from [Renmin University of China (RUC)](https://en.ruc.edu.cn), under the guidance of [Prof. Qin Jin](https://www.jin-qin.com). 
+<p>I'm a general partner of <b>BeingBeyond</b>, a startup dedicated to advancing foundation models for embodied AI, where I collaborate closely with <a href="https://z0ngqing.github.io">Prof. Zongqing Lu</a>.</p>
+
+<p>Prior to this, I was a researcher at the <a href="https://www.baai.ac.cn">Beijing Academy of Artificial Intelligence (BAAI)</a>. I obtained my PhD and bachelor's degree from <a href="https://en.ruc.edu.cn">Renmin University of China (RUC)</a>, under the guidance of <a href="https://www.jin-qin.com">Prof. Qin Jin</a>.</p>
+
 My research primarily focuses on human behavior understanding, vision-and-language learning, and the development of open-world embodied agents.
 Currently I'm working towards an intelligent humanoid robot.
-For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en.pdf).
+
+<p>For more details, please refer to my <a href="http://zhengsipeng.github.io/cv_zsp_en.pdf">CV</a>.</p>
 
 <b>Join Us!</b>
 

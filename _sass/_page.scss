@@ -400,39 +400,3 @@
   text-transform: uppercase;
 }
 
-
-
-
-.pagination {
-  position: relative;
-}
-.page-labels {
-  text-align: center;
-  margin: 20px 0;
-}
-.page-labels label {
-  display: inline-block;
-  padding: 5px 10px;
-  margin: 0 5px;
-  border: 1px solid #ddd;
-  cursor: pointer;
-  border-radius: 3px;
-}
-input[type="radio"] {
-  display: none;
-}
-.page {
-  display: none;
-}
-#page1:checked ~ .page-content .page:nth-child(1),
-#page2:checked ~ .page-content .page:nth-child(2),
-#page3:checked ~ .page-content .page:nth-child(3) {
-  display: block;
-}
-#page1:checked ~ .page-labels label[for="page1"],
-#page2:checked ~ .page-labels label[for="page2"],
-#page3:checked ~ .page-labels label[for="page3"] {
-  background-color: #0066cc;
-  color: white;
-  border-color: #0066cc;
-}

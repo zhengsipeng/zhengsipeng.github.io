@@ -25,11 +25,11 @@ My current goal is to develop an general-purpose humanoid robot capable of seaml
 If you're passionate about humanoid robots, feel free to <a href="mailto:zhengsipeng27@gmail.com">reach out</a>.</p>
 </div>
 
-## Research Interest
-* Large language models and large multimodal models
-* Open-world embodied agent learning
-* Human behavior and motion understanding
-* Robot learning
+## Research Interests
+* **Large language models** and **large multimodal models**
+* **Open-world embodied agent** learning
+* **Human behavior** and **motion understanding**
+* **Robot learning**
 
 
 ## Work Experience

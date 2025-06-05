@@ -50,6 +50,81 @@ We are actively recruiting full-time researchers and interns to join our team. I
 * B.Eng. in Computer Science and Engineering, Renmin University of China, China, 2023
 * Ph.D. in Computer Science and Engineering, Renmin University of China, China, 2023
 
+## Publications
+
+<b>* denotes equal contribution</b>
+
+<div class="pagination">
+  <input type="radio" name="pages" id="page1" checked>
+  <input type="radio" name="pages" id="page2">
+  <input type="radio" name="pages" id="page3">
+  
+  <div class="page-labels">
+    <label for="page1">1</label>
+    <label for="page2">2</label>
+    <label for="page3">3</label>
+  </div>
+  
+  <div class="page-content">
+    <!-- 第一页 -->
+    <div class="page">
+      <table border="0" style="border:none; width: 100%;">
+        <!-- 第1-10篇论文内容 -->
+      </table>
+    </div>
+    
+    <!-- 第二页 -->
+    <div class="page">
+      <table border="0" style="border:none; width: 100%;">
+        <!-- 第11-20篇论文内容 -->
+      </table>
+    </div>
+    
+    <!-- 第三页 -->
+    <div class="page">
+      <table border="0" style="border:none; width: 100%;">
+        <!-- 第21-30篇论文内容 -->
+      </table>
+    </div>
+  </div>
+</div>
+
+<style>
+.pagination {
+  position: relative;
+}
+.page-labels {
+  text-align: center;
+  margin: 20px 0;
+}
+.page-labels label {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 0 5px;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  border-radius: 3px;
+}
+input[type="radio"] {
+  display: none;
+}
+.page {
+  display: none;
+}
+#page1:checked ~ .page-content .page:nth-child(1),
+#page2:checked ~ .page-content .page:nth-child(2),
+#page3:checked ~ .page-content .page:nth-child(3) {
+  display: block;
+}
+#page1:checked ~ .page-labels label[for="page1"],
+#page2:checked ~ .page-labels label[for="page2"],
+#page3:checked ~ .page-labels label[for="page3"] {
+  background-color: #0066cc;
+  color: white;
+  border-color: #0066cc;
+}
+</style>
+
 
 ## Publications
 

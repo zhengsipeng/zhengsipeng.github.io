@@ -13,6 +13,6 @@ The human-object interaction detection (HOI) task aims to localize human and obj
 
 
 <figure style="text-align: center;">
-<img src="../images/3-icme20_skeleton.jpg" width="100%" height="100%" alt="替代文本">
+<img src="../images/pubs/icme20_skeleton.jpg" width="100%" height="100%" alt="替代文本">
 <figcaption style="text-align: center; font-size: 18px">Figure 1: Overall framework of our proposed SIGN network.</figcaption>
 </figure>

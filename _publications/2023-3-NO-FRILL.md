@@ -12,6 +12,6 @@ Temporal video grounding (TVG) aims to retrieve the time interval of a language 
 
 
 <figure>
-<img src="../images/9-arxiv23_nofrill.png" width="100%" height="100%" alt="替代文本">
+<img src="../images/pubs/nofrill_23.png" width="100%" height="100%" alt="替代文本">
 <figcaption style="font-size: 18px">Figure 1: Our framework comprises three key components: (1) self-modal encoder; (2) cross-modal alignment module enhanced by multiscale neighboring attention (MNA); (3) zoom-in boundary detection (ZBD) that utilizes multi-scale hierarchy.</figcaption>
 </figure>

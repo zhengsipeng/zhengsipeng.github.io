@@ -12,6 +12,6 @@ Egocentric video-language pretraining is a crucial paradigm to advance the learn
 
 
 <figure>
-<img src="../images/15-iclr25_egonce++.png" width="100%" height="100%" alt="替代文本">
+<img src="../images/pubs/egonce++_24.png" width="100%" height="100%" alt="替代文本">
 <figcaption style="font-size: 18px">Figure 1: Illustration of our pretraining framework. (a) EgoVLMs are trained with EgoNCE++, where the visual encoder is trained using LoRA [14] to enhance video representation, while the text encoder remains frozen. Specifically, EgoNCE++ consists of (b) V2T: generating HOI-related negative captions for fine-grained supervision, and (c) T2V: leveraging the strong ability of EgoVLMs to recognize nouns by aggregating video features with similar nouns.</figcaption>
 </figure>

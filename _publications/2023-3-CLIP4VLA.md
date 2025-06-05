@@ -12,6 +12,6 @@ Multimodal processing has attracted much attention lately especially with the su
 
 
 <figure>
-<img src="../images/7-aaai23_audio.jpg" width="100%" height="100%" alt="替代文本">
+<img src="images/7-aaai23_audio.jpg" width="100%" height="100%" alt="替代文本">
 <figcaption style="font-size: 18px">Figure 1: An overview of our CLIP4VLA model, which consists of three backbones: Text Encoder, Vision Encoder, and Audio Encoder. After encoding a batch of text features, vision features and audio features, we pre-train the model with four kinds of contrastive learning objectives for text-audio, video-audio, augmented audio-original audio respectively. The black squares are not included in the calculation.</figcaption>
 </figure>

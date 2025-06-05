@@ -12,7 +12,7 @@ Human-object interaction (HOI) has long been plagued by the conflict between lim
 
 
 <figure>
-<img src="../images/pubs/cvpr23_open.jpg" width="100%" height="100%" alt="替代文本">
+<img src="../images/8-cvpr23_open.jpg" width="100%" height="100%" alt="替代文本">
 <figcaption style="font-size: 18px">Figure 1: Our proposed open-category HOI model, OpenCat, auto-regressively generates HOI triplets as a token sequence. To pretrain
 the model, we utilize large-scale weak text supervision and employ four auxiliary proxy tasks: (1) masked language prediction (MLP); (2)
 human-object relation prediction (HRP); (3) human-object patch jigsaw (HPJ) and (4) soft relational matching (SRM).</figcaption>

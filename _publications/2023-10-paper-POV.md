@@ -12,6 +12,6 @@ We humans are good at translating third-person observations of hand-object inter
 
 
 <figure style="text-align: center;">
-<img src="../images/pubs/mm23_pov.png" width="100%" height="100%" alt="替代文本">
+<img src="../images/10-mm23_pov.png" width="100%" height="100%" alt="替代文本">
 <figcaption style="text-align: center; font-size: 18px">Figure 1: Overall framework of our proposed POV model.</figcaption>
 </figure>

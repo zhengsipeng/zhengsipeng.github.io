@@ -12,7 +12,7 @@ While pets offer companionship, their limited intelligence restricts advanced re
 
 
 <figure>
-<img src="../images/pubs/quargpt_24.png" width="100%" height="100%" alt="替代文本">
+<img src="../images/17-arxiv24_quargpt.png" width="100%" height="100%" alt="替代文本">
 <figcaption style="font-size: 18px">Figure 1:  Based upon emerging large foundation models, QuadrupedGPT aims to develop a versatile
 quadruped agent with the agility of four-legged pets while being able to comprehend intricate human
 commands and complete them safely and efficiently in open-world environments.</figcaption>

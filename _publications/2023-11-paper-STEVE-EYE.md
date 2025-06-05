@@ -12,6 +12,6 @@ Recent studies have presented compelling evidence that large language models (LL
 
 
 <figure>
-<img src="../images/pubs/steve_eye_23.png" width="100%" height="100%" alt="替代文本">
+<img src="../images/12_iclr23_steve_eye.png" width="100%" height="100%" alt="替代文本">
 <figcaption style="font-size: 18px">Figure 1: Illustration of Steve-Eye: a large multimodal model designed to seamlessly process both visual and language inputs. Steve-Eye excels in acquiring fundamental knowledge of the world it lives in, understanding the nuances of its surroundings, and generating executable plans to complete a wide array of open-ended tasks. Furthermore, Steve-Eye responds to user instructions through either visual or text-based cues, enhancing the convenience and flexibility of human-AI interaction.</figcaption>
 </figure>

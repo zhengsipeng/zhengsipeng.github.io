@@ -19,6 +19,6 @@ Extensive experiments demonstrate the superior generalization capabilities of SP
 Codes and model weights will be released at https://github.com/xuboshen/SPAFormer
 
 <figure>
-<img src="../images/pubs/spaformer_24.png" width="100%" height="100%" alt="替代文本">
+<img src="../images/14-3dv24_spaformer.png" width="100%" height="100%" alt="替代文本">
 <figcaption style="font-size: 18px">Figure 1: : Illustration of the combinatorial explosion challenge inherent in the assembly process. Specifically: (a) the number of constituent parts increases when the target object for assembly becomes more complex. (b) For an object composed of n parts, where we assume each part can occupy one of m discrete positions, the potential combinations of these parts grow at an extraordinary rate, exceeding O(m^n) in complexity.</figcaption>
 </figure>

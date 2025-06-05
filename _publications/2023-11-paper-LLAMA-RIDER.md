@@ -12,6 +12,6 @@ Recently, various studies have leveraged Large Language Models (LLMs) to help de
 
 
 <figure>
-<img src="../images/pubs/llama_rider_23.png" width="100%" height="100%" alt="替代文本">
+<img src="../images/11-naacl23_llama_rider.png" width="100%" height="100%" alt="替代文本">
 <figcaption style="font-size: 18px">Figure 1: Overview of LLaMA-Rider. The framework consists of two stages. In the exploration stage, the LLM explores to accomplish tasks with the help of the feedback-revision mechanism and subtask relabeling. In the learning stage, the collected trajectories are formatted into a supervised dataset to finetune the LLM.</figcaption>
 </figure>

@@ -92,7 +92,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/motion_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/18-icml25_puppet.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">Scaling Large Motion Models with Million-Level Human Motions</b><br>
         Ye Wang$^*$, <b>Sipeng Zheng</b>$^*$, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zongqing Lu<br>
@@ -104,7 +104,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/2dbpe_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/17-iclr25_2dbpe.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities</b><br>
         Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, <b>Sipeng Zheng</b>, Zongqing Lu<br>
@@ -118,7 +118,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/quargpt_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/16-arxiv24_quargpt.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds</b><br>
         Yuting Mei$^*$, Ye Wang$^*$, <b>Sipeng Zheng</b>, Qin Jin<br>
@@ -131,7 +131,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/egonce++_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/15-iclr25_egonce++.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?</b><br>
         Boshen Xu, Ziheng Wang, Yang Du, Zhinan Song, <b>Sipeng Zheng</b>, Qin Jin<br>
@@ -143,7 +143,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/spaformer_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/14-3dv24_spaformer.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">SPAFormer: Sequential 3D Part Assembly with Transformers</b><br>
         Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
@@ -155,7 +155,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/unicode_24.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/13-eccv24_unicode.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">UniCode: Learning a Unified Codebook for Multimodal Large Language Models</b><br>
         <b>Sipeng Zheng</b>, Bohan Zhou, Yicheng Feng, Ye Wang, Zongqing Lu<br>
@@ -168,7 +168,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/steve_eye_23.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/12-iclr23_steve_eye.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</b><br>
         <b>Sipeng Zheng</b>, Jiazheng Liu, Yicheng Feng, Zongqing Lu<br>
@@ -181,7 +181,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/llama_rider_23.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/11-llama_rider_23.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">LLaMA Rider: Spurring Large Language Models to Explore the Open World</b><br>
         Yicheng Feng, Yuxuan Wang, Jiazheng Liu, <b>Sipeng Zheng</b>, Zongqing Lu<br>
@@ -194,7 +194,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/mm23_pov.png" width="500px" height="100px"/></td>
+  <td style="border: none;"> <img src="./images/pubs/10-mm23_pov.png" width="500px" height="100px"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World</b><br>
         Boshen Xu, <b>Sipeng Zheng</b>, Qin Jin<br>
@@ -208,7 +208,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/nofrill_23.png" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/9-arxiv23_nofrill.png" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection</b><br>
         Qi Zhang, <b>Sipeng Zheng</b>, Qin Jin<br>
@@ -222,7 +222,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/cvpr23_open.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/8-cvpr23_open.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework</b><br>
         <b>Sipeng Zheng</b>, Boshen Xu, Qin Jin<br>
@@ -235,7 +235,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/aaai23_audio.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/7-aaai23_audio.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">Accommodating audio modality in CLIP for multimodal processing</b><br>
         Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, <b>Sipeng Zheng</b>, Qin Jin<br>
@@ -247,7 +247,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/cvpr22_nlq.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/4-cvpr22_nlq.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos</b><br>
         <b>Sipeng Zheng</b>, Bei Liu, Jianlong Fu, Wen-Huang Cheng<br>
@@ -260,7 +260,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/eccv22_fewshot.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/6-eccv22_fewshot.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning</b><br>
         <b>Sipeng Zheng</b>, Shizhe Chen, Qin Jin<br>
@@ -273,7 +273,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/cvpr22_vrdformer.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/5-cvpr22_vrdformer.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">VRDFormer: End-to-end video visual relation detection with transformer</b><br>
         <b>Sipeng Zheng</b>, Shizhe Chen, Qin Jin<br>
@@ -286,7 +286,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/cvpr22_nlq.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/4-cvpr22_nlq.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">Exploring anchor-based detection for ego4d natural language query</b><br>
         <b>Sipeng Zheng</b>, Qi Zhang, Bei Liu, Qin Jin, Jianlong Fu<br>
@@ -299,7 +299,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/icme20_skeleton.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/3-icme20_skeleton.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">Skeleton-based interactive graph network for human object interaction detection</b><br>
         <b>Sipeng Zheng</b>, Shizhe Chen, Qin Jin<br>
@@ -312,7 +312,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/mm2019.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/pubs/2-mm2019.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">Visual relation detection with multi-level attention</b><br>
         <b>Sipeng Zheng</b>, Shizhe Chen, Qin Jin<br>
@@ -324,7 +324,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 </tr>
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/pubs/mm2019_gc.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/1-mm2019_gc.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
       <p style="font-size: 15px"><b style="font-size: 18px">Relation understanding in videos</b><br>
         <b>Sipeng Zheng</b>, Xiangyu Chen, Shizhe Chen, Qin Jin<br>

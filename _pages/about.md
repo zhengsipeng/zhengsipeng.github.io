@@ -81,7 +81,7 @@ We are actively recruiting full-time researchers and interns to join our team. I
 
 
 <tr style="border: none;">
-  <td style="border: none;"> <img src="./images/19-arxiv25_videorin.jpg" style="height: 100px; width: 500px;"/></td>
+  <td style="border: none;"> <img src="./images/19-arxiv25_videoorin.jpg" style="height: 100px; width: 500px;"/></td>
   <td style="border: none;"> 
         <p style="font-size: 15px"><b style="font-size: 18px">VideoOrion: Tokenizing Object Dynamics in Videos</b><br>
         Yicheng Feng$^*$, Yijiang Li$^*$, Wanpeng Zhang, <b>Sipeng Zheng</b>, Zongqing Lu<br>

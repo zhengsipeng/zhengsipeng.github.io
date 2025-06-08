@@ -8,21 +8,7 @@ author_profile: true
 <b>* denotes equal contribution</b>
 
 
-{% for pub in paginator.posts %}
-  <!-- 渲染每篇论文 -->
-  <table>
-    <tr>
-      <td><img src="{{ pub.image }}" style="height: 100px; width: 500px;"/></td>
-      <td>
-        <p><b>{{ pub.title }}</b><br>
-        {{ pub.authors }}<br>
-        {{ pub.conference }}<br>
-        {{ pub.links }}</p>
-      </td>
-    </tr>
-  </table>
-{% endfor %}
-<!-- 
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -32,19 +18,3 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
--->
-
-
-
-<!-- 分页导航 -->
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">Previous</a>
-  {% endif %}
-  <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Next</a>
-  {% endif %}
-</div>
-{% endif %}

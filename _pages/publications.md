@@ -1,44 +1,51 @@
 ---
-title: Publications
 layout: archive
+title: "Publications"
 permalink: /publications/
-pagination:
+author_profile: true
+pagination: 
   enabled: true
-  collection: publications  # 指定对集合分页
-  sort_field: date          # 按日期排序
-  sort_reverse: true        # 最新论文在前
+  collection: publications
+  per_page: 10
+  sort_field: 'date'
+  sort_reverse: true
 ---
+
 <b>* denotes equal contribution</b>
 
-<!-- 分页后的论文列表 -->
-{% for pub in paginator.posts %}
-  <table style="width: 100%; margin-bottom: 20px;">
-    <tr>
-      <td style="width: 30%;">
-        <img src="{{ pub.image }}" style="max-width: 100%; height: auto;"/>
-      </td>
-      <td style="width: 70%; padding-left: 15px;">
-        <p>
-          <strong>{{ pub.title }}</strong><br>
-          {{ pub.authors }}<br>
-          <em>{{ pub.venue }}</em>, {{ pub.date | date: "%Y" }}<br>
-          [<a href="{{ pub.paperurl }}" target="_blank">PDF</a>]
-          {% if pub.codeurl %} [<a href="{{ pub.codeurl }}" target="_blank">Code</a>] {% endif %}
-        </p>
-      </td>
-    </tr>
-  </table>
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
 {% endfor %}
 
 <!-- 分页导航 -->
+{% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">← Previous</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; 上一页</a>
+  {% else %}
+    <span>&laquo; 上一页</span>
   {% endif %}
-  <span class="page_number">
-    Page {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ '/publications/' | relative_url }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next →</a>
+    <a href="{{ paginator.next_page_path | relative_url }}">下一页 &raquo;</a>
+  {% else %}
+    <span>下一页 &raquo;</span>
   {% endif %}
 </div>
+{% endif %}

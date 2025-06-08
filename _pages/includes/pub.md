@@ -18,6 +18,13 @@
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/eccv22_fewshot.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640293.pdf), **Sipeng Zheng**, Shizhe Chen, Qin Jin. [**Code**](https://github.com/zhengsipeng/HCL-FSAR)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr22_vrdformer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -27,7 +34,8 @@
 </div>
 
 
-- ``CVPR 2022`` [VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), **Sipeng Zheng**, ShiZhe Chen, Qin Jin, [Code](https://github.com/zhengsipeng/VRDFormer_VRD)
+- ``AAAI 2023`` [Accommodating audio modality in CLIP for multimodal processing](https://ojs.aaai.org/index.php/AAAI/article/view/26153/25925), Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, **Sipeng Zheng**, Qin Jin
+- ``IEEC 2023`` [Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos](https://ieeexplore.ieee.org/abstract/document/10043460), **Sipeng Zheng**, Bei Liu, Jianlong Fu, Wen-Huang Cheng, [Code](https://github.com/QiQAng/AwareNet)
 - ``CVPR 2022 workshop`` [Exploring anchor-based detection for ego4d natural language query](https://arxiv.org/abs/2208.05375), **Sipeng Zheng**, Qi Zhang, Bei Liu, Qin Jin, Jianlong Fu, [Code](https://github.com/QiQAng/AwareNet)
 - ``ICME`` [Skeleton-based interactive graph network for human object interaction detection](https://ieeexplore.ieee.org/document/9102755), **Sipeng Zheng**, Shizhe Chen, Qin Jin, [Code](https://github.com/zhengsipeng/SIGN)
 - `ACM-MM 2019` [Visual relation detection with multi-level attention](https://dl.acm.org/doi/10.1145/3343031.3350962), **Sipeng Zheng**, Shizhe Chen, Qin Jin.

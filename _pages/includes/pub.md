@@ -18,6 +18,18 @@
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/icml2025_puppet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Being-M0: Scaling Large Motion Models with Million-Level Human Motions](https://arxiv.org/abs/2410.02155) \\
+Ye Wang\*, **Sipeng Zheng\***, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zongqing Lu
+
+[**Project**](https://github.com/BeingBeyond/Being-VL-0)
+
+- FastSpeech is the first fully parallel end-to-end speech synthesis model.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr2025_2dbpe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -30,6 +42,8 @@ Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zhen
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
 </div>
 </div>
+
+
 
 ## 📚 Others
 
@@ -55,6 +69,6 @@ Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zhen
 - ``AAAI 2023`` [Accommodating audio modality in CLIP for multimodal processing](https://ojs.aaai.org/index.php/AAAI/article/view/26153/25925), Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, **Sipeng Zheng**, Qin Jin.
 - ``IEEC 2023`` [Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos](https://ieeexplore.ieee.org/abstract/document/10043460), **Sipeng Zheng**, Bei Liu, Jianlong Fu, Wen-Huang Cheng, [Code](https://github.com/QiQAng/AwareNet).
 - ``CVPR 2022 workshop`` [Exploring anchor-based detection for ego4d natural language query](https://arxiv.org/abs/2208.05375), **Sipeng Zheng**, Qi Zhang, Bei Liu, Qin Jin, Jianlong Fu, [Code](https://github.com/QiQAng/AwareNet).
-- ``ICME`` [Skeleton-based interactive graph network for human object interaction detection](https://ieeexplore.ieee.org/document/9102755), **Sipeng Zheng**, Shizhe Chen, Qin Jin, [Code](https://github.com/zhengsipeng/SIGN).
+- ``ICME 2020`` [Skeleton-based interactive graph network for human object interaction detection](https://ieeexplore.ieee.org/document/9102755), **Sipeng Zheng**, Shizhe Chen, Qin Jin, [Code](https://github.com/zhengsipeng/SIGN).
 - `ACM-MM 2019` [Visual relation detection with multi-level attention](https://dl.acm.org/doi/10.1145/3343031.3350962), **Sipeng Zheng**, Shizhe Chen, Qin Jin.
 - ``ACM-MM 2019`` [Relation understanding in videos](https://dl.acm.org/doi/10.1145/3343031.3356080), **Sipeng Zheng**, Xiangyu Chen, Shizhe Chen, Qin Jin.

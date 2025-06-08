@@ -34,6 +34,7 @@
 </div>
 
 
+- ``arxiv 24`` [QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds](https://arxiv.org/pdf/2406.16578), Yuting Mei$^*$, Ye Wang$^*$, **Sipeng Zheng**, Qin Jin, [Project](https://quadruped-hub.github.io/Quadruped-GPT/).
 - ``AAAI 2023`` [No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection](https://arxiv.org/abs/2307.10567), Qi Zhang, **Sipeng Zheng**, Qin Jin, [Code](https://github.com/zhengsipeng/SIGN).
 - ``CVPR 2023`` [Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.pdf), **Sipeng Zheng**, Boshen Xu, Qin Jin.
 - ``AAAI 2023`` [Accommodating audio modality in CLIP for multimodal processing](https://ojs.aaai.org/index.php/AAAI/article/view/26153/25925), Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, **Sipeng Zheng**, Qin Jin.

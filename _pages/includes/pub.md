@@ -49,11 +49,11 @@ Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zhen
 
 ## 📚 Others
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/iclr23_steve.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/iclr23_steve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds](https://arxiv.org/abs/2310.13255), **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu. <span style="color:red">(Oral)</span>
-[**Code**](https://github.com/BAAI-Agents/Steve-Eye)
+[**Code**](https://github.com/BAAI-Agents/Steve-Eye) \|
 [**Project**](https://sites.google.com/view/steve-eye)
 
 </div>

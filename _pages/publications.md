@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: page
+layout: archive
 permalink: /publications/
 pagination:
   enabled: true

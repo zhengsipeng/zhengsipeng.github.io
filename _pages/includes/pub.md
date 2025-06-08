@@ -19,16 +19,16 @@
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr22_vrdformer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), **Sipeng Zheng**, Shizhe Chen, Qin Jin. <span style="color:red">(Oral)</span> [**Code**](https://github.com/zhengsipeng/VRDFormer_VRD)
+</div>
+</div>
 
 
-- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
-- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
-- ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
-- ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
-
-
-- ``IEEE TMM`` [SDMuse: Stochastic Differential Music Editing and Generation via Hybrid Representation](https://ieeexplore.ieee.org/document/10149095), Chen Zhang, Yi Ren, Kejun Zhang, Shuicheng Yan.
-- ``ACM-MM 2020`` <span style="color:red">(Oral)</span> [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, et al. \| [**Project**](https://speechresearch.github.io/popmag/)
-- ``AAAI 2021`` [Skeleton-based interactive graph network for human object interaction detection](https://ieeexplore.ieee.org/document/9102755), **Sipeng Zheng**, Shizhe Chen, Qin Jin, [Code](https://github.com/zhengsipeng/SIGN)
+- ``CVPR 2022`` [VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), **Sipeng Zheng**, ShiZhe Chen, Qin Jin, [Code](https://github.com/zhengsipeng/VRDFormer_VRD)
+- ``CVPR 2022 workshop`` [Exploring anchor-based detection for ego4d natural language query](https://arxiv.org/abs/2208.05375), **Sipeng Zheng**, Qi Zhang, Bei Liu, Qin Jin, Jianlong Fu, [Code](https://github.com/QiQAng/AwareNet)
+- ``ICME`` [Skeleton-based interactive graph network for human object interaction detection](https://ieeexplore.ieee.org/document/9102755), **Sipeng Zheng**, Shizhe Chen, Qin Jin, [Code](https://github.com/zhengsipeng/SIGN)
 - `ACM-MM 2019` [Visual relation detection with multi-level attention](https://dl.acm.org/doi/10.1145/3343031.3350962), **Sipeng Zheng**, Shizhe Chen, Qin Jin.
 - ``ACM-MM 2019`` [Relation understanding in videos](https://dl.acm.org/doi/10.1145/3343031.3356080), **Sipeng Zheng**, Xiangyu Chen, Shizhe Chen, Qin Jin.

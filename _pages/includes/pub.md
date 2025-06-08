@@ -75,9 +75,13 @@ Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zhen
 </div>
 
 
+- ``Arxiv 2025`` [EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining](https://arxiv.org/abs/2503.15470), Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin.
 - ``Arxiv 2025`` [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning](https://arxiv.org/abs/2503.07002), Jiazheng Liu, **Sipeng Zheng**, Börje F Karlsson, Zongqing Lu.
 - ``Arxiv 2024`` [VideoOrion: Tokenizing Object Dynamics in Videos](https://arxiv.org/abs/2411.16156), Yicheng Feng\*, Yijiang Li\*, Wanpeng Zhang, **Sipeng Zheng**, Zongqing Lu.
 - ``Arxiv 2024`` [QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds](https://arxiv.org/pdf/2406.16578), Yuting Mei\*, Ye Wang\*, **Sipeng Zheng**, Qin Jin, [Project](https://quadruped-hub.github.io/Quadruped-GPT/).
+- ``ICLR 2025`` [EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?](https://arxiv.org/html/2405.17719v1), Boshen Xu, Ziheng Wang, Yang Du, Zhinan Song, **Sipeng Zheng**, Qin Jin, [Code](https://github.com/xuboshen/egoncepp).
+- ``3DV 2025`` [SPAFormer: Sequential 3D Part Assembly with Transformers](https://arxiv.org/abs/2403.05874), Boshen Xu, **Sipeng Zheng**, Qin Jin, [Code](https://github.com/xuboshen/SPAFormer).
+- ``ECCV 2024`` [UniCode: Learning a Unified Codebook for Multimodal Large Language Models](https://arxiv.org/abs/2310.13255), **Sipeng Zheng**, Bohan Zhou, Yicheng Feng, Ye Wang, Zongqing Lu.
 - ``NAACL 2024`` [LLaMA Rider: Spurring Large Language Models to Explore the Open World](https://arxiv.org/abs/2310.08922), Yicheng Feng, Yuxuan Wang, Jiazheng Liu, **Sipeng Zheng**, Zongqing Lu, [Project](https://github.com/PKU-RL/LLaMA-Rider).
 - ``ACM-MM 2023`` [POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World](https://dl.acm.org/doi/10.1145/3581783.3612484), Boshen Xu, **Sipeng Zheng**, Qin Jin, [Code](https://github.com/xuboshen/pov_acmmm2023) \| [Project](https://xuboshen.github.io/POV/).
 - ``AAAI 2023`` [No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection](https://arxiv.org/abs/2307.10567), Qi Zhang, **Sipeng Zheng**, Qin Jin, [Code](https://github.com/zhengsipeng/SIGN).

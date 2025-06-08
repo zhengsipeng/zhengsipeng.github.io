@@ -14,7 +14,7 @@
 [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
+
 - **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
 </div>
 </div>
@@ -23,12 +23,13 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/icml25_puppet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Being-M0: Scaling Large Motion Models with Million-Level Human Motions](https://arxiv.org/abs/2410.03311) \\
+[**Being-M0**: Scaling Large Motion Models with Million-Level Human Motions](https://arxiv.org/abs/2410.03311) \\
 Ye Wang\*, **Sipeng Zheng\***, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zongqing Lu
 
 [**Project**](https://beingbeyond.github.io/Being-M0/)
 
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
+- Being-M0 is the first large motion generation model scaling to 1 million motion sequences.
+
 </div>
 </div>
 
@@ -36,12 +37,12 @@ Ye Wang\*, **Sipeng Zheng\***, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25_2dbpe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Being-VL-0: From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](https://arxiv.org/abs/2410.02155) \\
+[**Being-VL-0**: From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](https://arxiv.org/abs/2410.02155) \\
 Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zheng**, Zongqing Lu
 
 [**Project**](https://github.com/BeingBeyond/Being-VL-0)
 
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
+- Being-VL-0 is the first large multimodal model based on compressed discrete visual representation using 2D-BPE.
 </div>
 </div>
 

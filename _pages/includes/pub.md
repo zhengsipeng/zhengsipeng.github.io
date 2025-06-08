@@ -34,9 +34,11 @@
 </div>
 
 
-- ``AAAI 2023`` [Accommodating audio modality in CLIP for multimodal processing](https://ojs.aaai.org/index.php/AAAI/article/view/26153/25925), Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, **Sipeng Zheng**, Qin Jin
-- ``IEEC 2023`` [Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos](https://ieeexplore.ieee.org/abstract/document/10043460), **Sipeng Zheng**, Bei Liu, Jianlong Fu, Wen-Huang Cheng, [Code](https://github.com/QiQAng/AwareNet)
-- ``CVPR 2022 workshop`` [Exploring anchor-based detection for ego4d natural language query](https://arxiv.org/abs/2208.05375), **Sipeng Zheng**, Qi Zhang, Bei Liu, Qin Jin, Jianlong Fu, [Code](https://github.com/QiQAng/AwareNet)
-- ``ICME`` [Skeleton-based interactive graph network for human object interaction detection](https://ieeexplore.ieee.org/document/9102755), **Sipeng Zheng**, Shizhe Chen, Qin Jin, [Code](https://github.com/zhengsipeng/SIGN)
+- ``AAAI 2023`` [No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection](https://arxiv.org/abs/2307.10567), Qi Zhang, **Sipeng Zheng**, Qin Jin, [Code](https://github.com/zhengsipeng/SIGN).
+- ``CVPR 2023`` [Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.pdf), **Sipeng Zheng**, Boshen Xu, Qin Jin.
+- ``AAAI 2023`` [Accommodating audio modality in CLIP for multimodal processing](https://ojs.aaai.org/index.php/AAAI/article/view/26153/25925), Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, **Sipeng Zheng**, Qin Jin.
+- ``IEEC 2023`` [Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos](https://ieeexplore.ieee.org/abstract/document/10043460), **Sipeng Zheng**, Bei Liu, Jianlong Fu, Wen-Huang Cheng, [Code](https://github.com/QiQAng/AwareNet).
+- ``CVPR 2022 workshop`` [Exploring anchor-based detection for ego4d natural language query](https://arxiv.org/abs/2208.05375), **Sipeng Zheng**, Qi Zhang, Bei Liu, Qin Jin, Jianlong Fu, [Code](https://github.com/QiQAng/AwareNet).
+- ``ICME`` [Skeleton-based interactive graph network for human object interaction detection](https://ieeexplore.ieee.org/document/9102755), **Sipeng Zheng**, Shizhe Chen, Qin Jin, [Code](https://github.com/zhengsipeng/SIGN).
 - `ACM-MM 2019` [Visual relation detection with multi-level attention](https://dl.acm.org/doi/10.1145/3343031.3350962), **Sipeng Zheng**, Shizhe Chen, Qin Jin.
 - ``ACM-MM 2019`` [Relation understanding in videos](https://dl.acm.org/doi/10.1145/3343031.3356080), **Sipeng Zheng**, Xiangyu Chen, Shizhe Chen, Qin Jin.

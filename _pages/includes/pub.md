@@ -21,10 +21,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/icml2025_puppet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Being-M0: Scaling Large Motion Models with Million-Level Human Motions](https://arxiv.org/abs/2410.02155) \\
+[Being-M0: Scaling Large Motion Models with Million-Level Human Motions](https://arxiv.org/abs/2410.03311) \\
 Ye Wang\*, **Sipeng Zheng\***, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zongqing Lu
 
-[**Project**](https://github.com/BeingBeyond/Being-VL-0)
+[**Project**](https://beingbeyond.github.io/Being-M0/)
 
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
 </div>
@@ -63,7 +63,8 @@ Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zhen
 </div>
 
 
-- ``Arxiv 24`` [QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds](https://arxiv.org/pdf/2406.16578), Yuting Mei$^*$, Ye Wang$^*$, **Sipeng Zheng**, Qin Jin, [Project](https://quadruped-hub.github.io/Quadruped-GPT/).
+- ``Arxiv 2024`` [VideoOrion: Tokenizing Object Dynamics in Videos](https://arxiv.org/abs/2411.16156), Yicheng Feng\*, Yijiang Li\*, Wanpeng Zhang, **Sipeng Zheng**, Zongqing Lu.
+- ``Arxiv 2024`` [QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds](https://arxiv.org/pdf/2406.16578), Yuting Mei$^*$, Ye Wang$^*$, **Sipeng Zheng**, Qin Jin, [Project](https://quadruped-hub.github.io/Quadruped-GPT/).
 - ``AAAI 2023`` [No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection](https://arxiv.org/abs/2307.10567), Qi Zhang, **Sipeng Zheng**, Qin Jin, [Code](https://github.com/zhengsipeng/SIGN).
 - ``CVPR 2023`` [Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.pdf), **Sipeng Zheng**, Boshen Xu, Qin Jin.
 - ``AAAI 2023`` [Accommodating audio modality in CLIP for multimodal processing](https://ojs.aaai.org/index.php/AAAI/article/view/26153/25925), Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, **Sipeng Zheng**, Qin Jin.

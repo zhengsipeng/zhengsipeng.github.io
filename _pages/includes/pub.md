@@ -18,6 +18,21 @@
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr2025_2dbpe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Being-VL-0: From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](https://arxiv.org/abs/2410.02155) \\
+Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zheng**, Zongqing Lu
+
+[**Project**](https://github.com/BeingBeyond/Being-VL-0)
+
+- FastSpeech is the first fully parallel end-to-end speech synthesis model.
+</div>
+</div>
+
+## 📚 Others
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/eccv22_fewshot.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -34,7 +49,7 @@
 </div>
 
 
-- ``arxiv 24`` [QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds](https://arxiv.org/pdf/2406.16578), Yuting Mei$^*$, Ye Wang$^*$, **Sipeng Zheng**, Qin Jin, [Project](https://quadruped-hub.github.io/Quadruped-GPT/).
+- ``Arxiv 24`` [QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds](https://arxiv.org/pdf/2406.16578), Yuting Mei$^*$, Ye Wang$^*$, **Sipeng Zheng**, Qin Jin, [Project](https://quadruped-hub.github.io/Quadruped-GPT/).
 - ``AAAI 2023`` [No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection](https://arxiv.org/abs/2307.10567), Qi Zhang, **Sipeng Zheng**, Qin Jin, [Code](https://github.com/zhengsipeng/SIGN).
 - ``CVPR 2023`` [Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.pdf), **Sipeng Zheng**, Boshen Xu, Qin Jin.
 - ``AAAI 2023`` [Accommodating audio modality in CLIP for multimodal processing](https://ojs.aaai.org/index.php/AAAI/article/view/26153/25925), Ludan Ruan, Anwen Hu, Yuqing Song, Lliang Zhang, **Sipeng Zheng**, Qin Jin.

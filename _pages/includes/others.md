@@ -10,6 +10,6 @@
 - *2022.04 - 2022.10*, Research Intern; Microsoft Research Asia, Beijing, China.
 - *2021.11 - 2022.04*, Research Intern; Beijing Academy of Artificial Intelligence, Beijing, China.
 
-# 💻 Services
+# 🔧 Services
 - Conference Reviewer for CVPR, ICCV, ECCV, ACCV, NeurIPS, AAAI, ACM MM.
 - Journal Reviewer for IJCV, TCSVT, TMM, JATS.

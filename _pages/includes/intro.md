@@ -9,7 +9,7 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 
 ## Join Us!
 
-We are actively recruiting full-time researchers and interns to join our team. If you’re passionate about embodied AI, feel free to [reach out](zhengsipeng27@gmail.com).
+We are actively recruiting full-time researchers and interns to join our team. If you’re passionate about embodied AI, feel free to [reach out](spzheng@beingbeyond.com).
 
 ## Research Interest
 * Large language models and large multimodal models

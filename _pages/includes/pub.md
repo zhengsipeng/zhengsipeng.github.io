@@ -3,9 +3,6 @@
 <b>\* denotes equal contribution</b>
 
 ## 🤖 BeingBeyond
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/icml25_puppet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -35,7 +32,6 @@ Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zhen
 
 
 ## 🎙 Large Multimodal Model
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/iclr23_steve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,7 +59,6 @@ Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zhen
 
 
 ## 📚 Paper List
-
 - ``Arxiv 2025`` [EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining](https://arxiv.org/abs/2503.15470), Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin.
 - ``Arxiv 2025`` [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning](https://arxiv.org/abs/2503.07002), Jiazheng Liu, **Sipeng Zheng**, Börje F Karlsson, Zongqing Lu.
 - ``Arxiv 2024`` [VideoOrion: Tokenizing Object Dynamics in Videos](https://arxiv.org/abs/2411.16156), Yicheng Feng\*, Yijiang Li\*, Wanpeng Zhang, **Sipeng Zheng**, Zongqing Lu.

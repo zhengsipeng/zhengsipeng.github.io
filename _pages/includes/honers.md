@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- *2025.6* Ranked 1st in GemBench Challenge at CVPR 2025 Workshop GRAIL.
+- *2025* Ranked 1st in GemBench Challenge at CVPR 2025 Workshop GRAIL.
 - *2022* Ranked 3th in CVPR 2022 Ego4D Natural Language Query Challenge.
 - *2021* Ranked 3th in NIST TRECVID 2021 Ad-hoc Video Search (AVS) Challenge.
 - *2021* Ranked 2nd in CVPR 2021 HOMAGE Scene-graph Generation Challenge.

@@ -1,6 +1,6 @@
 ## Welcome to My Homepage!
 
-I'm a general partner of <b>BeingBeyond</b>, a startup dedicated to advancing foundation models for embodied AI, where I collaborate closely [Prof. Zongqing Lu](https://z0ngqing.github.io). 
+I'm a general partner of <b>BeingBeyond</b>, a startup dedicated to advancing foundation models for general-purposed humanoid robots, where I collaborate closely [Prof. Zongqing Lu](https://z0ngqing.github.io). 
 Prior to this, I was a researcher at the [Beijing Academy of Artificial Intelligence(BAAI)](https://www.baai.ac.cn).
 I obtained my PhD and bachelor's degree from [Renmin University of China (RUC)](https://en.ruc.edu.cn), under the guidance of [Prof. Qin Jin](https://www.jin-qin.com). 
 My research primarily focuses on human behavior understanding, vision-and-language learning, and the development of open-world embodied agents.

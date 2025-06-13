@@ -5,7 +5,7 @@
 
 
 # 💻 Work Experience
-- *2025.05 - now*, Research Scientisc; BeingBeyond, Beijing, China.
+- *2025.05 - now*, Research Scientist; BeingBeyond, Beijing, China.
 - *2023.07 - 2025.05*, Researcher; Beijing Academy of Artificial Intelligence, Beijing, China.
 - *2022.04 - 2022.10*, Research Intern; Microsoft Research Asia, Beijing, China.
 - *2021.11 - 2022.04*, Research Intern; Beijing Academy of Artificial Intelligence, Beijing, China.

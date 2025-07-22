@@ -3,6 +3,20 @@
 <b>\* denotes equal contribution</b>
 
 ## 🤖 BeingBeyond
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/arxiv_being_h0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Being-H0**: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597) \\
+Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\***, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu
+
+[**Project**](https://beingbeyond.github.io/Being-H0/)
+
+- Being-H0 is the first VLA pretrained from large-scale human videos with hand motion. 
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/arxiv_rlpf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -16,6 +30,7 @@ Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu,
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/icml25_puppet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -28,6 +43,7 @@ Ye Wang\*, **Sipeng Zheng\***, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zo
 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25_2dbpe.png' alt="sym" width="100%"></div></div>
@@ -72,6 +88,9 @@ Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zhen
 
 
 ## 📚 Paper List
+- ``Arxiv 2025`` [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597), 
+Hao Luo, Yicheng Feng, Wanpeng Zhang, **Sipeng Zheng**, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu
+[Project](https://beingbeyond.github.io/Being-H0/).
 - ``Arxiv 2025`` [RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control](https://www.arxiv.org/abs/2506.12769), Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu, Yu Zhang, **Sipeng Zheng**, Ziluo Ding, Zongqing Lu [Project](https://beingbeyond.github.io/RLPF/).
 - ``Arxiv 2025`` [EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining](https://arxiv.org/abs/2503.15470), Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin.
 - ``Arxiv 2025`` [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning](https://arxiv.org/abs/2503.07002), Jiazheng Liu, **Sipeng Zheng**, Börje F Karlsson, Zongqing Lu.

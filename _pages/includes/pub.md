@@ -52,10 +52,12 @@ Ye Wang\*, **Sipeng Zheng\***, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zo
 [**Being-VL-0.5**: Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639) \\
 Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu.  <span style="color:red">(Highlight)</span>
 
-[**Project**](https://github.com/BeingBeyond/Being-VL-0) 
+[**Project**](https://github.com/BeingBeyond/Being-VL-0.5) 
 
 - Being-VL is the first large multimodal model based on compressed discrete visual representation using 2D-BPE.
-- [Being-VL-0: From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](https://arxiv.org/abs/2410.02155) (ICLR 2025)
+
+[Being-VL-0: From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](https://arxiv.org/abs/2410.02155) (ICLR 2025) 
+[**page**](https://github.com/BeingBeyond/Being-VL-0)
 
 </div>
 </div>

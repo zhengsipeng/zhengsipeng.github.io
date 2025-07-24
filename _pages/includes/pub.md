@@ -61,28 +61,34 @@ Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zhen
 
 
 ## 🎙 Large Multimodal Model
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv25_unified.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639f), Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu. <span style="color:red">(Highlight)</span>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/iclr23_steve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds](https://arxiv.org/abs/2310.13255), **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu. <span style="color:red">(Oral)</span>
+
 [**Code**](https://github.com/BAAI-Agents/Steve-Eye) \|
 [**Project**](https://sites.google.com/view/steve-eye)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/eccv22_fewshot.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640293.pdf), **Sipeng Zheng**, Shizhe Chen, Qin Jin. [**Code**](https://github.com/zhengsipeng/HCL-FSAR)
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr22_vrdformer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), **Sipeng Zheng**, Shizhe Chen, Qin Jin. <span style="color:red">(Oral)</span> [**Code**](https://github.com/zhengsipeng/VRDFormer_VRD)
+[VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), **Sipeng Zheng**, Shizhe Chen, Qin Jin. <span style="color:red">(Oral 4.14%)</span> 
+
+[**Code**](https://github.com/zhengsipeng/VRDFormer_VRD)
 </div>
 </div>
 

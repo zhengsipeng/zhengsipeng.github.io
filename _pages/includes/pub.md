@@ -62,7 +62,7 @@ Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zhen
 
 ## 🎙 Large Multimodal Model
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv25_unified.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv25_unified.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639f), Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu. <span style="color:red">(Highlight)</span>
@@ -73,7 +73,7 @@ Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zhen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/iclr23_steve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds](https://arxiv.org/abs/2310.13255), **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu. <span style="color:red">(Oral)</span>
+[Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds](https://arxiv.org/abs/2310.13255), **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu. <span style="color:red">(Spotlight 5.02%)</span>
 
 [**Code**](https://github.com/BAAI-Agents/Steve-Eye) \|
 [**Project**](https://sites.google.com/view/steve-eye)

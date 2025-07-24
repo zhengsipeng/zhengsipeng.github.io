@@ -2,7 +2,7 @@
 # 📝 Publications 
 <b>\* denotes equal contribution</b>
 
-## 🤖 BeingBeyond
+## 🤖 BeingBeyond Series
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/arxiv_being_h0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,29 +46,24 @@ Ye Wang\*, **Sipeng Zheng\***, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zo
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25_2dbpe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Being-VL-0**: From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](https://arxiv.org/abs/2410.02155) \\
-Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zheng**, Zongqing Lu
-
-[**Project**](https://github.com/BeingBeyond/Being-VL-0)
-
-- Being-VL-0 is the first large multimodal model based on compressed discrete visual representation using 2D-BPE.
-</div>
-</div>
-
-
-
-## 🎙 Large Multimodal Model
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv25_unified.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639f), Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu. <span style="color:red">(Highlight)</span>
+[**Being-VL-0.5**: Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639) \\
+Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu.  <span style="color:red">(Highlight)</span>
+
+[**Project**](https://github.com/BeingBeyond/Being-VL-0) 
+
+- Being-VL is the first large multimodal model based on compressed discrete visual representation using 2D-BPE.
+- [Being-VL-0: From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](https://arxiv.org/abs/2410.02155) (ICLR 2025)
 
 </div>
 </div>
+
+
+
+## 🎙 Before BeingBeyond
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/iclr23_steve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,10 +78,25 @@ Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zhen
 
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/eccv22_fewshot.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640293.pdf), 
+**Sipeng Zheng**, Shizhe Chen, Qin Jin. 
+
+[**Code**](https://github.com/zhengsipeng/HCL-FSAR)
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr22_vrdformer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), **Sipeng Zheng**, Shizhe Chen, Qin Jin. <span style="color:red">(Oral 4.14%)</span> 
+[VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), 
+**Sipeng Zheng**, Shizhe Chen, Qin Jin. <span style="color:red">(Oral 4.14%)</span> 
 
 [**Code**](https://github.com/zhengsipeng/VRDFormer_VRD)
 </div>

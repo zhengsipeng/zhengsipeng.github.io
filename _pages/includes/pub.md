@@ -20,7 +20,7 @@ Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\***, Ye Wang, Haoqi Y
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/arxiv_rlpf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**RLPF**: Scaling Large Motion Models with Million-Level Human Motions](https://arxiv.org/abs/2506.12769) \\
+[**RLPF**: Physical Feedback: Aligning Large Motion Models with Humanoid Control](https://arxiv.org/abs/2506.12769) \\
 Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu, Yu Zhang, **Sipeng Zheng**, Ziluo Ding, Zongqing Lu
 
 [**Project**](https://beingbeyond.github.io/RLPF/)
@@ -52,7 +52,8 @@ Ye Wang\*, **Sipeng Zheng\***, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zo
 [**Being-VL-0.5**: Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639) \\
 Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu.  <span style="color:red">(Highlight)</span>
 
-[**Project**](https://github.com/BeingBeyond/Being-VL-0.5) 
+[**Project**](https://beingbeyond.github.io/Being-VL-0.5)  \|
+[**Code**](https://github.com/BeingBeyond/Being-VL-0.5) 
 
 - Being-VL is the first large multimodal model based on compressed discrete visual representation using 2D-BPE.
 

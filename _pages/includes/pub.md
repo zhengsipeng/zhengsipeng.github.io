@@ -37,6 +37,8 @@ Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu,
 [**Being-M0**: Scaling Large Motion Models with Million-Level Human Motions](https://arxiv.org/abs/2410.03311) \\
 Ye Wang\*, **Sipeng Zheng\***, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zongqing Lu
 
+ICML25
+
 [**Project**](https://beingbeyond.github.io/Being-M0/)
 
 - Being-M0 is the first large motion generation model scaling to 1 million motion sequences.
@@ -50,7 +52,9 @@ Ye Wang\*, **Sipeng Zheng\***, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zo
 <div class='paper-box-text' markdown="1">
 
 [**Being-VL-0.5**: Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639) \\
-Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu.  <span style="color:red">(Highlight)</span>
+Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu.  
+
+ICCV25 (<span style="color:red">Highlight</span>)
 
 [**Project**](https://beingbeyond.github.io/Being-VL-0.5)  \|
 [**Code**](https://github.com/BeingBeyond/Being-VL-0.5) 
@@ -58,7 +62,7 @@ Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Z
 - Being-VL is the first large multimodal model based on compressed discrete visual representation using 2D-BPE.
 
 [Being-VL-0: From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](https://arxiv.org/abs/2410.02155) (ICLR 2025) 
-[**page**](https://github.com/BeingBeyond/Being-VL-0)
+\| [**page**](https://github.com/BeingBeyond/Being-VL-0)
 
 </div>
 </div>
@@ -71,7 +75,9 @@ Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Z
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/iclr23_steve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds](https://arxiv.org/abs/2310.13255), **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu. <span style="color:red">(Spotlight 5.02%)</span>
+[Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds](https://arxiv.org/abs/2310.13255), **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu. 
+
+ICLR24 (<span style="color:red">Spotlight 5.02%</span>)
 
 [**Code**](https://github.com/BAAI-Agents/Steve-Eye) \|
 [**Project**](https://sites.google.com/view/steve-eye)
@@ -88,6 +94,8 @@ Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Z
 [Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640293.pdf), 
 **Sipeng Zheng**, Shizhe Chen, Qin Jin. 
 
+ECCV22
+
 [**Code**](https://github.com/zhengsipeng/HCL-FSAR)
 </div>
 </div>
@@ -98,7 +106,7 @@ Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Z
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr22_vrdformer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), **Sipeng Zheng**, Shizhe Chen, Qin Jin
+[VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), **Sipeng Zheng**, Shizhe Chen, Qin Jin.
 
 CVPR22 (<span style="color:red">Oral 4.14%</span>) 
 

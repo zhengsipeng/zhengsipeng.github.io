@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.07*: 🎉 Our next LMM version Being-VL-0.5 is released ([usr](), []())
 - *2025.07*: 🎉 We release Being-H0, the first VLA pretrained from large-scale human videos with hand motion. 
 - *2025.06*: 🎉 Three paper is accepted to ICCV'25.
 - *2025.06*: 🎉 We won 1st place in GemBench Challenge at CVPR 2025 Workshop GRAIL.

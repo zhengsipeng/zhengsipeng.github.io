@@ -98,8 +98,9 @@ Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Z
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr22_vrdformer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), 
-**Sipeng Zheng**, Shizhe Chen, Qin Jin. <span style="color:red">(Oral 4.14%)</span> 
+[VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), CVPR22 (<span style="color:red">Oral 4.14%</span>) 
+
+**Sipeng Zheng**, Shizhe Chen, Qin Jin. 
 
 [**Code**](https://github.com/zhengsipeng/VRDFormer_VRD)
 </div>

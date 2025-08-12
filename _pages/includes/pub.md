@@ -31,17 +31,20 @@ Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/icml25_puppet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv25_being-m05.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Being-M0**: Scaling Large Motion Models with Million-Level Human Motions](https://arxiv.org/abs/2410.03311) \\
-Ye Wang\*, **Sipeng Zheng\***, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zongqing Lu
+[**Being-M0.5**: A Real-Time Controllable Vision-Language-Motion Model](https://arxiv.org/pdf/2508.07863) \\
+Bin Cao\*, **Sipeng Zheng\***, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing Liu, Zongqing Lu
 
-ICML25
+ICCV25
 
-[**Project**](https://beingbeyond.github.io/Being-M0/)
+[**Project**](https://beingbeyond.github.io/Being-M0.5/)
 
-- Being-M0 is the first large motion generation model scaling to 1 million motion sequences.
+- Being-M is the first large motion generation model scaling to million-level motion sequences.
+
+[Being-M0: Scaling Large Motion Models with Million-Level Human Motions](https://arxiv.org/abs/2410.03311) (ICML 2025) 
+\| [**page**](https://beingbeyond.github.io/Being-M0/)
 
 </div>
 </div>

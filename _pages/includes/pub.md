@@ -2,7 +2,7 @@
 # 📝 Publications 
 <b>\* denotes equal contribution</b>
 
-## <img src='images/favicon.ico' alt="beingbeyond" width="16" height="16"> BeingBeyond Series
+## <img src='images/beingbeyond.ico' alt="beingbeyond" width="16" height="16"> BeingBeyond Series
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/arxiv_being_h0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,7 +61,7 @@ Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Z
 ICCV25 (<span style="color:red">Highlight</span>)
 
 [**Project**](https://beingbeyond.github.io/Being-VL-0.5)  \|
-[**Code**](https://github.com/BeingBeyond/Being-VL-0.5) 
+<i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-VL-0.5) 
 
 - Being-VL is the first large multimodal model based on compressed discrete visual representation using 2D-BPE.
 
@@ -84,7 +84,7 @@ ICCV25 (<span style="color:red">Highlight</span>)
 ICLR24 (<span style="color:red">Spotlight 5.02%</span>)
 
 [**Project**](https://sites.google.com/view/steve-eye)  \|
-[**Code**](https://github.com/BAAI-Agents/Steve-Eye)
+<i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BAAI-Agents/Steve-Eye)
 
 </div>
 </div>
@@ -100,7 +100,7 @@ ICLR24 (<span style="color:red">Spotlight 5.02%</span>)
 
 ECCV22
 
-[**Code**](https://github.com/zhengsipeng/HCL-FSAR)
+<i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/zhengsipeng/HCL-FSAR)
 </div>
 </div>
 
@@ -114,7 +114,7 @@ ECCV22
 
 CVPR22 (<span style="color:red">Oral 4.14%</span>) 
 
-[**Code**](https://github.com/zhengsipeng/VRDFormer_VRD)
+<i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/zhengsipeng/VRDFormer_VRD)
 </div>
 </div>
 

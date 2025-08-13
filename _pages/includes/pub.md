@@ -9,7 +9,8 @@
 [**Being-H0**: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597) \\
 Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\***, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu
 
-[**Project**](https://beingbeyond.github.io/Being-H0/)
+[**Project**](https://beingbeyond.github.io/Being-H0/) \|
+<img src='images/github.svg' alt="github" width="16" height="16"> [**Code**](https://github.com/BeingBeyond/Being-VL-0.5) 
 
 - Being-H0 is the first VLA pretrained from large-scale human videos with hand motion. 
 
@@ -82,8 +83,8 @@ ICCV25 (<span style="color:red">Highlight</span>)
 
 ICLR24 (<span style="color:red">Spotlight 5.02%</span>)
 
-[**Code**](https://github.com/BAAI-Agents/Steve-Eye) \|
-[**Project**](https://sites.google.com/view/steve-eye)
+[**Project**](https://sites.google.com/view/steve-eye)  \|
+[**Code**](https://github.com/BAAI-Agents/Steve-Eye)
 
 </div>
 </div>

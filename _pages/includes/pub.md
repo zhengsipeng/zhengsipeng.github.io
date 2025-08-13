@@ -2,7 +2,7 @@
 # 📝 Publications 
 <b>\* denotes equal contribution</b>
 
-## 🤖 BeingBeyond Series
+## <img src='images/favicon.ico' alt="beingbeyond" width="16" height="16"> BeingBeyond Series
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/arxiv_being_h0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -10,7 +10,7 @@
 Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\***, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu
 
 [**Project**](https://beingbeyond.github.io/Being-H0/) \|
-<img src='images/fvicon.ico' alt="github" width="16" height="16">[ **Code**](https://github.com/BeingBeyond/Being-H0) 
+<img src='images/favicon.ico' alt="github" width="16" height="16">[ **Code**](https://github.com/BeingBeyond/Being-H0) 
 
 - Being-H0 is the first VLA pretrained from large-scale human videos with hand motion. 
 

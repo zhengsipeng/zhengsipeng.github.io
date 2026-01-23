@@ -133,11 +133,14 @@ CVPR22 (<span style="color:red">Oral 4.14%</span>)
 
 
 ## 📚 Paper List
-- ``Arxiv 2025`` [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/pdf/2601.12993), 
+- ``Arxiv 2026`` [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/pdf/2601.12993), 
 Hao Luo\*, Ye Wang\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ziheng Xi, Chaoyi Xu, Haiweng Xu, Haoqi Yuan, Chi Zhang, Yiqing Wang, Yicheng Feng, Zongqing Lu<sup>✉</sup>,
 [**Blog**](https://research.beingbeyond.com/being-h05) | 
 <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H) | <img src='images/hg.ico' alt="huggingface" width="16" height="16"> 
 [**Model**](https://huggingface.co/collections/BeingBeyond/being-h05).
+
+- ``Arxiv 2025`` [Predictive Embedding as Latent Action: Towards VLA Pretraining in the Wild](https://openreview.net/pdf?id=iGwN4eoN6k), 
+Hao Luo, Ye Wang, Wanpeng Zhang, Haoqi Yuan, Yicheng Feng, Haiweng Xu, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>,
 
 - ``Arxiv 2025`` [DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models](https://arxiv.org/pdf/2512.01715), 
 Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, Yicheng Feng, **Sipeng Zheng**, Qin Jin, Zongqing Lu<sup>✉</sup>,
@@ -177,7 +180,8 @@ Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin<sup>✉</sup>.
 
 - ``ICLR 2025`` [From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](https://arxiv.org/abs/2410.02155), Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>, [**Page**](https://github.com/BeingBeyond/Being-VL-0).
 
-- ``3DV 2025`` [SPAFormer: Sequential 3D Part Assembly with Transformers](https://arxiv.org/abs/2403.05874), Boshen Xu, **Sipeng Zheng**, Qin Jin<sup>✉</sup>, [Code](https://github.com/xuboshen/SPAFormer).
+- ``3DV 2025`` [SPAFormer: Sequential 3D Part Assembly with Transformers](https://arxiv.org/abs/2403.05874), Boshen Xu, **Sipeng Zheng**, Qin Jin<sup>✉</sup>, <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/xuboshen/SPAFormer).
+
 - ``ECCV 2024`` [UniCode: Learning a Unified Codebook for Multimodal Large Language Models](https://arxiv.org/abs/2403.09072), **Sipeng Zheng**, Bohan Zhou, Yicheng Feng, Ye Wang, Zongqing Lu<sup>✉</sup>.
 - ``ICLR 2024`` [Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds](https://arxiv.org/abs/2310.13255), **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu<sup>✉</sup>.
 - ``NAACL 2024`` [LLaMA Rider: Spurring Large Language Models to Explore the Open World](https://arxiv.org/abs/2310.08922), Yicheng Feng, Yuxuan Wang, Jiazheng Liu, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>, [Project](https://github.com/PKU-RL/LLaMA-Rider).

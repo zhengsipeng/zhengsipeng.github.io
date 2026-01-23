@@ -135,16 +135,14 @@ CVPR22 (<span style="color:red">Oral 4.14%</span>)
 ## 📚 Paper List
 - ``Arxiv 2025`` [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/pdf/2601.12993), 
 Hao Luo\*, Ye Wang\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ziheng Xi, Chaoyi Xu, Haiweng Xu, Haoqi Yuan, Chi Zhang, Yiqing Wang, Yicheng Feng, Zongqing Lu<sup>✉</sup>,
-[Blog](https://research.beingbeyond.com/being-h05) | 
-<i class="fab fa-fw fa-github" aria-hidden="true"></i> [Code](https://github.com/BeingBeyond/Being-H) | 
-<img src='images/hg.ico' alt="huggingface" width="16" height="16"> 
-[Model](https://huggingface.co/collections/BeingBeyond/being-h05).
+[**Blog**](https://research.beingbeyond.com/being-h05) | 
+<i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H) | <img src='images/hg.ico' alt="huggingface" width="16" height="16"> 
+[**Model**](https://huggingface.co/collections/BeingBeyond/being-h05).
 
 
 - ``Arxiv 2025`` [DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models](https://arxiv.org/pdf/2512.01715), 
 Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, Yicheng Feng, **Sipeng Zheng**, Qin Jin, Zongqing Lu<sup>✉</sup>,
-[Blog](https://research.beingbeyond.com/dig-flow) |
-<i class="fab fa-fw fa-github" aria-hidden="true"></i> [Code](https://github.com/BeingBeyond/DiG-Flow).
+[**Blog**](https://research.beingbeyond.com/dig-flow) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/DiG-Flow).
 
 
 - ``Arxiv 2025`` [Robust Motion Generation using Part-level Reliable Data from Videos](https://arxiv.org/pdf/2512.12703), 
@@ -153,25 +151,30 @@ Boyuan Li, **Sipeng Zheng**, Bin Cao, Ruihua Song, Zongqing Lu.
 
 - ``Arxiv 2025`` [Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](https://arxiv.org/abs/2512.13080), 
 Yicheng Feng, Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>,
-[Page](https://beingbeyond.github.io/VIPA-VLA) |
-<i class="fab fa-fw fa-github" aria-hidden="true"></i> [Project](https://github.com/BeingBeyond/VIPA-VLA).
+[**Page**](https://beingbeyond.github.io/VIPA-VLA) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Project**](https://github.com/BeingBeyond/VIPA-VLA).
 
 
 - ``Arxiv 2025`` [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597), 
 Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu<sup>✉</sup>
-[Blog](https://research.beingbeyond.com/being-h0) | 
-<i class="fab fa-fw fa-github" aria-hidden="true"></i> [Code](https://github.com/BeingBeyond/Being-H0) |
-<img src='images/hg.ico' alt="huggingface" width="16" height="16"> [Model](https://huggingface.co/BeingBeyond/Being-H0).
+[**Blog**](https://research.beingbeyond.com/being-h0) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H0) | <img src='images/hg.ico' alt="huggingface" width="16" height="16"> [**Model**](https://huggingface.co/BeingBeyond/Being-H0).
 
 
-- ``Arxiv 2025`` [RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control](https://www.arxiv.org/abs/2506.12769), Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu, Yu Zhang, **Sipeng Zheng**, Ziluo Ding, Zongqing Lu<sup>✉</sup> [Project](https://beingbeyond.github.io/RLPF/).
+- ``Arxiv 2025`` [RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control](https://www.arxiv.org/abs/2506.12769), Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu, Yu Zhang, **Sipeng Zheng**, Ziluo Ding, Zongqing Lu<sup>✉</sup>, [**Page**](https://beingbeyond.github.io/RLPF/).
 
-- ``NeurIPS 2025`` [OpenMMEgo: Enhancing Egocentric Understanding for LMMs with Open Weights and Data](https://arxiv.org/abs/2503.15470), Hao Luo, Zihao Yue, Wanpeng Zhang, Yicheng Feng, **Sipeng Zheng**, Deheng Ye, Zongqing Lu. 
+
+- ``NeurIPS 2025`` [OpenMMEgo: Enhancing Egocentric Understanding for LMMs with Open Weights and Data](https://openreview.net/forum?id=9OyMsbuzL5), Hao Luo, Zihao Yue, Wanpeng Zhang, Yicheng Feng, **Sipeng Zheng**, Deheng Ye, Zongqing Lu. 
 Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin<sup>✉</sup>.
 
-- ``NeurIPS 2025`` [EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining](https://arxiv.org/abs/2503.15470), Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin<sup>✉</sup>.
+
+- ``NeurIPS 2025`` [EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining](https://arxiv.org/abs/2503.15470), Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin<sup>✉</sup>, <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H0).
+
+
 - ``EMNLP 2025`` [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning](https://arxiv.org/abs/2503.07002), Jiazheng Liu, **Sipeng Zheng**, Börje F Karlsson, Zongqing Lu<sup>✉</sup>.
-- ``ICCV 2025`` [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639), Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>.
+
+
+- ``ICCV 2025`` [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639), Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>, [**Blog**](https://research.beingbeyond.com/being-vl05) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> | [**Code**](https://github.com/BeingBeyond/Being-VL-0.5) \| [**Page**](https://github.com/BeingBeyond/Being-VL-0)
+
+
 - ``ICCV 2025`` [MotionCtrl: A Real-time Controllable Vision-Language-Motion Model](https://arxiv.org/abs/xxxx), Bin Cao\*, **Sipeng Zheng\***, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing Liu, Zongqing Lu<sup>✉</sup>.
 - ``ICCV 2025`` [VideoOrion: Tokenizing Object Dynamics in Videos](https://arxiv.org/abs/2411.16156), Yicheng Feng\*, Yijiang Li\*, Wanpeng Zhang, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>.
 - ``Arxiv 2025`` [QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds](https://arxiv.org/pdf/2406.16578), Yuting Mei\*, Ye Wang\*, **Sipeng Zheng**, Qin Jin<sup>✉</sup>, [Project](https://quadruped-hub.github.io/Quadruped-GPT/).

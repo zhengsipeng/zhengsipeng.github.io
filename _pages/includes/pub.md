@@ -194,7 +194,7 @@ Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin<sup>✉</sup>.
 - ``ACM-MM 2023`` [POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World](https://dl.acm.org/doi/10.1145/3581783.3612484), Boshen Xu, **Sipeng Zheng**, Qin Jin<sup>✉</sup>, [**Page**](https://xuboshen.github.io/POV) ｜ <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/xuboshen/pov_acmmm2023).
 
 
-- ``AAAI 2023`` [No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection](https://arxiv.org/abs/2307.10567), Qi Zhang, **Sipeng Zheng**, Qin Jin<sup>✉</sup>, [Code](https://github.com/QiQAng/AwareNet).
+- ``AAAI 2023`` [No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection](https://arxiv.org/abs/2307.10567), Qi Zhang, **Sipeng Zheng**, Qin Jin<sup>✉</sup>, <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/QiQAng/AwareNet).
 
 - ``CVPR 2023`` [Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.pdf), **Sipeng Zheng**, Boshen Xu, Qin Jin<sup>✉</sup>.
 

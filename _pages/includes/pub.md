@@ -9,7 +9,7 @@
 <div class='paper-box-text' markdown="1">
 
 [**Being-H0.5**: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/pdf/2601.12993) \\
-Hao Luo\*, Ye Wang\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ziheng Xi, Chaoyi Xu, Haiweng Xu, Haoqi Yuan, Chi Zhang, Yiqing Wang, Yicheng Feng, Zongqing Lu📧
+Hao Luo\*, Ye Wang\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ziheng Xi, Chaoyi Xu, Haiweng Xu, Haoqi Yuan, Chi Zhang, Yiqing Wang, Yicheng Feng, Zongqing Lu<sup>📧</sup>
 
 
 [**Blog**](https://research.beingbeyond.com/being-h05) \|

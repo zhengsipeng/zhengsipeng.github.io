@@ -18,7 +18,7 @@ Hao Luo\*, Ye Wang\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ziheng 
 <img src='images/hg.ico' alt="huggingface" width="16" height="16"> 
 [**Model**](https://huggingface.co/collections/BeingBeyond/being-h05)
 
-- **Being-H0.5** is our attempt to make one Vision-Language-Action model travel across those differences without turning into a brittle collection of per-robot hacks.
+- Robots do not just look different. They also act through different physical control languages: different kinematics, sensors, action conventions, and timing. Being-H0.5 is our attempt to make one Vision-Language-Action model travel across those differences without turning into a brittle collection of per-robot hacks. **Being-H0.5** is our attempt to make one Vision-Language-Action model travel across those differences without turning into a brittle collection of per-robot hacks. The model is trained using over 35,000 hours of data, including 16,000 hours of human videos and 14,000 hours of robot manipualtion (30+ embodiments).
 
 </div>
 </div>

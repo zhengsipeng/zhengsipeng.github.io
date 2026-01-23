@@ -31,8 +31,10 @@ Hao Luo\*, Ye Wang\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ziheng 
 Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu
 
 [**Blog**](https://research.beingbeyond.com/being-h0) \|
-<i class="fab fa-fw fa-github" aria-hidden="true"></i> [ **Code**](https://github.com/BeingBeyond/Being-H0) \|
-<img src='images/hg.ico' alt="huggingface" width="16" height="16"> [**Model**](https://huggingface.co/BeingBeyond/Being-H0)
+<i class="fab fa-fw fa-github" aria-hidden="true"></i> 
+[ **Code**](https://github.com/BeingBeyond/Being-H0) \|
+<img src='images/hg.ico' alt="huggingface" width="16" height="16"> 
+[**Model**](https://huggingface.co/BeingBeyond/Being-H0)
 
 - Being-H0 is the first VLA pretrained from large-scale human videos with hand motion. 
 
@@ -48,12 +50,12 @@ Bin Cao\*, **Sipeng Zheng\***, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing L
 
 ICCV25
 
-[**Blog**](https://research.beingbeyond.com/being-m05)
+[**Blog**](https://research.beingbeyond.com/being-m05) \|
+[**Page**](https://beingbeyond.github.io/Being-M0/)
 
 - Being-M is the first large motion generation model scaling to million-level motion sequences.
 
 [Being-M0: Scaling Large Motion Models with Million-Level Human Motions](https://arxiv.org/abs/2410.03311) (ICML 2025) 
-\| [**page**](https://beingbeyond.github.io/Being-M0/)
 
 </div>
 </div>
@@ -68,12 +70,13 @@ Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Z
 ICCV25 (<span style="color:red">Highlight</span>)
 
 [**Blog**](https://research.beingbeyond.com/being-vl05)  \|
-<i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-VL-0.5) 
+<i class="fab fa-fw fa-github" aria-hidden="true"></i> 
+[**Code**](https://github.com/BeingBeyond/Being-VL-0.5) \|
+[**Page**](https://github.com/BeingBeyond/Being-VL-0)
 
 - Being-VL is the first large multimodal model based on compressed discrete visual representation using 2D-BPE.
 
-[Being-VL-0: From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](https://arxiv.org/abs/2410.02155) (ICLR 2025) 
-\| [**page**](https://github.com/BeingBeyond/Being-VL-0)
+[Being-VL-0: From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](https://arxiv.org/abs/2410.02155) (ICLR 2025)
 
 </div>
 </div>

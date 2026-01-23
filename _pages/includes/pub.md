@@ -157,7 +157,7 @@ Yicheng Feng, Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, **Sipeng Zheng**, Zon
 [**Page**](https://beingbeyond.github.io/VIPA-VLA) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Project**](https://github.com/BeingBeyond/VIPA-VLA).
 
 - ``Arxiv 2025`` [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597), 
-Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu<sup>✉</sup>
+Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu<sup>✉</sup>, 
 [**Blog**](https://research.beingbeyond.com/being-h0) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H0) | <img src='images/hg.ico' alt="huggingface" width="16" height="16"> [**Model**](https://huggingface.co/BeingBeyond/Being-H0).
 
 - ``Arxiv 2025`` [RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control](https://www.arxiv.org/abs/2506.12769), Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu, Yu Zhang, **Sipeng Zheng**, Ziluo Ding, Zongqing Lu<sup>✉</sup>, [**Page**](https://beingbeyond.github.io/RLPF/).

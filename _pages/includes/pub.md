@@ -28,7 +28,7 @@ Hao Luo\*, Ye Wang\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ziheng 
 <div class='paper-box-text' markdown="1">
 
 [**Being-H0**: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597) \\
-Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu
+Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu<sup>✉</sup>
 
 [**Blog**](https://research.beingbeyond.com/being-h0) \|
 <i class="fab fa-fw fa-github" aria-hidden="true"></i> 
@@ -46,7 +46,7 @@ Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ye
 <div class='paper-box-text' markdown="1">
 
 [**Being-M0.5**: A Real-Time Controllable Vision-Language-Motion Model](https://arxiv.org/pdf/2508.07863) \\
-Bin Cao\*, **Sipeng Zheng\***, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing Liu, Zongqing Lu
+Bin Cao\*, **Sipeng Zheng\***, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing Liu, Zongqing Lu<sup>✉</sup>
 
 ICCV25
 
@@ -65,7 +65,7 @@ ICCV25
 <div class='paper-box-text' markdown="1">
 
 [**Being-VL0.5**: Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639) \\
-Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu.  
+Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>
 
 ICCV25 (<span style="color:red">Highlight</span>)
 
@@ -91,7 +91,7 @@ ICCV25 (<span style="color:red">Highlight</span>)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/iclr23_steve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds](https://arxiv.org/abs/2310.13255), **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu. 
+[Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds](https://arxiv.org/abs/2310.13255), **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu<sup>✉</sup> 
 
 ICLR24 (<span style="color:red">Spotlight 5.02%</span>)
 
@@ -108,7 +108,7 @@ ICLR24 (<span style="color:red">Spotlight 5.02%</span>)
 <div class='paper-box-text' markdown="1">
 
 [Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640293.pdf), 
-**Sipeng Zheng**, Shizhe Chen, Qin Jin. 
+**Sipeng Zheng**, Shizhe Chen, Qin Jin<sup>✉</sup>
 
 ECCV22
 
@@ -122,7 +122,7 @@ ECCV22
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr22_vrdformer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), **Sipeng Zheng**, Shizhe Chen, Qin Jin.
+[VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), **Sipeng Zheng**, Shizhe Chen, Qin Jin<sup>✉</sup>
 
 CVPR22 (<span style="color:red">Oral 4.14%</span>) 
 
@@ -134,14 +134,14 @@ CVPR22 (<span style="color:red">Oral 4.14%</span>)
 
 ## 📚 Paper List
 - ``Arxiv 2025`` [DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models](https://arxiv.org/pdf/2512.01715), 
-Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, Yicheng Feng, **Sipeng Zheng**, Qin Jin, Zongqing Lu
+Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, Yicheng Feng, **Sipeng Zheng**, Qin Jin, Zongqing Lu<sup>✉</sup>
 [Project](https://beingbeyond.github.io/DiG-Flow).
 
 - ``Arxiv 2025`` [Robust Motion Generation using Part-level Reliable Data from Videos](https://arxiv.org/pdf/2512.12703), 
 Boyuan Li, **Sipeng Zheng**, Bin Cao, Ruihua Song, Zongqing Lu.
 
 - ``Arxiv 2025`` [Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](https://arxiv.org/abs/2512.13080), 
-Yicheng Feng, Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, **Sipeng Zheng**, Zongqing Lu
+Yicheng Feng, Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>
 [Project](https://beingbeyond.github.io/VIPA-VLA).
 
 - ``Arxiv 2025`` [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597), 

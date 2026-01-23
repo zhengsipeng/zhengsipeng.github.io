@@ -184,7 +184,7 @@ Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin<sup>✉</sup>.
 
 - ``ICLR 2025`` [From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities](https://arxiv.org/abs/2410.02155), Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>, [**Page**](https://github.com/BeingBeyond/Being-VL-0).
 
-- ``3DV 2025`` [SPAFormer: Sequential 3D Part Assembly with Transformers](https://arxiv.org/abs/2403.05874), Boshen Xu, **Sipeng Zheng**, Qin Jin<sup>✉</sup>, <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/xuboshen/SPAFormer).
+- ``3DV 2025`` [SPAFormer: Sequential 3D Part Assembly with Transformers](https://arxiv.org/abs/2403.05874), Boshen Xu, **Sipeng Zheng**, Qin Jin<sup>✉</sup>, | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/xuboshen/SPAFormer).
 
 - ``ECCV 2024`` [UniCode: Learning a Unified Codebook for Multimodal Large Language Models](https://arxiv.org/abs/2403.09072), **Sipeng Zheng**, Bohan Zhou, Yicheng Feng, Ye Wang, Zongqing Lu<sup>✉</sup>.
 

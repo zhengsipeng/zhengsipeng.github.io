@@ -13,8 +13,10 @@ Hao Luo\*, Ye Wang\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ziheng 
 
 
 [**Blog**](https://research.beingbeyond.com/being-h05) \|
-<i class="fab fa-fw fa-github" aria-hidden="true"></i> [ **Code**](https://github.com/BeingBeyond/Being-H) \|
-<img src='images/hg.ico' alt="huggingface" width="16" height="16"> [**Model**](https://huggingface.co/collections/BeingBeyond/being-h05)
+<i class="fab fa-fw fa-github" aria-hidden="true"></i> 
+[ **Code**](https://github.com/BeingBeyond/Being-H) \|
+<img src='images/hg.ico' alt="huggingface" width="16" height="16"> 
+[**Model**](https://huggingface.co/collections/BeingBeyond/being-h05)
 
 - **Being-H0.5** is our attempt to make one Vision-Language-Action model travel across those differences without turning into a brittle collection of per-robot hacks.
 

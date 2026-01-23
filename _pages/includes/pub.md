@@ -134,30 +134,30 @@ CVPR22 (<span style="color:red">Oral 4.14%</span>)
 
 ## 📚 Paper List
 - ``Arxiv 2025`` [DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models](https://arxiv.org/pdf/2512.01715), 
-Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, Yicheng Feng, **Sipeng Zheng**, Qin Jin, Zongqing Lu<sup>✉</sup>
+Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, Yicheng Feng, **Sipeng Zheng**, Qin Jin, Zongqing Lu<sup>✉</sup>,
 [Project](https://beingbeyond.github.io/DiG-Flow).
 
 - ``Arxiv 2025`` [Robust Motion Generation using Part-level Reliable Data from Videos](https://arxiv.org/pdf/2512.12703), 
 Boyuan Li, **Sipeng Zheng**, Bin Cao, Ruihua Song, Zongqing Lu.
 
 - ``Arxiv 2025`` [Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](https://arxiv.org/abs/2512.13080), 
-Yicheng Feng, Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>
+Yicheng Feng, Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>,
 [Project](https://beingbeyond.github.io/VIPA-VLA).
 
 - ``Arxiv 2025`` [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597), 
-Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\***, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu。
+Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu<sup>✉</sup>
 [Project](https://beingbeyond.github.io/Being-H0/).
 
-- ``Arxiv 2025`` [RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control](https://www.arxiv.org/abs/2506.12769), Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu, Yu Zhang, **Sipeng Zheng**, Ziluo Ding, Zongqing Lu [Project](https://beingbeyond.github.io/RLPF/).
+- ``Arxiv 2025`` [RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control](https://www.arxiv.org/abs/2506.12769), Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu, Yu Zhang, **Sipeng Zheng**, Ziluo Ding, Zongqing Lu<sup>✉</sup> [Project](https://beingbeyond.github.io/RLPF/).
 
 - ``NeurIPS 2025`` [OpenMMEgo: Enhancing Egocentric Understanding for LMMs with Open Weights and Data](https://arxiv.org/abs/2503.15470), Hao Luo, Zihao Yue, Wanpeng Zhang, Yicheng Feng, **Sipeng Zheng**, Deheng Ye, Zongqing Lu. 
-Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin.
+Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin<sup>✉</sup>.
 
-- ``NeurIPS 2025`` [EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining](https://arxiv.org/abs/2503.15470), Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin.
-- ``EMNLP 2025`` [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning](https://arxiv.org/abs/2503.07002), Jiazheng Liu, **Sipeng Zheng**, Börje F Karlsson, Zongqing Lu.
-- ``ICCV 2025`` [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639), Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu.
-- ``ICCV 2025`` [MotionCtrl: A Real-time Controllable Vision-Language-Motion Model](https://arxiv.org/abs/xxxx), Bin Cao\*, **Sipeng Zheng\***, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing Liu, Zongqing Lu.
-- ``ICCV 2025`` [VideoOrion: Tokenizing Object Dynamics in Videos](https://arxiv.org/abs/2411.16156), Yicheng Feng\*, Yijiang Li\*, Wanpeng Zhang, **Sipeng Zheng**, Zongqing Lu.
+- ``NeurIPS 2025`` [EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining](https://arxiv.org/abs/2503.15470), Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin<sup>✉</sup>.
+- ``EMNLP 2025`` [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning](https://arxiv.org/abs/2503.07002), Jiazheng Liu, **Sipeng Zheng**, Börje F Karlsson, Zongqing Lu<sup>✉</sup>.
+- ``ICCV 2025`` [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639), Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>.
+- ``ICCV 2025`` [MotionCtrl: A Real-time Controllable Vision-Language-Motion Model](https://arxiv.org/abs/xxxx), Bin Cao\*, **Sipeng Zheng\***, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing Liu, Zongqing Lu<sup>✉</sup>.
+- ``ICCV 2025`` [VideoOrion: Tokenizing Object Dynamics in Videos](https://arxiv.org/abs/2411.16156), Yicheng Feng\*, Yijiang Li\*, Wanpeng Zhang, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>.
 - ``Arxiv 2025`` [QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds](https://arxiv.org/pdf/2406.16578), Yuting Mei\*, Ye Wang\*, **Sipeng Zheng**, Qin Jin, [Project](https://quadruped-hub.github.io/Quadruped-GPT/).
 - ``ICML 2025`` [Scaling Large Motion Models with Million-Level Human Motions](https://arxiv.org/abs/2410.03311), Ye Wang\*, **Sipeng Zheng\***, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zongqing Lu, [Project](https://beingbeyond.github.io/Being-M0).
 - ``ICLR 2025`` [EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?](https://arxiv.org/html/2405.17719v1), Boshen Xu, Ziheng Wang, Yang Du, Zhinan Song, **Sipeng Zheng**, Qin Jin, [Code](https://github.com/xuboshen/egoncepp).

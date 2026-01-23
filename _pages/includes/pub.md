@@ -5,7 +5,7 @@
 
 <!-- BebingBeyond-->
 ## <img src='images/beingbeyond.ico' alt="beingbeyond" width="16" height="16"> BeingBeyond Series
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/arxiv_being_h0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/arxiv_being_h05.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Being-H0.5**: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/pdf/2601.12993) \\

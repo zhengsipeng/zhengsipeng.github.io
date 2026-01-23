@@ -149,6 +149,9 @@ Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, Yicheng Feng, **Sipeng Zheng**, Qin
 - ``Arxiv 2025`` [Robust Motion Generation using Part-level Reliable Data from Videos](https://arxiv.org/pdf/2512.12703), 
 Boyuan Li, **Sipeng Zheng**, Bin Cao, Ruihua Song, Zongqing Lu.
 
+- ``Arxiv 2025`` [OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-quality Data](https://openreview.net/pdf?id=YcJnHKVB9v), 
+Bin Cao, **Sipeng Zheng**, Hao Luo, Boyuan Li, Jing Liu, Zongqing Lu.
+
 - ``Arxiv 2025`` [Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](https://arxiv.org/abs/2512.13080), 
 Yicheng Feng, Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>,
 [**Page**](https://beingbeyond.github.io/VIPA-VLA) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Project**](https://github.com/BeingBeyond/VIPA-VLA).

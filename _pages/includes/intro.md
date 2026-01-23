@@ -12,6 +12,8 @@ For more details, please refer to my [CV](http://zhengsipeng.github.io/cv_zsp_en
 
 We are actively recruiting full-time researchers and interns to join our team. If you’re passionate about embodied AI, feel free to [reach out](spzheng@beingbeyond.com).
 
+## Our research blogs: https://research.beingbeyond.com/
+
 ## Research Interest
 * Large large multimodal models
 * Human behavior and motion understanding

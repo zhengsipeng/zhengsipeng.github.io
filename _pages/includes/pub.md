@@ -166,7 +166,7 @@ Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin<sup>✉</sup>.
 
 - ``EMNLP 2025`` [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning](https://arxiv.org/abs/2503.07002), Jiazheng Liu, **Sipeng Zheng**, Börje F Karlsson, Zongqing Lu<sup>✉</sup>.
 
-- ``ICCV 2025`` [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639), Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>, [**Blog**](https://research.beingbeyond.com/being-vl05) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> | [**Code**](https://github.com/BeingBeyond/Being-VL-0.5) | [**Page**](https://github.com/BeingBeyond/Being-VL-0)
+- ``ICCV 2025`` [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639), Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>, [**Blog**](https://research.beingbeyond.com/being-vl05) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-VL-0.5) | [**Page**](https://github.com/BeingBeyond/Being-VL-0).
 
 - ``ICCV 2025`` [MotionCtrl: A Real-time Controllable Vision-Language-Motion Model](https://arxiv.org/abs/xxxx), Bin Cao\*, **Sipeng Zheng\***, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing Liu, Zongqing Lu<sup>✉</sup>.
 

@@ -2,32 +2,34 @@
 # 📝 Publications 
 <b>\* denotes equal contribution</b>
 
+
+<!-- BebingBeyond-->
 ## <img src='images/beingbeyond.ico' alt="beingbeyond" width="16" height="16"> BeingBeyond Series
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/arxiv_being_h0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Being-H0**: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597) \\
-Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\***, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu
+[**Being-H0.5**: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/pdf/2601.12993) \\
+Hao Luo\*, Ye Wang\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†*</sup>**, Ziheng Xi, Chaoyi Xu, Haiweng Xu, Haoqi Yuan, Chi Zhang, Yiqing Wang, Yicheng Feng, Zongqing Lu📧
 
-[**Project**](https://beingbeyond.github.io/Being-H0/) \|
+
+[**Blog**](https://research.beingbeyond.com/being-h05) \|
+<i class="fab fa-fw fa-github" aria-hidden="true"></i> [ **Code**](https://github.com/BeingBeyond/Being-H) \|
+<img src='images/hg.ico' alt="huggingface" width="16" height="16"> [**Model**](https://huggingface.co/collections/BeingBeyond/being-h05)
+
+- **Being-H0.5** is our attempt to make one Vision-Language-Action model travel across those differences without turning into a brittle collection of per-robot hacks.
+
+</div>
+</div>
+
+
+[**Being-H0**: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597) \\
+Hao Luo\*, Yicheng Feng\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†*</sup>**, Ye Wang, Haoqi Yuan, Jiazheng Liu, Chaoyi Xu, Qin Jin, Zongqing Lu
+
+[**Blog**](https://research.beingbeyond.com/being-h0) \|
 <i class="fab fa-fw fa-github" aria-hidden="true"></i> [ **Code**](https://github.com/BeingBeyond/Being-H0) \|
 <img src='images/hg.ico' alt="huggingface" width="16" height="16"> [**Model**](https://huggingface.co/BeingBeyond/Being-H0)
 
 - Being-H0 is the first VLA pretrained from large-scale human videos with hand motion. 
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/arxiv_rlpf.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**RLPF**: Physical Feedback: Aligning Large Motion Models with Humanoid Control](https://arxiv.org/abs/2506.12769) \\
-Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu, Yu Zhang, **Sipeng Zheng**, Ziluo Ding, Zongqing Lu
-
-[**Project**](https://beingbeyond.github.io/RLPF/)
-
-- RLPF translates text-driven human motions into executable actions for humanoid robots.
 
 </div>
 </div>
@@ -41,7 +43,7 @@ Bin Cao\*, **Sipeng Zheng\***, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing L
 
 ICCV25
 
-[**Project**](https://beingbeyond.github.io/Being-M0.5/)
+[**Blog**](https://research.beingbeyond.com/being-m05)
 
 - Being-M is the first large motion generation model scaling to million-level motion sequences.
 
@@ -52,7 +54,6 @@ ICCV25
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv25_unified.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,7 +62,7 @@ Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Z
 
 ICCV25 (<span style="color:red">Highlight</span>)
 
-[**Project**](https://beingbeyond.github.io/Being-VL-0.5)  \|
+[**Blog**](https://research.beingbeyond.com/being-vl05)  \|
 <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-VL-0.5) 
 
 - Being-VL is the first large multimodal model based on compressed discrete visual representation using 2D-BPE.
@@ -74,6 +75,8 @@ ICCV25 (<span style="color:red">Highlight</span>)
 
 
 
+
+<!-- BEFORE BebingBeyond-->
 ## 🎙 Before BeingBeyond
 
 
@@ -118,6 +121,7 @@ CVPR22 (<span style="color:red">Oral 4.14%</span>)
 <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/zhengsipeng/VRDFormer_VRD)
 </div>
 </div>
+
 
 
 ## 📚 Paper List

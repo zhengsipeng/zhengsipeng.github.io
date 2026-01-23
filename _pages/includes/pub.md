@@ -169,8 +169,7 @@ Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin<sup>✉</sup>.
 
 - ``EMNLP 2025`` [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning](https://arxiv.org/abs/2503.07002), Jiazheng Liu, **Sipeng Zheng**, Börje F Karlsson, Zongqing Lu<sup>✉</sup>.
 
-- ``ICCV 2025`` [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639), Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>, [**Blog**](https://research.beingbeyond.com/being-vl05) ｜ <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Project**](https://github.com/BeingBeyond/Being-VL-0.5) ｜ [**Page**](https://github.com/BeingBeyond/Being-VL-0).
-<!-- | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-VL-0.5) | [**Page**](https://github.com/BeingBeyond/Being-VL-0). -->
+- ``ICCV 2025`` [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639), Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>, [**Blog**](https://research.beingbeyond.com/being-vl05) ｜ <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-VL-0.5) ｜ [**Page**](https://github.com/BeingBeyond/Being-VL-0).
 
 - ``ICCV 2025`` [MotionCtrl: A Real-time Controllable Vision-Language-Motion Model](https://arxiv.org/abs/xxxx), Bin Cao\*, **Sipeng Zheng\***, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing Liu, Zongqing Lu<sup>✉</sup>.
 
@@ -192,7 +191,8 @@ Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin<sup>✉</sup>.
 
 - ``NAACL 2024`` [LLaMA Rider: Spurring Large Language Models to Explore the Open World](https://arxiv.org/abs/2310.08922), Yicheng Feng, Yuxuan Wang, Jiazheng Liu, **Sipeng Zheng**, Zongqing Lu<sup>✉</sup>, [**Page**](https://github.com/PKU-RL/LLaMA-Rider).
 
-- ``ACM-MM 2023`` [POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World](https://dl.acm.org/doi/10.1145/3581783.3612484), Boshen Xu, **Sipeng Zheng**, Qin Jin<sup>✉</sup>, [**Code**](https://github.com/xuboshen/pov_acmmm2023) | [**Page**](https://xuboshen.github.io/POV/).
+- ``ACM-MM 2023`` [POV: Prompt-Oriented View-agnostic Learning for Egocentric Hand-Object Interaction in the Multi-view World](https://dl.acm.org/doi/10.1145/3581783.3612484), Boshen Xu, **Sipeng Zheng**, Qin Jin<sup>✉</sup>, [**Page**](https://xuboshen.github.io/POV) ｜ <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/xuboshen/pov_acmmm2023).
+
 
 - ``AAAI 2023`` [No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection](https://arxiv.org/abs/2307.10567), Qi Zhang, **Sipeng Zheng**, Qin Jin<sup>✉</sup>, [Code](https://github.com/QiQAng/AwareNet).
 

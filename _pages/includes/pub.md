@@ -16,7 +16,7 @@
 BeingBeyond Team
 
 
-[**Blog**](https://research.beingbeyond.com/being-h07) \|
+[**Blog**](https://research.beingbeyond.com/being-h07)
 
 - Robot control needs more than a direct mapping from pixels to torques, and it also needs more than a slow imagination loop that rolls out future frames before every move. With Being-H0.7, we asked whether a robot policy can reason about future interaction in a compact latent space, then act immediately without explicit future-image generation at test time.
 

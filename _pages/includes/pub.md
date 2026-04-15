@@ -17,8 +17,6 @@ BeingBeyond Team
 
 
 [**Blog**](https://research.beingbeyond.com/being-h07) \|
-<i class="fab fa-fw fa-github" aria-hidden="true"></i> 
-[ **Code**](https://github.com/BeingBeyond/Being-H) \|
 
 - Robot control needs more than a direct mapping from pixels to torques, and it also needs more than a slow imagination loop that rolls out future frames before every move. With Being-H0.7, we asked whether a robot policy can reason about future interaction in a compact latent space, then act immediately without explicit future-image generation at test time.
 
@@ -158,6 +156,10 @@ CVPR22 (<span style="color:red">Oral 4.14%</span>)
 
 
 ## 📚 Paper List
+- ``Arxiv 2026`` [Being-H0.7: A Latent World-Action Model from Egocentric Videos](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf), 
+BeingBeyond Team,
+[**Blog**](https://research.beingbeyond.com/being-h07) 
+
 - ``Arxiv 2026`` [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/pdf/2601.12993), 
 Hao Luo\*, Ye Wang\*, Wanpeng Zhang\*, **Sipeng Zheng\*<sup>†</sup>**, Ziheng Xi, Chaoyi Xu, Haiweng Xu, Haoqi Yuan, Chi Zhang, Yiqing Wang, Yicheng Feng, Zongqing Lu<sup>✉</sup>,
 [**Blog**](https://research.beingbeyond.com/being-h05) | 

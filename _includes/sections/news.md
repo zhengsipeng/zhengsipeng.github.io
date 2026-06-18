@@ -2,6 +2,7 @@
 # News
 <div class="news-list" markdown="1">
 
+- *2026.06*: Three papers are accepted to ECCV 2026.
 - *2026.05*: Being-H0 is accepted to ICML 2026.
 - *2026.04*: We present Being-H0.7, a latent world-action model based on 200K human videos.
 - *2026.04*: Being-H0.5 has been open-sourced.

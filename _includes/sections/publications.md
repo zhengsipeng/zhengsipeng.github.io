@@ -151,10 +151,6 @@ CVPR22 (<span style="color:red">Oral 4.14%</span>)
 BeingBeyond Team,
 [**Blog**](https://research.beingbeyond.com/being-h07) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H/tree/main/Being-H07) (coming soon).
 
-- ``Arxiv 2026`` [Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2604.18000), 
-Haiweng Xu, **Sipeng Zheng**, Hao Luo, Wanpeng Zhang, Ziheng Xi, Zongqing Lu,
-<i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/BeTTER).
-
 - ``Arxiv 2026`` [Conservative Offline Robot Policy Learning via Posterior-Transition Reweighting](https://arxiv.org/abs/2603.16542), 
 Wanpeng Zhang, Hao Luo, **Sipeng Zheng**, Yicheng Feng, Haiweng Xu, Ziheng Xi, Chaoyi Xu, Haoqi Yuan, Zongqing Lu.
 
@@ -164,14 +160,18 @@ BeingBeyond Team,
 <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H) | <img src='assets/images/hg.ico' alt="huggingface" width="16" height="16"> 
 [**Model**](https://huggingface.co/collections/BeingBeyond/being-h05).
 
-- ``Arxiv 2025`` [DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models](https://arxiv.org/pdf/2512.01715), 
-Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, Yicheng Feng, **Sipeng Zheng**, Qin Jin, Zongqing Lu,
-[**Blog**](https://research.beingbeyond.com/dig-flow) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/DiG-Flow).
-
 - ``Arxiv 2025`` [Robust Motion Generation using Part-level Reliable Data from Videos](https://arxiv.org/pdf/2512.12703), 
 Boyuan Li, **Sipeng Zheng**, Bin Cao, Ruihua Song, Zongqing Lu.
 
-- ``Arxiv 2025`` [RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control](https://www.arxiv.org/abs/2506.12769), Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu, Yu Zhang, **Sipeng Zheng**, Ziluo Ding, Zongqing Lu, [**Page**](https://beingbeyond.github.io/RLPF/).
+- ``ECCV 2026`` [DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models](https://arxiv.org/pdf/2512.01715), 
+Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, Yicheng Feng, **Sipeng Zheng**, Qin Jin, Zongqing Lu,
+[**Blog**](https://research.beingbeyond.com/dig-flow) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/DiG-Flow).
+
+- ``ECCV 2026`` [RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control](https://www.arxiv.org/abs/2506.12769), Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu, Yu Zhang, **Sipeng Zheng**, Ziluo Ding, Zongqing Lu, [**Page**](https://beingbeyond.github.io/RLPF/).
+
+- ``ECCV 2026`` [Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2604.18000), 
+Haiweng Xu, **Sipeng Zheng**, Hao Luo, Wanpeng Zhang, Ziheng Xi, Zongqing Lu,
+<i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/BeTTER).
 
 - ``ICML 2026`` [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597), 
 BeingBeyond Team,

@@ -147,6 +147,9 @@ CVPR22 (<span style="color:red">Oral 4.14%</span>)
 
 <div class="paper-list" markdown="1">
 
+- ``Arxiv 2026`` [Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](https://arxiv.org/abs/2607.01067), 
+Chi Zhang, Penglin Cai, Ziheng Xi, Haoqi Yuan, Hao Luo, Wanpeng Zhang, **Sipeng Zheng**, Chaoyi Xu, Zongqing Lu.
+
 - ``Arxiv 2026`` [Being-H0.7: A Latent World-Action Model from Egocentric Videos](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf), 
 BeingBeyond Team,
 [**Blog**](https://research.beingbeyond.com/being-h07) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H/tree/main/Being-H07) (coming soon).

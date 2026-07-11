@@ -163,7 +163,7 @@ BeingBeyond Team,
 <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H) | <img src='assets/images/hg.ico' alt="huggingface" width="16" height="16"> 
 [**Model**](https://huggingface.co/collections/BeingBeyond/being-h05).
 
-- ``Arxiv 2025`` [Robust Motion Generation using Part-level Reliable Data from Videos](https://arxiv.org/pdf/2512.12703), 
+- ``ACM-MM 2026`` [Robust Motion Generation using Part-level Reliable Data from Videos](https://arxiv.org/pdf/2512.12703), 
 Boyuan Li, **Sipeng Zheng**, Bin Cao, Ruihua Song, Zongqing Lu.
 
 - ``ECCV 2026`` [DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models](https://arxiv.org/pdf/2512.01715), 

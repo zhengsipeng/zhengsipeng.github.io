@@ -1043,7 +1043,9 @@ a {
     .paper-box-image img {
         border: 1px solid var(--rule);
         border-radius: 0;
+        background: #f0ece3;
         filter: saturate(0.93) contrast(1.03);
+        object-fit: contain;
     }
 
     .paper-box-text {
@@ -1177,6 +1179,32 @@ a {
         font-size: 0.68rem;
         font-weight: 700;
         letter-spacing: 0.025em;
+    }
+}
+
+@media (min-width: 48em) {
+    .paper-box {
+        grid-template-columns: minmax(220px, 34%) 1fr;
+        min-height: 0;
+    }
+
+    .paper-box .paper-box-image {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .paper-box .paper-box-image > div,
+    .paper-box .paper-box-image img {
+        height: auto;
+    }
+
+    .paper-box .paper-box-image > div {
+        width: 100%;
+    }
+
+    .paper-box .paper-box-image img {
+        max-height: 270px;
     }
 }
 

@@ -36,7 +36,7 @@
 <div class='paper-box series-card'><div class='paper-box-image'><div><div class="badge">Series</div><img src='assets/images/arxiv_being_h05.png' alt="Being-H series thumbnail" loading="lazy" width="100%"></div></div>
 <div class='paper-box-text series-card-text'>
 
-<h3><a href="https://github.com/BeingBeyond/Being-H">Being-H Series</a> <span class="series-domain">VLA</span></h3>
+<h3><a href="https://github.com/BeingBeyond/Being-H">Being-H Series</a> <span class="series-domain">Vision-Language-Action Model</span></h3>
 <p class="series-summary">Vision-language-action pretraining from large-scale human videos.</p>
 
 <div class="series-current">

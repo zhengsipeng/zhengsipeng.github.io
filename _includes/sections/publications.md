@@ -1,4 +1,3 @@
-<span class='anchor' id='publications'></span>
 # Publications 
 <b>\* denotes equal contribution</b>
 
@@ -7,18 +6,26 @@
 ## <img src='assets/images/beingbeyond.ico' alt="beingbeyond" width="16" height="16"> BeingBeyond Series
 
 
-<!-- Being-H0.7-->
+<!-- Being-H0.8 -->
 
-<div class='paper-box series-card featured-series-card'><div class='paper-box-image'><div><div class="badge">Series</div><img src='assets/images/arxiv_being_h07.png' alt="Being-H0.7 thumbnail" loading="lazy" width="100%"></div></div>
+<div class='paper-box series-card featured-series-card'><div class='paper-box-image'><div><div class="badge">Series</div><img src='https://research.beingbeyond.com/being-h08/images/teaser.webp' alt="Being-H0.8 visuo-tactile world-action model overview" loading="lazy" width="100%"></div></div>
 <div class='paper-box-text series-card-text'>
 
-<h3><a href="https://research.beingbeyond.com/projects/being-h07/being-h07.pdf">Being-H0.7: A Latent World-Action Model from Egocentric Videos</a></h3>
+<h3><a href="https://research.beingbeyond.com/being-h08">Latent World-Action Models</a></h3>
+<p class="series-summary">Future-aware robot control through compact latent world-action modeling.</p>
 
 <div class="series-current">
+  <div class="series-version-header">
+    <a class="series-title" href="https://research.beingbeyond.com/being-h08"><strong>Being-H0.8</strong>: A Latent Tactile World-Action Model at Scale</a>
+    <span class="version-badge latest">Latest</span>
+    <span class="version-badge">2026</span>
+  </div>
   <p class="series-authors">BeingBeyond Team</p>
-  <p class="series-note">A latent world-action model trained on 200,000 hours of egocentric human videos for future-aware robot control.</p>
-  <p class="series-links"><a href="https://research.beingbeyond.com/being-h07"><strong>Blog</strong></a> | <i class="fab fa-fw fa-github" aria-hidden="true"></i> <a href="https://github.com/BeingBeyond/Being-H/tree/main/Being-H07"><strong>Code</strong></a> <span class="coming-soon">(coming soon)</span></p>
+  <p class="series-note">Our latest general-purpose embodied foundation model extends latent world-action modeling with touch for contact-rich robot manipulation.</p>
+  <p class="series-links"><a href="https://research.beingbeyond.com/being-h08"><strong>Blog</strong></a> | <strong>Paper</strong> <span class="coming-soon">(coming soon)</span></p>
 </div>
+
+<p class="series-previous"><span>Previous</span> <a href="https://research.beingbeyond.com/projects/being-h07/being-h07.pdf"><strong>Being-H0.7</strong></a> · 2026 · BeingBeyond Team · latent world-action modeling from 200,000 hours of egocentric human videos · <a href="https://research.beingbeyond.com/being-h07">Blog</a> · <a href="https://github.com/BeingBeyond/Being-H/tree/main/Being-H07">Code</a> <span class="coming-soon">(coming soon)</span></p>
 
 </div>
 </div>

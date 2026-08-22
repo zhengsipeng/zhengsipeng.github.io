@@ -4,11 +4,11 @@
 
 <p class="intro-kicker">Partner at BeingBeyond · Lead, Embodied Multimodal Pretraining</p>
 
-I'm a partner at <b>BeingBeyond</b>, where I work closely with [Prof. Zongqing Lu](https://z0ngqing.github.io) on foundation models for general-purpose humanoid robots. I lead projects across the Being-H, Being-M, and Being-VL series, with a focus on embodied foundation models, multimodal pretraining, egocentric human video learning, and humanoid robotics.
+I'm a Partner at <b>BeingBeyond</b>, where I work with [Prof. Zongqing Lu](https://z0ngqing.github.io) on foundation models for general-purpose humanoid robots. I lead research across the Being-H, Being-M, and Being-VL series, spanning embodied foundation models, multimodal pretraining, learning from egocentric human videos, and humanoid robotics.
 
-Previously, I was a researcher at the Beijing Academy of Artificial Intelligence (BAAI). I received my PhD and bachelor's degree from Renmin University of China (RUC), advised by [Prof. Qin Jin](https://www.jin-qin.com).
+Before joining BeingBeyond, I was a researcher at the Beijing Academy of Artificial Intelligence (BAAI). I received both my PhD and bachelor's degree from Renmin University of China (RUC), where I was advised by [Prof. Qin Jin](https://www.jin-qin.com).
 
-My research interests include Embodied Foundation Models, Large Multimodal Models, Egocentric Human Video Learning, and Humanoid Robotics.
+My research focuses on embodied foundation models and large multimodal models, with particular interests in egocentric video learning and humanoid robotics.
 
 <p class="intro-links"><a href="files/cv_zsp_en.pdf">CV</a> <a href="https://research.beingbeyond.com/">Research Notes</a> <a href="mailto:spzheng@beingbeyond.com">Email</a></p>
 

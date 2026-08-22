@@ -543,15 +543,15 @@ h1:before, .anchor:before {
 /* Research-notes visual system ------------------------------------------------ */
 
 :root {
-    --paper: #f3f0e8;
-    --panel: #fbfaf5;
-    --ink: #25231f;
-    --muted-ink: #69645b;
-    --rule: #302d28;
-    --soft-rule: #cfc8bb;
-    --accent: #9a563b;
-    --accent-wash: #eadccd;
-    --shadow: rgba(37, 35, 31, 0.18);
+    --paper: #f4f6f6;
+    --panel: #fcfdfd;
+    --ink: #222c2f;
+    --muted-ink: #657174;
+    --rule: #334145;
+    --soft-rule: #cbd3d4;
+    --accent: #3c6f78;
+    --accent-wash: #dce9ea;
+    --shadow: rgba(34, 44, 47, 0.16);
 }
 
 html,
@@ -575,8 +575,8 @@ body:before {
     z-index: -1;
     pointer-events: none;
     background-image:
-        linear-gradient(rgba(48, 45, 40, 0.025) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(48, 45, 40, 0.02) 1px, transparent 1px);
+        linear-gradient(rgba(51, 65, 69, 0.024) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(51, 65, 69, 0.018) 1px, transparent 1px);
     background-size: 28px 28px;
     mask-image: linear-gradient(to bottom, black, transparent 75%);
 }
@@ -598,7 +598,7 @@ a {
     width: 100%;
     z-index: 100;
     border-bottom: 1px solid var(--rule);
-    background: rgba(243, 240, 232, 0.94);
+    background: rgba(244, 246, 246, 0.94);
     box-shadow: 0 3px 0 var(--ink);
     backdrop-filter: blur(10px);
 }
@@ -787,7 +787,7 @@ a {
 
     a {
         color: var(--accent);
-        text-decoration-color: rgba(154, 86, 59, 0.38);
+        text-decoration-color: rgba(60, 111, 120, 0.4);
         text-decoration-thickness: 1px;
 
         &:hover {
@@ -819,9 +819,9 @@ a {
     bottom: -5.5rem;
     width: 18rem;
     height: 18rem;
-    border: 1px solid rgba(48, 45, 40, 0.28);
+    border: 1px solid rgba(51, 65, 69, 0.28);
     border-radius: 50%;
-    box-shadow: 0 0 0 2.8rem rgba(154, 86, 59, 0.075), 0 0 0 5.6rem rgba(154, 86, 59, 0.05);
+    box-shadow: 0 0 0 2.8rem rgba(60, 111, 120, 0.075), 0 0 0 5.6rem rgba(60, 111, 120, 0.05);
     pointer-events: none;
 }
 
@@ -891,7 +891,7 @@ a {
         z-index: 1;
         max-width: 47rem;
         margin-bottom: 0.85rem;
-        color: #3f3b34;
+        color: #3d484b;
         line-height: 1.68;
     }
 
@@ -937,7 +937,7 @@ a {
     padding: 1rem 1.15rem 1.15rem;
     border-top: 1px solid var(--rule);
     border-bottom: 1px solid var(--rule);
-    background: rgba(234, 220, 205, 0.55);
+    background: rgba(220, 233, 234, 0.62);
 }
 
 .join-card__label {
@@ -959,7 +959,7 @@ a {
     padding: 0.05rem 1rem;
     border: 1px solid var(--rule);
     background: var(--panel);
-    box-shadow: 4px 4px 0 rgba(37, 35, 31, 0.1);
+    box-shadow: 4px 4px 0 rgba(34, 44, 47, 0.1);
 }
 
 .news-list ul,
@@ -973,19 +973,19 @@ a {
 .news-archive li {
     position: relative;
     margin: 0;
-    padding: 0.78rem 0 0.78rem 1.2rem;
+    padding: 0.5rem 0 0.5rem 1.05rem;
     border-bottom: 1px solid var(--soft-rule);
-    line-height: 1.55;
+    line-height: 1.42;
 }
 
 .news-list li:before,
 .news-archive li:before {
     content: "";
     position: absolute;
-    top: 1.35rem;
+    top: 1.02rem;
     left: 0;
-    width: 0.42rem;
-    height: 0.42rem;
+    width: 0.36rem;
+    height: 0.36rem;
     background: var(--accent);
     transform: rotate(45deg);
 }
@@ -1007,15 +1007,15 @@ a {
 
 .news-archive {
     margin-top: 0;
-    padding: 0.3rem 1rem 0.6rem;
+    padding: 0.16rem 1rem 0.42rem;
     border: 1px solid var(--rule);
     border-top: 0;
-    background: rgba(251, 250, 245, 0.58);
+    background: rgba(252, 253, 253, 0.66);
     color: var(--muted-ink);
     font-size: 0.94em;
 
     summary {
-        padding: 0.45rem 0 0.2rem;
+        padding: 0.36rem 0 0.16rem;
         color: var(--ink);
         font-family: "SFMono-Regular", "Cascadia Code", "Liberation Mono", monospace;
         font-size: 0.7rem;
@@ -1032,7 +1032,7 @@ a {
     border: 1px solid var(--rule);
     border-radius: 0;
     background: var(--panel);
-    box-shadow: 5px 5px 0 rgba(37, 35, 31, 0.14);
+    box-shadow: 5px 5px 0 rgba(34, 44, 47, 0.14);
     transition: box-shadow 160ms ease, transform 160ms ease;
 
     &:hover {
@@ -1043,7 +1043,7 @@ a {
     .paper-box-image img {
         border: 1px solid var(--rule);
         border-radius: 0;
-        background: #f0ece3;
+        background: #eef2f2;
         filter: saturate(0.93) contrast(1.03);
         object-fit: contain;
     }
@@ -1053,7 +1053,7 @@ a {
     }
 
     .paper-box-text p {
-        color: #4f4a42;
+        color: #4b585b;
     }
 }
 
@@ -1113,7 +1113,7 @@ a {
         border-bottom: 1px solid var(--rule);
         border-left: 4px solid var(--accent);
         border-radius: 0;
-        background: #f0e7da;
+        background: #e9f0f1;
     }
 
     .series-title {
@@ -1132,14 +1132,14 @@ a {
     }
 
     .series-note {
-        color: #484238;
+        color: #465356;
     }
 
     .series-previous {
         padding: 0.58rem 0.7rem;
         border: 1px solid var(--soft-rule);
         border-radius: 0;
-        background: rgba(251, 250, 245, 0.65);
+        background: rgba(252, 253, 253, 0.7);
         color: var(--muted-ink);
         font-size: 0.84rem;
     }
@@ -1154,7 +1154,7 @@ a {
 }
 
 .early-work-card {
-    background: rgba(251, 250, 245, 0.68);
+    background: rgba(252, 253, 253, 0.72);
     box-shadow: none;
 }
 
@@ -1163,7 +1163,7 @@ a {
     padding: 0 1rem;
     border: 1px solid var(--rule);
     background: var(--panel);
-    color: #4f4a42;
+    color: #4b585b;
 
     li {
         padding: 0.78rem 0;
@@ -1297,7 +1297,7 @@ a {
 
     .paper-box {
         padding: 0.58rem;
-        box-shadow: 3px 3px 0 rgba(37, 35, 31, 0.14);
+        box-shadow: 3px 3px 0 rgba(34, 44, 47, 0.14);
     }
 
     .series-card h3 {

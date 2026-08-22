@@ -11,7 +11,7 @@
 <div class='paper-box series-card featured-series-card'><div class='paper-box-image'><div><div class="badge">Series</div><img src='https://research.beingbeyond.com/being-h08/images/teaser.webp' alt="Being-H0.8 visuo-tactile world-action model overview" loading="lazy" width="100%"></div></div>
 <div class='paper-box-text series-card-text'>
 
-<h3><a href="https://research.beingbeyond.com/being-h08">Latent World-Action Models</a></h3>
+<h3><a href="https://research.beingbeyond.com/being-h08">Being-H: Latent World-Action</a></h3>
 <p class="series-summary">Future-aware robot control through compact latent world-action modeling.</p>
 
 <div class="series-current">
@@ -36,7 +36,7 @@
 <div class='paper-box series-card'><div class='paper-box-image'><div><div class="badge">Series</div><img src='assets/images/arxiv_being_h05.png' alt="Being-H series thumbnail" loading="lazy" width="100%"></div></div>
 <div class='paper-box-text series-card-text'>
 
-<h3><a href="https://github.com/BeingBeyond/Being-H">Being-H Series</a> <span class="series-domain">Vision-Language-Action Model</span></h3>
+<h3><a href="https://github.com/BeingBeyond/Being-H">Being-H: Vision-Language-Action</a></h3>
 <p class="series-summary">Vision-language-action pretraining from large-scale human videos.</p>
 
 <div class="series-current">
@@ -153,6 +153,10 @@ CVPR22 (<span style="color:red">Oral 4.14%</span>)
 ## Paper List
 
 <div class="paper-list" markdown="1">
+
+- ``2026`` [Being-H0.8: A Latent Tactile World-Action Model at Scale](https://research.beingbeyond.com/being-h08),
+BeingBeyond Team,
+[**Blog**](https://research.beingbeyond.com/being-h08) | **Paper** (coming soon).
 
 - ``Arxiv 2026`` [Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](https://arxiv.org/abs/2607.01067), 
 Chi Zhang, Penglin Cai, Ziheng Xi, Haoqi Yuan, Hao Luo, Wanpeng Zhang, **Sipeng Zheng**, Chaoyi Xu, Zongqing Lu.

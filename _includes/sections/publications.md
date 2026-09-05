@@ -168,6 +168,10 @@ BeingBeyond Team,
 - ``Arxiv 2026`` [Conservative Offline Robot Policy Learning via Posterior-Transition Reweighting](https://arxiv.org/abs/2603.16542), 
 Wanpeng Zhang, Hao Luo, **Sipeng Zheng**, Yicheng Feng, Haiweng Xu, Ziheng Xi, Chaoyi Xu, Haoqi Yuan, Zongqing Lu.
 
+- ``Arxiv 2026`` [Rethinking Visual-Language-Action Model Scaling: Alignment, Mixture, and Regularization](https://arxiv.org/abs/2602.09722),
+Ye Wang\*, **Sipeng Zheng\***, Hao Luo\*, Wanpeng Zhang\*, Haoqi Yuan, Chaoyi Xu, Haiweng Xu, Yicheng Feng, Mingyang Yu, Zhiyu Kang, Zongqing Lu, Qin Jin,
+[**Blog**](https://research.beingbeyond.com/rethink_vla) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Rethink_VLA).
+
 - ``CoRL 2026`` [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/pdf/2601.12993),
 BeingBeyond Team,
 [**Blog**](https://research.beingbeyond.com/being-h05) | 

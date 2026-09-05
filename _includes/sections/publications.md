@@ -195,7 +195,7 @@ Haiweng Xu, **Sipeng Zheng**, Hao Luo, Wanpeng Zhang, Ziheng Xi, Zongqing Lu,
 BeingBeyond Team,
 [**Blog**](https://research.beingbeyond.com/being-h0) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H0) | <img src='assets/images/hg.ico' alt="huggingface" width="16" height="16"> [**Model**](https://huggingface.co/BeingBeyond/Being-H0).
 
-- ``CVPR 2026`` [Predictive Embedding as Latent Action: Towards VLA Pretraining in the Wild](https://openreview.net/pdf?id=iGwN4eoN6k), 
+- ``CVPR 2026`` [Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild](https://arxiv.org/abs/2602.21736),
 Hao Luo, Ye Wang, Wanpeng Zhang, Haoqi Yuan, Yicheng Feng, Haiweng Xu, **Sipeng Zheng**, Zongqing Lu,
 
 - ``CVPR 2026`` [OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-quality Data](https://openreview.net/pdf?id=YcJnHKVB9v), 

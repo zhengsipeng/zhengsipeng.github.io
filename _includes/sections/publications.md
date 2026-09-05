@@ -43,7 +43,7 @@
   <div class="series-version-header">
     <a class="series-title" href="https://arxiv.org/pdf/2601.12993"><strong>Being-H0.5</strong>: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization</a>
     <span class="version-badge latest">Latest</span>
-    <span class="version-badge">arXiv 2026</span>
+    <span class="version-badge">CoRL 2026</span>
   </div>
   <p class="series-authors">BeingBeyond Team</p>
   <p class="series-note">The first VLA pretrained with 10K hours of human videos, spanning 30+ robot embodiments.</p>
@@ -168,7 +168,7 @@ BeingBeyond Team,
 - ``Arxiv 2026`` [Conservative Offline Robot Policy Learning via Posterior-Transition Reweighting](https://arxiv.org/abs/2603.16542), 
 Wanpeng Zhang, Hao Luo, **Sipeng Zheng**, Yicheng Feng, Haiweng Xu, Ziheng Xi, Chaoyi Xu, Haoqi Yuan, Zongqing Lu.
 
-- ``Arxiv 2026`` [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/pdf/2601.12993), 
+- ``CoRL 2026`` [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/pdf/2601.12993),
 BeingBeyond Team,
 [**Blog**](https://research.beingbeyond.com/being-h05) | 
 <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H) | <img src='assets/images/hg.ico' alt="huggingface" width="16" height="16"> 

@@ -1,6 +1,7 @@
 # News
 <div class="news-list" markdown="1">
 
+- *2026.09*: Being-H0.5 is accepted to CoRL 2026.
 - *2026.07*: We introduce [Being-H0.8](https://research.beingbeyond.com/being-h08), a latent tactile world-action model at scale for contact-rich robot manipulation.
 - *2026.07*: One papers is accepted to ACM-MM 2026.
 - *2026.06*: Three papers are accepted to ECCV 2026.

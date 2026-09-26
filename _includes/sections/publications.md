@@ -11,7 +11,7 @@
 <div class='paper-box series-card featured-series-card'><div class='paper-box-image'><div><div class="badge">Series</div><img src='https://research.beingbeyond.com/being-h08/images/teaser.webp' alt="Being-H0.8 visuo-tactile world-action model overview" loading="lazy" width="100%"></div></div>
 <div class='paper-box-text series-card-text'>
 
-<h3><a href="https://research.beingbeyond.com/being-h08">Being-H: Latent World-Action</a></h3>
+<h3><a href="https://research.beingbeyond.com/being-h08">Being-H0.7 &amp; 0.8: Latent World-Action Model</a></h3>
 <p class="series-summary">Future-aware robot control through compact latent world-action modeling.</p>
 
 <div class="series-current">
@@ -25,7 +25,7 @@
   <p class="series-links"><a href="https://research.beingbeyond.com/being-h08"><strong>Blog</strong></a> | <strong>Paper</strong> <span class="coming-soon">(coming soon)</span></p>
 </div>
 
-<p class="series-previous"><span>Previous</span> <a href="https://research.beingbeyond.com/projects/being-h07/being-h07.pdf"><strong>Being-H0.7</strong></a> · 2026 · BeingBeyond Team · latent world-action modeling from 200,000 hours of egocentric human videos · <a href="https://research.beingbeyond.com/being-h07">Blog</a> · <a href="https://github.com/BeingBeyond/Being-H/tree/main/Being-H07">Code</a> <span class="coming-soon">(coming soon)</span></p>
+<p class="series-previous"><span>Previous</span> <a href="https://research.beingbeyond.com/projects/being-h07/being-h07.pdf"><strong>Being-H0.7</strong></a> · NeurIPS 2026 · BeingBeyond Team · latent world-action modeling from 200,000 hours of egocentric human videos · <a href="https://research.beingbeyond.com/being-h07">Blog</a> · <a href="https://github.com/BeingBeyond/Being-H/tree/main/Being-H07">Code</a> <span class="coming-soon">(coming soon)</span></p>
 
 </div>
 </div>
@@ -36,7 +36,7 @@
 <div class='paper-box series-card'><div class='paper-box-image'><div><div class="badge">Series</div><img src='assets/images/arxiv_being_h05.png' alt="Being-H series thumbnail" loading="lazy" width="100%"></div></div>
 <div class='paper-box-text series-card-text'>
 
-<h3><a href="https://github.com/BeingBeyond/Being-H">Being-H: Vision-Language-Action</a></h3>
+<h3><a href="https://github.com/BeingBeyond/Being-H">Being-H0 &amp; 0.5: Vision-Language-Action Model</a></h3>
 <p class="series-summary">Vision-language-action pretraining from large-scale human videos.</p>
 
 <div class="series-current">
@@ -161,7 +161,7 @@ BeingBeyond Team,
 - ``Arxiv 2026`` [Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](https://arxiv.org/abs/2607.01067), 
 Chi Zhang, Penglin Cai, Ziheng Xi, Haoqi Yuan, Hao Luo, Wanpeng Zhang, **Sipeng Zheng**, Chaoyi Xu, Zongqing Lu.
 
-- ``Arxiv 2026`` [Being-H0.7: A Latent World-Action Model from Egocentric Videos](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf), 
+- ``NeurIPS 2026`` [Being-H0.7: A Latent World-Action Model from Egocentric Videos](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf),
 BeingBeyond Team,
 [**Blog**](https://research.beingbeyond.com/being-h07) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H/tree/main/Being-H07) (coming soon).
 

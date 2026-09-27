@@ -168,8 +168,6 @@ Wanpeng Zhang, Hao Luo, **Sipeng Zheng**, Yicheng Feng, Haiweng Xu, Ziheng Xi, C
 Ye Wang\*, **Sipeng Zheng\***, Hao Luo\*, Wanpeng Zhang\*, Haoqi Yuan, Chaoyi Xu, Haiweng Xu, Yicheng Feng, Mingyang Yu, Zhiyu Kang, Zongqing Lu, Qin Jin,
 [**Blog**](https://research.beingbeyond.com/rethink_vla) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Rethink_VLA).
 
-- ``Arxiv 2025`` [QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds](https://arxiv.org/pdf/2406.16578), Yuting Mei\*, Ye Wang\*, **Sipeng Zheng**, Qin Jin, [**Page**](https://quadruped-hub.github.io/Quadruped-GPT/).
-
 - ``NeurIPS 2026`` [Being-H0.7: A Latent World-Action Model from Egocentric Videos](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf),
 BeingBeyond Team,
 [**Blog**](https://research.beingbeyond.com/being-h07) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H/tree/main/Being-H07) (coming soon).
@@ -219,6 +217,8 @@ Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin.
 - ``ICCV 2025`` [Being-M0.5: A Real-time Controllable Vision-Language-Motion Model](https://arxiv.org/abs/2508.07863), Bin Cao\*, **Sipeng Zheng\***, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing Liu, Zongqing Lu.
 
 - ``ICCV 2025`` [VideoOrion: Tokenizing Object Dynamics in Videos](https://arxiv.org/abs/2411.16156), Yicheng Feng\*, Yijiang Li\*, Wanpeng Zhang, **Sipeng Zheng**, Zongqing Lu.
+
+- ``Arxiv 2025`` [QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds](https://arxiv.org/pdf/2406.16578), Yuting Mei\*, Ye Wang\*, **Sipeng Zheng**, Qin Jin, [**Page**](https://quadruped-hub.github.io/Quadruped-GPT/).
 
 - ``ICML 2025`` [Scaling Large Motion Models with Million-Level Human Motions](https://arxiv.org/abs/2410.03311), Ye Wang\*, **Sipeng Zheng\***, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zongqing Lu, [**Page**](https://beingbeyond.github.io/Being-M0).
 

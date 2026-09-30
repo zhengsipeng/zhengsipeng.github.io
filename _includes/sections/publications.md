@@ -17,11 +17,10 @@
 <div class="series-current">
   <div class="series-version-header">
     <a class="series-title" href="https://research.beingbeyond.com/being-h08"><strong>Being-H0.8</strong>: A Latent Tactile World-Action Model at Scale</a>
-    <span class="version-badge latest">Latest</span>
     <span class="version-badge">2026</span>
   </div>
   <p class="series-authors">BeingBeyond Team</p>
-  <p class="series-note">Our latest general-purpose embodied foundation model extends latent world-action modeling with touch for contact-rich robot manipulation.</p>
+  <p class="series-note">This general-purpose embodied foundation model extends latent world-action modeling with touch for contact-rich robot manipulation.</p>
   <p class="series-links"><a href="https://research.beingbeyond.com/being-h08"><strong>Blog</strong></a> | <strong>Paper</strong> <span class="coming-soon">(coming soon)</span></p>
 </div>
 
@@ -42,7 +41,6 @@
 <div class="series-current">
   <div class="series-version-header">
     <a class="series-title" href="https://arxiv.org/pdf/2601.12993"><strong>Being-H0.5</strong>: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization</a>
-    <span class="version-badge latest">Latest</span>
     <span class="version-badge">CoRL 2026 Oral (1% of submissions)</span>
   </div>
   <p class="series-authors">BeingBeyond Team</p>
@@ -65,7 +63,6 @@
 <div class="series-current">
   <div class="series-version-header">
     <a class="series-title" href="https://arxiv.org/pdf/2508.07863"><strong>Being-M0.5</strong>: A Real-Time Controllable Vision-Language-Motion Model</a>
-    <span class="version-badge latest">Latest</span>
     <span class="version-badge">ICCV 2025</span>
   </div>
   <p class="series-authors">Bin Cao*, <strong>Sipeng Zheng*</strong>, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing Liu, Zongqing Lu</p>
@@ -87,7 +84,6 @@
 <div class="series-current">
   <div class="series-version-header">
     <a class="series-title" href="https://arxiv.org/abs/2506.23639"><strong>Being-VL0.5</strong>: Unified Multimodal Understanding via Byte-Pair Visual Encoding</a>
-    <span class="version-badge latest">Latest</span>
     <span class="version-badge">ICCV 2025 Highlight (~2.3% of submissions)</span>
   </div>
   <p class="series-authors">Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, <strong>Sipeng Zheng</strong>, Zongqing Lu</p>

@@ -367,11 +367,6 @@ html {
         line-height: 1;
     }
 
-    .version-badge.latest {
-        background: #dbeafe;
-        color: #1d4ed8;
-    }
-
     .series-current p,
     .series-previous {
         margin-bottom: 0.24rem;
@@ -1093,11 +1088,6 @@ a {
         font-weight: 700;
         letter-spacing: 0.055em;
         text-transform: uppercase;
-    }
-
-    .version-badge.latest {
-        background: var(--accent);
-        color: var(--panel);
     }
 
     .series-summary {

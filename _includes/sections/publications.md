@@ -41,7 +41,7 @@
 <div class="series-current">
   <div class="series-version-header">
     <a class="series-title" href="https://arxiv.org/pdf/2601.12993"><strong>Being-H0.5</strong>: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization</a>
-    <span class="version-badge">CoRL 2026 Oral (1% of submissions)</span>
+    <span class="version-badge">CoRL 2026 (Oral, 1%)</span>
   </div>
   <p class="series-authors">BeingBeyond Team</p>
   <p class="series-note">The first VLA pretrained with 10K hours of human videos, spanning 30+ robot embodiments.</p>
@@ -84,7 +84,7 @@
 <div class="series-current">
   <div class="series-version-header">
     <a class="series-title" href="https://arxiv.org/abs/2506.23639"><strong>Being-VL0.5</strong>: Unified Multimodal Understanding via Byte-Pair Visual Encoding</a>
-    <span class="version-badge">ICCV 2025 Highlight (~2.3% of submissions)</span>
+    <span class="version-badge">ICCV 2025 (Highlight, 2.3%)</span>
   </div>
   <p class="series-authors">Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, <strong>Sipeng Zheng</strong>, Zongqing Lu</p>
   <p class="series-links"><a href="https://research.beingbeyond.com/being-vl05"><strong>Blog</strong></a> | <a href="https://arxiv.org/abs/2506.23639"><strong>Paper</strong></a> | <i class="fab fa-fw fa-github" aria-hidden="true"></i> <a href="https://github.com/BeingBeyond/Being-VL-0.5"><strong>Code</strong></a> | <a href="https://github.com/BeingBeyond/Being-VL-0"><strong>Page</strong></a></p>

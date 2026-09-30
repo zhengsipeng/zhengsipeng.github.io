@@ -43,7 +43,7 @@
   <div class="series-version-header">
     <a class="series-title" href="https://arxiv.org/pdf/2601.12993"><strong>Being-H0.5</strong>: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization</a>
     <span class="version-badge latest">Latest</span>
-    <span class="version-badge">CoRL 2026</span>
+    <span class="version-badge">CoRL 2026 Oral (1% of submissions)</span>
   </div>
   <p class="series-authors">BeingBeyond Team</p>
   <p class="series-note">The first VLA pretrained with 10K hours of human videos, spanning 30+ robot embodiments.</p>
@@ -88,7 +88,7 @@
   <div class="series-version-header">
     <a class="series-title" href="https://arxiv.org/abs/2506.23639"><strong>Being-VL0.5</strong>: Unified Multimodal Understanding via Byte-Pair Visual Encoding</a>
     <span class="version-badge latest">Latest</span>
-    <span class="version-badge">ICCV 2025 Highlight</span>
+    <span class="version-badge">ICCV 2025 Highlight (~2.3% of submissions)</span>
   </div>
   <p class="series-authors">Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, <strong>Sipeng Zheng</strong>, Zongqing Lu</p>
   <p class="series-links"><a href="https://research.beingbeyond.com/being-vl05"><strong>Blog</strong></a> | <a href="https://arxiv.org/abs/2506.23639"><strong>Paper</strong></a> | <i class="fab fa-fw fa-github" aria-hidden="true"></i> <a href="https://github.com/BeingBeyond/Being-VL-0.5"><strong>Code</strong></a> | <a href="https://github.com/BeingBeyond/Being-VL-0"><strong>Page</strong></a></p>
@@ -172,7 +172,7 @@ Ye Wang\*, **Sipeng Zheng\***, Hao Luo\*, Wanpeng Zhang\*, Haoqi Yuan, Chaoyi Xu
 BeingBeyond Team,
 [**Blog**](https://research.beingbeyond.com/being-h07) | <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H/tree/main/Being-H07) (coming soon).
 
-- ``CoRL 2026`` [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/pdf/2601.12993),
+- ``CoRL 2026`` (<span style="color:red">Oral, 1% of submissions</span>) [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/pdf/2601.12993),
 BeingBeyond Team,
 [**Blog**](https://research.beingbeyond.com/being-h05) | 
 <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-H) | <img src='assets/images/hg.ico' alt="huggingface" width="16" height="16"> 
@@ -212,7 +212,7 @@ Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin.
 
 - ``EMNLP 2025`` [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning](https://arxiv.org/abs/2503.07002), Jiazheng Liu, **Sipeng Zheng**, Börje F Karlsson, Zongqing Lu.
 
-- ``ICCV 2025`` [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639), Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu, [**Blog**](https://research.beingbeyond.com/being-vl05) ｜ <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-VL-0.5) ｜ [**Page**](https://github.com/BeingBeyond/Being-VL-0).
+- ``ICCV 2025`` (<span style="color:red">Highlight, ~2.3% of submissions</span>) [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/abs/2506.23639), Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, **Sipeng Zheng**, Zongqing Lu, [**Blog**](https://research.beingbeyond.com/being-vl05) ｜ <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/BeingBeyond/Being-VL-0.5) ｜ [**Page**](https://github.com/BeingBeyond/Being-VL-0).
 
 - ``ICCV 2025`` [Being-M0.5: A Real-time Controllable Vision-Language-Motion Model](https://arxiv.org/abs/2508.07863), Bin Cao\*, **Sipeng Zheng\***, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing Liu, Zongqing Lu.
 
@@ -230,7 +230,7 @@ Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin.
 
 - ``ECCV 2024`` [UniCode: Learning a Unified Codebook for Multimodal Large Language Models](https://arxiv.org/abs/2403.09072), **Sipeng Zheng**, Bohan Zhou, Yicheng Feng, Ye Wang, Zongqing Lu.
 
-- ``ICLR 2024`` [Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds](https://arxiv.org/abs/2310.13255), **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu, [**Page**](https://sites.google.com/view/steve-eye).  
+- ``ICLR 2024`` (<span style="color:red">Spotlight, 5.02% of submissions</span>) [Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds](https://arxiv.org/abs/2310.13255), **Sipeng Zheng**, Jiazheng Liu, Yicheng Feng, Zongqing Lu, [**Page**](https://sites.google.com/view/steve-eye).
 
 - ``NAACL 2024`` [LLaMA Rider: Spurring Large Language Models to Explore the Open World](https://arxiv.org/abs/2310.08922), Yicheng Feng, Yuxuan Wang, Jiazheng Liu, **Sipeng Zheng**, Zongqing Lu, [**Page**](https://github.com/PKU-RL/LLaMA-Rider).
 
@@ -246,7 +246,7 @@ Boshen Xu, Yuting Mei, Xinbi Liu, **Sipeng Zheng**, Jin Qin.
 
 - ``ECCV 2022`` [Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640293.pdf), **Sipeng Zheng**, Shizhen Chen, Qin Jin, <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/zhengsipeng/HCL-FSAR).
 
-- ``CVPR 2022`` [VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), **Sipeng Zheng**, Shizhe Chen, Qin Jin, <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/zhengsipeng/VRDFormer_VRD).
+- ``CVPR 2022`` (<span style="color:red">Oral, 4.14% of submissions</span>) [VRDFormer: End-to-end video visual relation detection with transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf), **Sipeng Zheng**, Shizhe Chen, Qin Jin, <i class="fab fa-fw fa-github" aria-hidden="true"></i> [**Code**](https://github.com/zhengsipeng/VRDFormer_VRD).
 
 - ``CVPR 2022 workshop`` [Exploring anchor-based detection for ego4d natural language query](https://arxiv.org/abs/2208.05375), **Sipeng Zheng**, Qi Zhang, Bei Liu, Qin Jin, Jianlong Fu, <i class="fab fa-fw fa-github" aria-hidden="true"></i>, [**Code**](https://github.com/QiQAng/AwareNet).
 

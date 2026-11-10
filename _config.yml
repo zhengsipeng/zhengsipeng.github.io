@@ -28,7 +28,8 @@ author:
   location: "Beijing, China"
   avatar: "assets/images/profile.jpg"
   avatar_webp: "assets/images/profile.webp"
-  email: "spzheng@beingbeyond.com"
+  email: "zhengsipeng27@gmail.com"          # personal contact (Email button, SEO)
+  recruit_email: "spzheng@beingbeyond.com"  # shown on the "Join our team" card
   cv: "files/cv_zsp_en.pdf"
   googlescholar: "https://scholar.google.com/citations?user=OonuDhcAAAAJ"
   github: "zhengsipeng"

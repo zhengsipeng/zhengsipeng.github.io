@@ -8,7 +8,7 @@ Almost everything lives in plain data files — no HTML required.
 
 | What | Where |
 | --- | --- |
-| Name, role, links, tagline, research interests | `_config.yml` → `author` |
+| Name, role, links, emails, tagline, research interests | `_config.yml` → `author` |
 | Biography | `_includes/sections/intro.md` |
 | Recruiting text | `_includes/sections/join.md` |
 | News | `_data/news.yml` (newest first; `news_visible` in `_config.yml` sets how many show) |

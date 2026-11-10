@@ -1,19 +1,8 @@
-# Main navigation
+# Top navigation. `id` must match a section id on the home page.
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "News"
-    url: "/#news"
-
-  - title: "Publications"
-    url: "/#publications"
-
-  - title: "Honors"
-    url: "/#honors"
-
-  - title: "Education"
-    url: "/#education"
-
-  - title: "Services"
-    url: "/#services"
+  - { title: About, id: about }
+  - { title: News, id: news }
+  - { title: Research, id: research }
+  - { title: Publications, id: publications }
+  - { title: Honors, id: honors }
+  - { title: Experience, id: experience }

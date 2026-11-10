@@ -1,0 +1,27 @@
+{%- comment -%}
+  Renders resource links for a publication.
+  Params: links (array of {type, url, soon}), paper (optional main paper URL, rendered first as "Paper")
+{%- endcomment -%}
+{%- assign _links = include.links | default: empty -%}
+{%- assign _explicit_paper = _links | where: "type", "paper" | size -%}
+{%- assign _blog = _links | where: "type", "blog" | first -%}
+<span class="plinks">
+{%- if include.paper and _explicit_paper == 0 and include.paper != _blog.url -%}
+  <a class="plink" href="{{ include.paper }}">{% include icon.html name="file" %}<span>Paper</span></a>
+{%- endif -%}
+{%- for l in _links -%}
+  {%- case l.type -%}
+    {%- when "blog" -%}{%- assign _label = "Blog" -%}{%- assign _icon = "blog" -%}
+    {%- when "code" -%}{%- assign _label = "Code" -%}{%- assign _icon = "github" -%}
+    {%- when "model" -%}{%- assign _label = "Model" -%}{%- assign _icon = "huggingface" -%}
+    {%- when "page" -%}{%- assign _label = "Project" -%}{%- assign _icon = "page" -%}
+    {%- when "paper" -%}{%- assign _label = "Paper" -%}{%- assign _icon = "file" -%}
+    {%- else -%}{%- assign _label = l.type | capitalize -%}{%- assign _icon = "link" -%}
+  {%- endcase -%}
+  {%- if l.url -%}
+  <a class="plink{% if l.soon %} is-soon{% endif %}" href="{{ l.url }}">{% include icon.html name=_icon %}<span>{{ _label }}</span>{% if l.soon %}<em class="plink__soon">soon</em>{% endif %}</a>
+  {%- else -%}
+  <span class="plink is-soon">{% include icon.html name=_icon %}<span>{{ _label }}</span><em class="plink__soon">coming soon</em></span>
+  {%- endif -%}
+{%- endfor -%}
+</span>

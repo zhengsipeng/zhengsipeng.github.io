@@ -1,0 +1,15 @@
+# Work experience, education, and academic service.
+
+work:
+  - { dates: "2025.05 – Present", role: Research Scientist, org: BeingBeyond, place: "Beijing, China" }
+  - { dates: "2023.07 – 2025.05", role: Researcher, org: Beijing Academy of Artificial Intelligence (BAAI), place: "Beijing, China" }
+  - { dates: "2022.04 – 2022.10", role: Research Intern, org: Microsoft Research Asia, place: "Beijing, China" }
+  - { dates: "2021.11 – 2022.04", role: Research Intern, org: Beijing Academy of Artificial Intelligence (BAAI), place: "Beijing, China" }
+
+education:
+  - { dates: "2018.09 – 2023.06", role: "Ph.D., Computer Science and Engineering", org: Renmin University of China, place: "Advisor: Prof. Qin Jin" }
+  - { dates: "2014.09 – 2018.06", role: "Bachelor's Degree, Computer Science and Engineering", org: Renmin University of China, place: "Beijing, China" }
+
+service:
+  - { label: Conference Reviewer, venues: [CVPR, ICCV, ECCV, ACCV, NeurIPS, AAAI, ACM MM] }
+  - { label: Journal Reviewer, venues: [IJCV, TCSVT, TMM, JATS] }

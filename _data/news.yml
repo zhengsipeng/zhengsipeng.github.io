@@ -1,0 +1,38 @@
+# News, newest first. `text` supports inline Markdown (links, emphasis).
+# Keep entries in reverse chronological order.
+# The first `news_visible` items (see _config.yml) are shown; the rest go under "Earlier news".
+
+- date: "2026.10"
+  text: We introduce [TactoHand](https://arxiv.org/abs/2610.39585), which predicts dense hand-surface contact, proximity, and 3D force fields from video.
+- date: "2026.09"
+  text: Being-H0.7 is accepted to NeurIPS 2026.
+- date: "2026.09"
+  text: Being-H0.5 is accepted to CoRL 2026 as an **Oral** presentation (21 orals selected from 2,094 submissions, ~1%).
+- date: "2026.07"
+  text: We introduce [Being-H0.8](https://research.beingbeyond.com/being-h08), a latent tactile world-action model at scale for contact-rich robot manipulation.
+- date: "2026.07"
+  text: One paper is accepted to ACM MM 2026.
+- date: "2026.06"
+  text: Three papers are accepted to ECCV 2026.
+- date: "2026.05"
+  text: Being-H0 is accepted to ICML 2026.
+- date: "2026.04"
+  text: We present [Being-H0.7](https://research.beingbeyond.com/being-h07), a latent world-action model based on 200K human videos.
+- date: "2026.04"
+  text: Being-H0.5 has been [open-sourced](https://github.com/BeingBeyond/Being-H).
+- date: "2026.02"
+  text: Three papers are accepted to CVPR 2026.
+- date: "2026.01"
+  text: We release Being-H0.5, our latest cross-embodiment foundation VLA.
+- date: "2025.09"
+  text: Two papers are accepted to NeurIPS 2025.
+- date: "2025.08"
+  text: We present [Being-M0.5](https://research.beingbeyond.com/being-m05), an improved version of Being-M0 with real-time controllability.
+- date: "2025.07"
+  text: Our next-generation LMM, Being-VL-0.5, is released with code and checkpoints.
+- date: "2025.07"
+  text: We release Being-H0, the first VLA pretrained from large-scale human videos with hand motion.
+- date: "2025.06"
+  text: Three papers are accepted to ICCV 2025.
+- date: "2025.05"
+  text: We present our first million-level motion model, Being-M0, which is accepted to ICML 2025.

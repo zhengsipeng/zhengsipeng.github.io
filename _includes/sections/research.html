@@ -1,0 +1,57 @@
+{%- assign pubs = site.data.publications -%}
+<section class="section section--research" id="research" aria-labelledby="research-title">
+  <div class="container section__grid">
+    <header class="section__head">
+      <p class="section__index">02</p>
+      <h2 class="section__title" id="research-title">Research</h2>
+      <p class="section__intro">Model series I lead at BeingBeyond.</p>
+    </header>
+    <div class="section__body">
+      <div class="programs">
+        {%- for prog in site.data.research %}
+        {%- assign cur = pubs | where: "id", prog.current | first -%}
+        {%- assign prefix = cur.short | append: ": " -%}
+        {%- if cur.title contains prefix -%}{%- assign rest = cur.title | remove_first: prefix -%}{%- else -%}{%- assign rest = cur.title -%}{%- endif -%}
+        {%- capture cur_authors -%}{{ cur.authors | replace: "Sipeng Zheng", '<span class="me">Sipeng Zheng</span>' }}{%- endcapture %}
+        <article class="program">
+          <a class="program__figure" href="{{ prog.url }}" tabindex="-1" aria-hidden="true">
+            <img
+              src="{{ '/assets/images/papers/' | append: prog.image | append: '-640.webp' | relative_url }}"
+              srcset="{{ '/assets/images/papers/' | append: prog.image | append: '-640.webp' | relative_url }} 640w, {{ '/assets/images/papers/' | append: prog.image | append: '-1280.webp' | relative_url }} 1280w"
+              sizes="(min-width: 1180px) 430px, (min-width: 720px) 45vw, 92vw"
+              alt="{{ prog.image_alt }}" width="640" height="400" loading="lazy" decoding="async">
+          </a>
+          <div class="program__body">
+            <header class="program__head">
+              <h3 class="program__name"><a href="{{ prog.url }}">{{ prog.name }}</a></h3>
+              <p class="program__subtitle">{{ prog.subtitle }}</p>
+            </header>
+            <p class="program__summary">{{ prog.summary }}</p>
+
+            <div class="program__current">
+              <div class="program__meta">
+                <span class="venue">{% if cur.venue and cur.venue != "" %}{{ cur.venue }}{% else %}{{ cur.year }}{% endif %}</span>
+                {%- if cur.award %}<span class="award" title="{{ cur.award }} presentation{% if cur.award_rate %}, ~{{ cur.award_rate }} of submissions{% endif %}">{{ cur.award }}{% if cur.award_rate %} · {{ cur.award_rate }}{% endif %}</span>{% endif %}
+              </div>
+              <h4 class="program__paper"><a href="{{ cur.url }}">{% if cur.short %}<strong>{{ cur.short }}</strong>: {% endif %}{{ rest }}</a></h4>
+              <p class="program__authors">{{ cur_authors }}</p>
+              {%- if cur.summary %}<p class="program__note">{{ cur.summary }}</p>{% endif %}
+              {% include pub-links.html links=cur.links paper=cur.url %}
+            </div>
+
+            {%- for pid in prog.previous %}
+            {%- assign prev = pubs | where: "id", pid | first %}
+            <div class="program__prev">
+              <span class="program__prev-label">Previous</span>
+              <p class="program__prev-title"><a href="{{ prev.url }}">{{ prev.short }}</a><span class="venue venue--plain">{{ prev.venue }}</span></p>
+              {%- if prev.summary %}<p class="program__prev-note">{{ prev.summary }}</p>{% endif %}
+              {% include pub-links.html links=prev.links paper=prev.url %}
+            </div>
+            {%- endfor %}
+          </div>
+        </article>
+        {%- endfor %}
+      </div>
+    </div>
+  </div>
+</section>

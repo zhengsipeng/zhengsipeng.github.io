@@ -1,0 +1,2 @@
+{%- comment -%} Usage: {% include icon.html name="github" %} — symbols live in icon-sprite.html {%- endcomment -%}
+<svg class="icon{% if include.name == "github" or include.name == "linkedin" or include.name == "scholar" or include.name == "dblp" or include.name == "huggingface" or include.name == "arxiv" %} icon--brand{% endif %}" aria-hidden="true" focusable="false"><use href="#i-{{ include.name }}"></use></svg>

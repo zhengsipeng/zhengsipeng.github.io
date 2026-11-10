@@ -1,0 +1,29 @@
+{%- assign home = '/' | relative_url -%}
+{%- if page.url == "/" -%}{%- assign home = "" -%}{%- endif -%}
+<header class="site-header" data-header>
+  <div class="container site-header__inner">
+    <a class="brand" href="{{ home }}#top" aria-label="{{ site.author.name }} — home">
+      <span class="brand__name">{{ site.author.name }}</span>
+      <span class="brand__zh" lang="zh-CN">{{ site.author.name_zh }}</span>
+    </a>
+
+    <nav class="site-nav" aria-label="Primary">
+      <ul class="site-nav__list" id="site-nav-list">
+        {%- for link in site.data.navigation.main %}
+        <li><a class="site-nav__link" href="{{ home }}#{{ link.id }}" data-nav="{{ link.id }}">{{ link.title }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+
+    <div class="site-header__actions">
+      <button class="icon-btn theme-toggle" type="button" data-theme-toggle aria-label="Toggle dark mode">
+        <span class="theme-toggle__light">{% include icon.html name="moon" %}</span>
+        <span class="theme-toggle__dark">{% include icon.html name="sun" %}</span>
+      </button>
+      <button class="icon-btn menu-toggle" type="button" data-menu-toggle aria-controls="site-nav-list" aria-expanded="false" aria-label="Open menu">
+        <span class="menu-toggle__open">{% include icon.html name="menu" %}</span>
+        <span class="menu-toggle__close">{% include icon.html name="close" %}</span>
+      </button>
+    </div>
+  </div>
+</header>

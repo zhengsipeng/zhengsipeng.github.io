@@ -1,0 +1,446 @@
+# Publications — single source of truth for the publication list and research cards.
+#
+# Fields
+#   id         unique key, referenced from _data/research.yml
+#   title      paper title
+#   short      optional model / project name shown in research cards (e.g. "Being-H0.5")
+#   url        main paper link (title links here)
+#   venue      e.g. "CoRL 2026"; leave empty for unpublished work
+#   year       used for grouping in the list
+#   award      optional distinction, e.g. "Oral"; award_rate e.g. "1%"
+#   authors    plain text; "Sipeng Zheng" is highlighted automatically, "*" marks equal contribution
+#   summary    optional one-line description (used in research cards)
+#   links      list of { type, url, soon }; type: blog | code | model | page | paper
+#   topics     any of: embodied | motion | mllm | video   (drives the topic filters)
+#   selected   true → shown in the default "Selected" view
+#   image      optional figure slug in assets/images/papers/<slug>-{640,1280}.webp
+#
+# Order within a year is preserved as written.
+
+- id: being-h08
+  short: Being-H0.8
+  title: "Being-H0.8: A Latent Tactile World-Action Model at Scale"
+  url: https://research.beingbeyond.com/being-h08
+  venue: ""
+  year: 2026
+  authors: BeingBeyond Team
+  summary: A general-purpose embodied foundation model that extends latent world-action modeling with touch for contact-rich robot manipulation.
+  links:
+    - { type: blog, url: "https://research.beingbeyond.com/being-h08" }
+    - { type: paper, soon: true }
+  topics: [embodied]
+  image: being-h08
+
+- id: tactohand
+  title: "TactoHand: Learning Geometry-Based Dense Hand-Surface Interaction Fields from Video"
+  url: https://arxiv.org/abs/2610.39585
+  venue: arXiv 2026
+  year: 2026
+  authors: Ziheng Xi, Weibo Li, Jiayi Yu, Sipeng Zheng, Wanpeng Zhang, Haiweng Xu, Hao Luo, Chuan Mao, Zongqing Lu
+  topics: [embodied, video]
+
+- id: tactile-pretraining
+  title: Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation
+  url: https://arxiv.org/abs/2607.01067
+  venue: arXiv 2026
+  year: 2026
+  authors: Chi Zhang, Penglin Cai, Ziheng Xi, Haoqi Yuan, Hao Luo, Wanpeng Zhang, Sipeng Zheng, Chaoyi Xu, Zongqing Lu
+  topics: [embodied]
+
+- id: conservative-offline
+  title: Conservative Offline Robot Policy Learning via Posterior-Transition Reweighting
+  url: https://arxiv.org/abs/2603.16542
+  venue: arXiv 2026
+  year: 2026
+  authors: Wanpeng Zhang, Hao Luo, Sipeng Zheng, Yicheng Feng, Haiweng Xu, Ziheng Xi, Chaoyi Xu, Haoqi Yuan, Zongqing Lu
+  topics: [embodied]
+
+- id: rethink-vla
+  title: "Rethinking Visual-Language-Action Model Scaling: Alignment, Mixture, and Regularization"
+  url: https://arxiv.org/abs/2602.09722
+  venue: arXiv 2026
+  year: 2026
+  authors: Ye Wang*, Sipeng Zheng*, Hao Luo*, Wanpeng Zhang*, Haoqi Yuan, Chaoyi Xu, Haiweng Xu, Yicheng Feng, Mingyang Yu, Zhiyu Kang, Zongqing Lu, Qin Jin
+  links:
+    - { type: blog, url: "https://research.beingbeyond.com/rethink_vla" }
+    - { type: code, url: "https://github.com/BeingBeyond/Rethink_VLA" }
+  topics: [embodied]
+
+- id: being-h07
+  short: Being-H0.7
+  title: "Being-H0.7: A Latent World-Action Model from Egocentric Videos"
+  url: https://research.beingbeyond.com/projects/being-h07/being-h07.pdf
+  venue: NeurIPS 2026
+  year: 2026
+  authors: BeingBeyond Team
+  summary: Latent world-action modeling from 200,000 hours of egocentric human videos.
+  links:
+    - { type: blog, url: "https://research.beingbeyond.com/being-h07" }
+    - { type: code, url: "https://github.com/BeingBeyond/Being-H/tree/main/Being-H07", soon: true }
+  topics: [embodied]
+  selected: true
+  image: being-h07
+
+- id: being-h05
+  short: Being-H0.5
+  title: "Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization"
+  url: https://arxiv.org/abs/2601.12993
+  venue: CoRL 2026
+  year: 2026
+  award: Oral
+  award_rate: "1%"
+  authors: BeingBeyond Team
+  summary: The first VLA pretrained with 10K hours of human videos, spanning 30+ robot embodiments.
+  links:
+    - { type: blog, url: "https://research.beingbeyond.com/being-h05" }
+    - { type: code, url: "https://github.com/BeingBeyond/Being-H" }
+    - { type: model, url: "https://huggingface.co/collections/BeingBeyond/being-h05" }
+  topics: [embodied]
+  selected: true
+  image: being-h05
+
+- id: robust-motion
+  title: Robust Motion Generation using Part-level Reliable Data from Videos
+  url: https://arxiv.org/abs/2512.12703
+  venue: ACM MM 2026
+  year: 2026
+  authors: Boyuan Li, Sipeng Zheng, Bin Cao, Ruihua Song, Zongqing Lu
+  topics: [motion]
+
+- id: dig-flow
+  title: "DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models"
+  url: https://arxiv.org/abs/2512.01715
+  venue: ECCV 2026
+  year: 2026
+  authors: Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, Yicheng Feng, Sipeng Zheng, Qin Jin, Zongqing Lu
+  links:
+    - { type: blog, url: "https://research.beingbeyond.com/dig-flow" }
+    - { type: code, url: "https://github.com/BeingBeyond/DiG-Flow" }
+  topics: [embodied]
+
+- id: rlpf
+  title: "RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control"
+  url: https://arxiv.org/abs/2506.12769
+  venue: ECCV 2026
+  year: 2026
+  authors: Junpeng Yue, Zepeng Wang, Yuxuan Wang, Weishuai Zeng, Jiangxing Wang, Xinrun Xu, Yu Zhang, Sipeng Zheng, Ziluo Ding, Zongqing Lu
+  links:
+    - { type: page, url: "https://beingbeyond.github.io/RLPF/" }
+  topics: [motion, embodied]
+
+- id: better
+  title: Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models
+  url: https://arxiv.org/abs/2604.18000
+  venue: ECCV 2026
+  year: 2026
+  authors: Haiweng Xu, Sipeng Zheng, Hao Luo, Wanpeng Zhang, Ziheng Xi, Zongqing Lu
+  links:
+    - { type: code, url: "https://github.com/BeingBeyond/BeTTER" }
+  topics: [embodied]
+
+- id: being-h0
+  short: Being-H0
+  title: "Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos"
+  url: https://arxiv.org/abs/2507.15597
+  venue: ICML 2026
+  year: 2026
+  authors: BeingBeyond Team
+  summary: The first VLA pretrained with 1K hours of human videos.
+  links:
+    - { type: blog, url: "https://research.beingbeyond.com/being-h0" }
+    - { type: code, url: "https://github.com/BeingBeyond/Being-H0" }
+    - { type: model, url: "https://huggingface.co/BeingBeyond/Being-H0" }
+  topics: [embodied]
+  selected: true
+  image: being-h0
+
+- id: jala
+  title: "Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild"
+  url: https://arxiv.org/abs/2602.21736
+  venue: CVPR 2026
+  year: 2026
+  authors: Hao Luo, Ye Wang, Wanpeng Zhang, Haoqi Yuan, Yicheng Feng, Haiweng Xu, Sipeng Zheng, Zongqing Lu
+  topics: [embodied]
+
+- id: opent2m
+  title: "OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-quality Data"
+  url: https://openreview.net/pdf?id=YcJnHKVB9v
+  venue: CVPR 2026
+  year: 2026
+  authors: Bin Cao, Sipeng Zheng, Hao Luo, Boyuan Li, Jing Liu, Zongqing Lu
+  topics: [motion]
+
+- id: vipa-vla
+  title: Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos
+  url: https://arxiv.org/abs/2512.13080
+  venue: CVPR 2026
+  year: 2026
+  authors: Yicheng Feng, Wanpeng Zhang, Ye Wang, Hao Luo, Haoqi Yuan, Sipeng Zheng, Zongqing Lu
+  links:
+    - { type: page, url: "https://beingbeyond.github.io/VIPA-VLA" }
+    - { type: code, url: "https://github.com/BeingBeyond/VIPA-VLA" }
+  topics: [embodied]
+
+- id: openmmego
+  title: "OpenMMEgo: Enhancing Egocentric Understanding for LMMs with Open Weights and Data"
+  url: https://openreview.net/forum?id=9OyMsbuzL5
+  venue: NeurIPS 2025
+  year: 2025
+  authors: Hao Luo, Zihao Yue, Wanpeng Zhang, Yicheng Feng, Sipeng Zheng, Deheng Ye, Zongqing Lu
+  topics: [mllm, video]
+
+- id: egodtm
+  title: "EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining"
+  url: https://arxiv.org/abs/2503.15470
+  venue: NeurIPS 2025
+  year: 2025
+  authors: Boshen Xu, Yuting Mei, Xinbi Liu, Sipeng Zheng, Qin Jin
+  links:
+    - { type: code, url: "https://github.com/xuboshen/EgoDTM" }
+  topics: [video]
+
+- id: taking-notes
+  title: "Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning"
+  url: https://arxiv.org/abs/2503.07002
+  venue: EMNLP 2025
+  year: 2025
+  authors: Jiazheng Liu, Sipeng Zheng, Börje F. Karlsson, Zongqing Lu
+  topics: [mllm]
+
+- id: being-vl05
+  short: Being-VL-0.5
+  title: Unified Multimodal Understanding via Byte-Pair Visual Encoding
+  url: https://arxiv.org/abs/2506.23639
+  venue: ICCV 2025
+  year: 2025
+  award: Highlight
+  award_rate: "2.3%"
+  authors: Wanpeng Zhang, Yicheng Feng, Hao Luo, Yijiang Li, Zihao Yue, Sipeng Zheng, Zongqing Lu
+  links:
+    - { type: blog, url: "https://research.beingbeyond.com/being-vl05" }
+    - { type: code, url: "https://github.com/BeingBeyond/Being-VL-0.5" }
+    - { type: page, url: "https://github.com/BeingBeyond/Being-VL-0" }
+  topics: [mllm]
+  selected: true
+  image: being-vl05
+
+- id: being-m05
+  short: Being-M0.5
+  title: "Being-M0.5: A Real-Time Controllable Vision-Language-Motion Model"
+  url: https://arxiv.org/abs/2508.07863
+  venue: ICCV 2025
+  year: 2025
+  authors: Bin Cao*, Sipeng Zheng*, Ye Wang, Lujie Xia, Qianshan Wei, Qin Jin, Jing Liu, Zongqing Lu
+  links:
+    - { type: blog, url: "https://research.beingbeyond.com/being-m05" }
+    - { type: page, url: "https://beingbeyond.github.io/Being-M0/" }
+  topics: [motion]
+  selected: true
+  image: being-m05
+
+- id: videoorion
+  title: "VideoOrion: Tokenizing Object Dynamics in Videos"
+  url: https://arxiv.org/abs/2411.16156
+  venue: ICCV 2025
+  year: 2025
+  authors: Yicheng Feng*, Yijiang Li*, Wanpeng Zhang, Sipeng Zheng, Zongqing Lu
+  topics: [mllm, video]
+
+- id: quadrupedgpt
+  title: "QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds"
+  url: https://arxiv.org/abs/2406.16578
+  venue: arXiv 2025
+  year: 2025
+  authors: Yuting Mei*, Ye Wang*, Sipeng Zheng, Qin Jin
+  links:
+    - { type: page, url: "https://quadruped-hub.github.io/Quadruped-GPT/" }
+  topics: [embodied]
+
+- id: being-m0
+  short: Being-M0
+  title: Scaling Large Motion Models with Million-Level Human Motions
+  url: https://arxiv.org/abs/2410.03311
+  venue: ICML 2025
+  year: 2025
+  authors: Ye Wang*, Sipeng Zheng*, Bin Cao, Qianshan Wei, Weishuai Zeng, Qin Jin, Zongqing Lu
+  links:
+    - { type: page, url: "https://beingbeyond.github.io/Being-M0" }
+  topics: [motion]
+  selected: true
+
+- id: egoncepp
+  title: "EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?"
+  url: https://arxiv.org/abs/2405.17719
+  venue: ICLR 2025
+  year: 2025
+  authors: Boshen Xu, Ziheng Wang, Yang Du, Zhinan Song, Sipeng Zheng, Qin Jin
+  links:
+    - { type: code, url: "https://github.com/xuboshen/egoncepp" }
+  topics: [video]
+
+- id: being-vl0
+  short: Being-VL-0
+  title: "From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities"
+  url: https://arxiv.org/abs/2410.02155
+  venue: ICLR 2025
+  year: 2025
+  authors: Wanpeng Zhang, Zilong Xie, Yicheng Feng, Yijiang Li, Xingrun Xing, Sipeng Zheng, Zongqing Lu
+  links:
+    - { type: page, url: "https://github.com/BeingBeyond/Being-VL-0" }
+  topics: [mllm]
+
+- id: spaformer
+  title: "SPAFormer: Sequential 3D Part Assembly with Transformers"
+  url: https://arxiv.org/abs/2403.05874
+  venue: 3DV 2025
+  year: 2025
+  authors: Boshen Xu, Sipeng Zheng, Qin Jin
+  links:
+    - { type: code, url: "https://github.com/xuboshen/SPAFormer" }
+  topics: [video]
+
+- id: unicode
+  short: UniCode
+  title: "UniCode: Learning a Unified Codebook for Multimodal Large Language Models"
+  url: https://arxiv.org/abs/2403.09072
+  venue: ECCV 2024
+  year: 2024
+  authors: Sipeng Zheng, Bohan Zhou, Yicheng Feng, Ye Wang, Zongqing Lu
+  topics: [mllm]
+  selected: true
+
+- id: steve-eye
+  short: Steve-Eye
+  title: "Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds"
+  url: https://arxiv.org/abs/2310.13255
+  venue: ICLR 2024
+  year: 2024
+  award: Spotlight
+  award_rate: "5.02%"
+  authors: Sipeng Zheng, Jiazheng Liu, Yicheng Feng, Zongqing Lu
+  links:
+    - { type: page, url: "https://sites.google.com/view/steve-eye" }
+    - { type: code, url: "https://github.com/BAAI-Agents/Steve-Eye" }
+  topics: [embodied, mllm]
+  selected: true
+  image: steve-eye
+
+- id: llama-rider
+  title: "LLaMA Rider: Spurring Large Language Models to Explore the Open World"
+  url: https://arxiv.org/abs/2310.08922
+  venue: NAACL 2024
+  year: 2024
+  authors: Yicheng Feng, Yuxuan Wang, Jiazheng Liu, Sipeng Zheng, Zongqing Lu
+  links:
+    - { type: code, url: "https://github.com/PKU-RL/LLaMA-Rider" }
+  topics: [embodied]
+
+- id: pov
+  title: "POV: Prompt-Oriented View-Agnostic Learning for Egocentric Hand-Object Interaction in the Multi-View World"
+  url: https://dl.acm.org/doi/10.1145/3581783.3612484
+  venue: ACM MM 2023
+  year: 2023
+  authors: Boshen Xu, Sipeng Zheng, Qin Jin
+  links:
+    - { type: page, url: "https://xuboshen.github.io/POV" }
+    - { type: code, url: "https://github.com/xuboshen/pov_acmmm2023" }
+  topics: [video]
+
+- id: no-frills-tvg
+  title: "No-frills Temporal Video Grounding: Multi-Scale Neighboring Attention and Zoom-in Boundary Detection"
+  url: https://arxiv.org/abs/2307.10567
+  venue: AAAI 2023
+  year: 2023
+  authors: Qi Zhang, Sipeng Zheng, Qin Jin
+  links:
+    - { type: code, url: "https://github.com/QiQAng/AwareNet" }
+  topics: [video]
+
+- id: open-category-hoi
+  title: Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework
+  url: https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.pdf
+  venue: CVPR 2023
+  year: 2023
+  authors: Sipeng Zheng, Boshen Xu, Qin Jin
+  topics: [video]
+  selected: true
+
+- id: audio-clip
+  title: Accommodating Audio Modality in CLIP for Multimodal Processing
+  url: https://ojs.aaai.org/index.php/AAAI/article/view/26153/25925
+  venue: AAAI 2023
+  year: 2023
+  authors: Ludan Ruan, Anwen Hu, Yuqing Song, Liang Zhang, Sipeng Zheng, Qin Jin
+  topics: [mllm]
+
+- id: anchor-nlq-icce
+  title: Anchor-Based Detection for Natural Language Localization in Ego-Centric Videos
+  url: https://ieeexplore.ieee.org/abstract/document/10043460
+  venue: ICCE 2023
+  year: 2023
+  authors: Sipeng Zheng, Bei Liu, Jianlong Fu, Wen-Huang Cheng
+  links:
+    - { type: code, url: "https://github.com/QiQAng/AwareNet" }
+  topics: [video]
+
+- id: hcl-fsar
+  title: Few-shot Action Recognition with Hierarchical Matching and Contrastive Learning
+  url: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640293.pdf
+  venue: ECCV 2022
+  year: 2022
+  authors: Sipeng Zheng, Shizhe Chen, Qin Jin
+  links:
+    - { type: code, url: "https://github.com/zhengsipeng/HCL-FSAR" }
+  topics: [video]
+  selected: true
+  image: hcl-fsar
+
+- id: vrdformer
+  title: "VRDFormer: End-to-End Video Visual Relation Detection with Transformers"
+  url: https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf
+  venue: CVPR 2022
+  year: 2022
+  award: Oral
+  award_rate: "4.14%"
+  authors: Sipeng Zheng, Shizhe Chen, Qin Jin
+  links:
+    - { type: code, url: "https://github.com/zhengsipeng/VRDFormer_VRD" }
+  topics: [video]
+  selected: true
+  image: vrdformer
+
+- id: anchor-nlq-ego4d
+  title: Exploring Anchor-based Detection for Ego4D Natural Language Query
+  url: https://arxiv.org/abs/2208.05375
+  venue: CVPR 2022 Workshop
+  year: 2022
+  authors: Sipeng Zheng, Qi Zhang, Bei Liu, Qin Jin, Jianlong Fu
+  links:
+    - { type: code, url: "https://github.com/QiQAng/AwareNet" }
+  topics: [video]
+
+- id: sign
+  title: Skeleton-Based Interactive Graph Network for Human Object Interaction Detection
+  url: https://ieeexplore.ieee.org/document/9102755
+  venue: ICME 2020
+  year: 2020
+  authors: Sipeng Zheng, Shizhe Chen, Qin Jin
+  links:
+    - { type: code, url: "https://github.com/zhengsipeng/SIGN" }
+  topics: [video]
+
+- id: vrd-multilevel
+  title: Visual Relation Detection with Multi-Level Attention
+  url: https://dl.acm.org/doi/10.1145/3343031.3350962
+  venue: ACM MM 2019
+  year: 2019
+  authors: Sipeng Zheng, Shizhe Chen, Qin Jin
+  topics: [video]
+
+- id: relation-understanding
+  title: Relation Understanding in Videos
+  url: https://dl.acm.org/doi/10.1145/3343031.3356080
+  venue: ACM MM 2019
+  year: 2019
+  authors: Sipeng Zheng, Xiangyu Chen, Shizhe Chen, Qin Jin
+  topics: [video]

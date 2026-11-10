@@ -1,0 +1,280 @@
+/* ==========================================================================
+   Shared components: venue/award tags, resource links, news, timelines
+   ========================================================================== */
+
+.venue,
+.award {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.1875rem 0.5rem;
+  border-radius: 4px;
+  font-family: $font-mono;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  line-height: 1.35;
+  white-space: nowrap;
+}
+
+.venue {
+  background: var(--accent-wash);
+  color: var(--accent);
+}
+
+.venue--plain {
+  padding: 0;
+  background: none;
+  color: var(--muted);
+}
+
+.award {
+  background: var(--award-wash);
+  color: var(--award);
+  font-weight: 600;
+}
+
+/* Resource links (Paper · Blog · Code · Model · Project) */
+
+.plinks {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 0.875rem;
+}
+
+.plink {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3125rem;
+  color: var(--ink-2);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1.6;
+
+  .icon {
+    color: var(--muted);
+    font-size: 0.9375em;
+    transition: color 0.15s ease;
+  }
+
+  &:hover {
+    color: var(--accent);
+
+    .icon { color: var(--accent); }
+  }
+}
+
+.plink.is-soon {
+  color: var(--muted);
+}
+
+.plink__soon {
+  margin-left: 0.125rem;
+  padding: 0 0.3125rem;
+  border: 1px solid var(--rule-strong);
+  border-radius: 3px;
+  color: var(--muted);
+  font-family: $font-mono;
+  font-size: 0.75rem;
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* News */
+
+.news__item {
+  display: grid;
+  grid-template-columns: 4.75rem minmax(0, 1fr);
+  gap: 1.25rem;
+  padding: 0.875rem 0;
+  border-bottom: 1px solid var(--rule);
+
+  &:first-child { padding-top: 0.25rem; }
+}
+
+.news__date {
+  padding-top: 0.1875rem;
+  color: var(--muted);
+  font-family: $font-mono;
+  font-size: 0.8125rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.news__text {
+  color: var(--ink-2);
+  font-size: 1rem;
+  line-height: 1.6;
+
+  a {
+    font-weight: 500;
+    text-decoration: underline;
+    text-decoration-color: var(--accent-line);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+
+    &:hover { text-decoration-color: currentColor; }
+  }
+}
+
+.news--earlier .news__item:first-child {
+  padding-top: 0.875rem;
+}
+
+/* Disclosure (details/summary) */
+
+.disclosure {
+  margin-top: 1.25rem;
+
+  > summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.375rem 0;
+    color: var(--ink-2);
+    font-family: $font-mono;
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    cursor: pointer;
+    list-style: none;
+    -webkit-user-select: none;
+    user-select: none;
+
+    &::-webkit-details-marker { display: none; }
+
+    &:hover { color: var(--accent); }
+
+    .icon { transition: transform 0.2s var(--ease); }
+  }
+
+  &[open] > summary .icon { transform: rotate(180deg); }
+}
+
+.disclosure__count {
+  padding: 0.0625rem 0.4375rem;
+  border-radius: 999px;
+  background: var(--surface-2);
+  color: var(--muted);
+  letter-spacing: 0;
+}
+
+/* Timelines (honors / experience) */
+
+.tl__item {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 0.875rem 0;
+  border-bottom: 1px solid var(--rule);
+
+  &:last-child { border-bottom: 0; }
+}
+
+.tl__date {
+  padding-top: 0.125rem;
+  color: var(--muted);
+  font-family: $font-mono;
+  font-size: 0.8125rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.tl__body {
+  color: var(--ink-2);
+  font-size: 0.9375rem;
+  line-height: 1.55;
+}
+
+#experience .tl__item {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.25rem;
+}
+
+.tl__role {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.tl__org {
+  color: var(--ink-2);
+}
+
+.tl__place {
+  color: var(--muted);
+
+  &::before {
+    content: "·";
+    margin: 0 0.5rem;
+  }
+}
+
+.rank {
+  display: inline-flex;
+  margin-right: 0.5rem;
+  padding: 0.0625rem 0.4375rem;
+  border-radius: 4px;
+  background: var(--award-wash);
+  color: var(--award);
+  font-family: $font-mono;
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1.5;
+  white-space: nowrap;
+  vertical-align: 0.0625rem;
+}
+
+.rank--1st {
+  background: var(--award);
+  color: var(--bg);
+}
+
+/* Honors */
+
+.honors__group + .honors__group {
+  margin-top: 2.5rem;
+}
+
+.honors .tl__item {
+  grid-template-columns: 4.5rem minmax(0, 1fr);
+  align-items: baseline;
+
+  @media (min-width: #{$bp-sm}) {
+    grid-template-columns: 5.5rem minmax(0, 1fr);
+  }
+}
+
+/* Service */
+
+.service__row {
+  display: grid;
+  gap: 0.625rem;
+  padding: 0.875rem 0;
+  border-bottom: 1px solid var(--rule);
+
+  &:last-child { border-bottom: 0; }
+
+  dt {
+    color: var(--ink);
+    font-size: 0.9375rem;
+    font-weight: 600;
+  }
+}
+
+/* Text button */
+
+.text-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--accent);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  cursor: pointer;
+
+  &:hover { color: var(--accent-strong); }
+}

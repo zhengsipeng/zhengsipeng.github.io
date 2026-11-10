@@ -1,55 +1,66 @@
 # Sipeng Zheng Homepage
 
-Source code for <https://zhengsipeng.github.io/>.
+Source code for <https://zhengsipeng.github.io/>, built with Jekyll and deployed by GitHub Pages on every push to `main`.
 
-## Structure
+## Editing content
 
-- `_pages/about.md`: home page entry.
-- `_includes/sections/`: editable page sections.
-- `_includes/`: shared HTML/Liquid components.
-- `_layouts/`: page layouts.
-- `_sass/` and `assets/css/main.scss`: site styles.
-- `assets/images/`: profile photo, publication thumbnails, and favicons.
-- `assets/js/main.min.js`: small site script for external links and smooth anchors.
-- `files/`: downloadable files such as the CV.
+Almost everything lives in plain data files — no HTML required.
 
-Generated files live in `_site/` and should not be committed.
+| What | Where |
+| --- | --- |
+| Name, role, links, tagline, research interests | `_config.yml` → `author` |
+| Biography | `_includes/sections/intro.md` |
+| Recruiting text | `_includes/sections/join.md` |
+| News | `_data/news.yml` (newest first; `news_visible` in `_config.yml` sets how many show) |
+| Publications | `_data/publications.yml` |
+| Research cards (Being-H / M / VL) | `_data/research.yml` (references publication ids) |
+| Honors | `_data/honors.yml` |
+| Work, education, service | `_data/experience.yml` |
+| Navigation | `_data/navigation.yml` |
 
-## Local Preview
+### Adding a publication
 
-Install dependencies once:
+Add an entry to `_data/publications.yml` in the right position (the list is grouped by `year`, order within a year is kept):
+
+```yaml
+- id: my-paper
+  title: "My Paper: A Subtitle"
+  url: https://arxiv.org/abs/xxxx.xxxxx
+  venue: CVPR 2027
+  year: 2027
+  award: Oral            # optional
+  award_rate: "3%"       # optional
+  authors: Alice*, Sipeng Zheng*, Bob
+  links:
+    - { type: code, url: "https://github.com/..." }
+    - { type: blog, url: "https://..." }
+    - { type: model, url: "https://huggingface.co/...", soon: true }
+  topics: [embodied]     # embodied | motion | mllm | video
+  selected: true         # show in the default "Selected" view
+  image: my-paper        # optional, see below
+```
+
+`Sipeng Zheng` is highlighted automatically. Link types: `paper`, `blog`, `code`, `model`, `page`.
+
+### Figures
+
+Paper figures live in `assets/images/papers/` as WebP in two widths: `<slug>-640.webp` and `<slug>-1280.webp`. Convert new figures before adding them, e.g. with `cwebp -q 82 -resize 1280 0 in.png -o slug-1280.webp`.
+
+## Code structure
+
+- `_layouts/default.html` — page shell
+- `_includes/` — header, footer, head/SEO, icons (`icon.html`), and one file per section in `sections/`
+- `_sass/` — styles split into tokens (colors, fonts, dark theme), base, layout, hero, components, research, publications, print
+- `assets/js/site.js` — theme toggle, mobile menu, scroll-spy, publication filters
+- `assets/fonts/` — self-hosted Inter, Source Serif 4, JetBrains Mono (OFL)
+
+Light/dark themes follow the system setting and can be toggled from the header.
+
+## Local preview
 
 ```bash
-ruby -S bundle _2.2.19_ install
+ruby -S bundle _2.2.19_ install   # once
+bash run_server.sh                # http://127.0.0.1:4000 with LiveReload
 ```
 
-Start a local preview server:
-
-```bash
-bash run_server.sh
-```
-
-Then open:
-
-```text
-http://127.0.0.1:4000
-```
-
-The server runs with LiveReload, so most Markdown, HTML, SCSS, and JavaScript edits refresh automatically.
-
-## Editing Content
-
-- Update the biography and recruiting text in `_includes/sections/intro.md`.
-- Update news in `_includes/sections/news.md`.
-- Update publication cards and paper list in `_includes/sections/publications.md`.
-- Update honors in `_includes/sections/honors.md`.
-- Update education, work experience, and service in `_includes/sections/experience.md`.
-- Put new publication images in `assets/images/` and reference them with `assets/images/<filename>`.
-
-## Build
-
-```bash
-ruby -S bundle _2.2.19_ exec jekyll build
-```
-
-GitHub Pages will build the site after pushing to the repository.
+Build only: `ruby -S bundle _2.2.19_ exec jekyll build`. Generated files go to `_site/` and are not committed.

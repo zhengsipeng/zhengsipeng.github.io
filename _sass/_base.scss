@@ -1,322 +1,182 @@
 /* ==========================================================================
-   BASE ELEMENTS
+   Base: reset, typography, utilities
    ========================================================================== */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 html {
-  /* sticky footer fix */
-  position: relative;
-  min-height: 100%;
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  scroll-padding-top: calc(var(--header-h) + 1rem);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
 }
 
 body {
   margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: $font-sans;
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, p, ul, ol, dl, dd, figure {
+  margin: 0;
+}
+
+ul, ol {
   padding: 0;
-  padding-bottom: 0em;
-  color: $text-color;
-  font-family: $global-font-family;
-  line-height: 1.5;
-
-  &.overflow--hidden {
-    /* when primary navigation is visible, the content in the background won't scroll */
-    overflow: hidden;
-  }
+  list-style: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  margin: 1em 0 0.5em;
+h1, h2, h3, h4 {
+  font-weight: 600;
   line-height: 1.2;
-  font-family: $header-font-family;
-  font-weight: bold;
-}
-
-h1 {
-  // margin: 4em 0 0.5em;
-  margin-top: 1em;
-  font-size: $type-size-3;
-}
-
-h2 {
-  font-size: $type-size-4;
-}
-
-h3 {
-  font-size: $type-size-5;
-}
-
-h4 {
-  font-size: $type-size-6;
-}
-
-h5 {
-  font-size: $type-size-6;
-}
-
-h6 {
-  font-size: $type-size-6;
-}
-
-small, .small {
-  font-size: $type-size-6;
+  text-wrap: balance;
 }
 
 p {
-  margin-bottom: 0.5em;
+  text-wrap: pretty;
 }
 
-u,
-ins {
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: var(--accent);
   text-decoration: none;
-  border-bottom: 1px solid $text-color;
-  a {
-    color: inherit;
+  transition: color 0.15s ease;
+
+  &:hover {
+    color: var(--accent-strong);
   }
 }
 
-ul {
-  padding-inline-start: 2em;
-  margin-block-start: 0.5em;
+strong, b {
+  font-weight: 600;
+  color: var(--ink);
 }
 
-del a {
+button {
+  font: inherit;
   color: inherit;
 }
 
-/* reduce orphans and widows when printing */
-
-p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
-  orphans: 3;
-  widows: 3;
+::selection {
+  background: var(--accent-wash);
+  color: var(--ink);
 }
 
-/* abbreviations */
-
-abbr[title],
-abbr[data-original-title] {
-  text-decoration: none;
-  cursor: help;
-  border-bottom: 1px dotted $text-color;
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
 }
 
-/* blockquotes */
-
-blockquote {
-  margin: 2em 1em 2em 0;
-  padding-left: 1em;
-  padding-right: 1em;
-  font-style: italic;
-  border-left: 0.25em solid $primary-color;
-
-  cite {
-    font-style: italic;
-
-    &:before {
-      content: "\2014";
-      padding-right: 5px;
-    }
-  }
+[hidden] {
+  display: none !important;
 }
 
-/* links */
-
-a {
-  
-  &:focus {
-    @extend %tab-focus;
-  }
-
-  &:hover,
-  &:active {
-    outline: 0;
-  }
+.icon {
+  flex: none;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
 }
 
-/* code */
-
-tt, code, kbd, samp, pre {
-  font-family: $monospace;
-}
-
-pre {
-  overflow-x: auto; /* add scrollbars to wide code blocks*/
-}
-
-p > code,
-a > code,
-li > code,
-figcaption > code,
-td > code {
-  padding-top: 0.1rem;
-  padding-bottom: 0.1rem;
-  font-size: $type-size-6;
-  background: $code-background-color;
-  border: 1px solid $lighter-gray;
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
-
-  &:before, &:after {
-    letter-spacing: -0.2em;
-    content: "\00a0"; /* non-breaking space*/
-  }
-}
-
-/* horizontal rule */
-
-hr {
-  display: block;
-  margin: 1em 0;
-  border: 0;
-  border-top: 1px solid $border-color;
-}
-
-/* lists */
-
-ul li,
-ol li {
-  margin-bottom: 0.5em;
-}
-
-li ul,
-li ol {
-  margin-top: 0.5em;
-}
-
-/*
-   Media and embeds
-   ========================================================================== */
-
-/* Figures and images */
-
-figure {
-  display: -webkit-box;
-  display: flex;
-  -webkit-box-pack: justify;
-          justify-content: space-between;
-  -webkit-box-align: start;
-          align-items: flex-start;
-  flex-wrap: wrap;
-  margin: 2em 0;
-
-  img,
-  iframe,
-  .fluid-width-video-wrapper {
-    margin-bottom: 1em;
-  }
-
-  img {
-    width: 100%;
-    border-radius: $border-radius;
-    -webkit-transition: $global-transition;
-    transition: $global-transition;
-  }
-
-  > a {
-    display: block;
-  }
-
-  &.half {
-    > a,
-    > img {
-      @include breakpoint($small) {
-        width: calc(50% - 0.5em);
-      }
-    }
-
-    figcaption {
-      width: 100%;
-    }
-  }
-
-  &.third {
-    > a,
-    > img {
-      @include breakpoint($small) {
-        width: calc(33.3333% - 0.5em);
-      }
-    }
-
-    figcaption {
-      width: 100%;
-    }
-  }
-}
-
-/* Figure captions */
-
-figcaption {
-  margin-bottom: 0.5em;
-  color: mix(#fff, $text-color, 25%);
-  font-family: $caption-font-family;
-  font-size: $type-size-6;
+.prose {
+  p + p { margin-top: 1em; }
 
   a {
-    color: inherit;
-    text-decoration: none;
-    border-bottom: 1px solid $light-gray;
-    -webkit-transition: $global-transition;
-    transition: $global-transition;
+    text-decoration: underline;
+    text-decoration-color: var(--accent-line);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
 
-    &:hover {
-      color: #000;
-      border-bottom-color: #000;
-    }
+    &:hover { text-decoration-color: currentColor; }
   }
 }
 
+.mono {
+  font-family: $font-mono;
+}
 
-/* Fix IE9 SVG bug */
+.me {
+  color: var(--ink);
+  font-weight: 600;
+}
 
-svg:not(:root) {
+.label {
+  margin-bottom: 0.875rem;
+  color: var(--muted);
+  font-family: $font-mono;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.sr-only {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
   overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
+.skip-link {
+  position: absolute;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 100;
+  padding: 0.5rem 0.875rem;
+  border-radius: var(--radius-sm);
+  background: var(--ink);
+  color: var(--bg);
+  font-size: 0.875rem;
+  font-weight: 600;
+  transform: translateY(-200%);
 
-/*
-   Navigation lists
-   ========================================================================== */
-
-/**
- * Removes margins, padding, and bullet points from navigation lists
- *
- * Example usage:
- * <nav>
- *    <ul>
- *      <li><a href="#link-1">Link 1</a></li>
- *      <li><a href="#link-2">Link 2</a></li>
- *      <li><a href="#link-3">Link 3</a></li>
- *    </ul>
- *  </nav>
- */
-
-nav {
-  ul {
-    margin: 0;
-    padding: 0;
-  }
-
-  li {
-    list-style: none;
-  }
-
-  a {
-    text-decoration: none;
-  }
-
-  /* override white-space for nested lists */
-  ul li,
-  ol li {
-    margin-bottom: 0;
-  }
-
-  li ul,
-  li ol {
-    margin-top: 0;
+  &:focus {
+    color: var(--bg);
+    transform: none;
   }
 }
 
-/*
-   Global animation transition
-   ========================================================================== */
+#main:focus {
+  outline: none;
+}
 
-b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
-  -webkit-transition: $global-transition;
-  transition: $global-transition;
+.legacy-anchor {
+  position: absolute;
+  top: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
 }

@@ -1,129 +1,97 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# Site settings — restart `jekyll serve` after editing this file.
 
-# Site Settings
-title                    : "Sipeng Zheng (郑思鹏)"
-description              : "Researcher at BeingBeyond, focusing on large multimodal models and robotics."
-repository               : "zhengsipeng/zhengsipeng.github.io"
+title: "Sipeng Zheng"
+title_zh: "郑思鹏"
+description: >-
+  Sipeng Zheng is a Partner at BeingBeyond working on embodied foundation models,
+  vision-language-action models, learning from egocentric human videos, and humanoid robotics.
+url: "https://zhengsipeng.github.io"
+baseurl: ""
+lang: en
+repository: "zhengsipeng/zhengsipeng.github.io"
 
-# google analytics
-google_analytics_id      : G-0LQ3LBVQT2
+google_analytics_id: G-0LQ3LBVQT2
 
-# SEO Related
-#google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-#bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-#baidu_site_verification  : code-ZxFK3f4pfb
+# Number of news items shown before the "Earlier news" toggle.
+news_visible: 8
 
-# Site Author
+# ---------------------------------------------------------------------------
+# Author / profile (used in the hero, footer, and SEO metadata)
+# ---------------------------------------------------------------------------
 author:
-  name             : "Sipeng Zheng"
-  avatar           : "assets/images/zsp_profile.jpg"
-  bio              : ""
-  location         : "Beijing"
-  googlescholar    : "https://scholar.google.com/citations?user=OonuDhcAAAAJ&hl=zh-CN"
-  email            : "zhengsipeng27@gmail.com"
-  github           : "zhengsipeng"
-  linkedin         : "sipengz"
-  dblp             : "https://dblp.org/pid/251/3691.html"
+  name: "Sipeng Zheng"
+  name_zh: "郑思鹏"
+  role: "Partner"
+  affiliation: "BeingBeyond"
+  affiliation_url: "https://www.beingbeyond.com"
+  focus: "Lead, Embodied Multimodal Pretraining"
+  location: "Beijing, China"
+  avatar: "assets/images/profile.jpg"
+  avatar_webp: "assets/images/profile.webp"
+  email: "spzheng@beingbeyond.com"
+  cv: "files/cv_zsp_en.pdf"
+  googlescholar: "https://scholar.google.com/citations?user=OonuDhcAAAAJ"
+  github: "zhengsipeng"
+  linkedin: "sipengz"
+  dblp: "https://dblp.org/pid/251/3691.html"
+  notes: "https://research.beingbeyond.com/"
+  tagline: "Building foundation models that let humanoid robots learn from how humans see and act."
+  interests:
+    - Embodied foundation models
+    - Vision-language-action models
+    - Learning from egocentric video
+    - Humanoid robotics
+    - Large multimodal models
 
+# Topic filters for the publication list (keys used in _data/publications.yml).
+topics:
+  - { key: embodied, label: "Embodied AI" }
+  - { key: motion, label: "Human Motion" }
+  - { key: mllm, label: "Multimodal LLMs" }
+  - { key: video, label: "Video Understanding" }
 
-# Reading Files
+# ---------------------------------------------------------------------------
+# Build
+# ---------------------------------------------------------------------------
 include:
-  - .htaccess
   - _pages
-  - files
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
   - Gemfile
   - Gemfile.lock
-  - Gruntfile.js
   - LICENSE
-  - README
   - README.md
-  - Rakefile
   - run_server.sh
-  - .bundle
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - package.json
-  - tmp
   - vendor
-keep_files:
-  - .git
-  - .svn
+  - node_modules
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
+  - .codex-backups
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
-# Conversion
 markdown: kramdown
 highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-
-# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true
-  footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
 
-# Defaults
 defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-      author_profile: true
+  - scope: { path: "" }
+    values: { layout: default }
 
-
-# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
-
-# Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
 
-
-# Plugins
 plugins:
   - jekyll-sitemap
-  - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
 whitelist:
   - jekyll-sitemap
-  - jekyll-feed
   - jekyll-redirect-from
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development

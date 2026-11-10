@@ -1,0 +1,48 @@
+{%- assign pubs = site.data.publications -%}
+{%- assign selected_count = pubs | where: "selected", true | size -%}
+{%- assign years = pubs | group_by: "year" -%}
+<section class="section" id="publications" aria-labelledby="publications-title">
+  <div class="container section__grid">
+    <header class="section__head">
+      <p class="section__index">03</p>
+      <h2 class="section__title" id="publications-title">Publications</h2>
+      <p class="section__intro"><span class="me">Bold</span> marks me; <span class="mono">*</span> denotes equal contribution.</p>
+    </header>
+    <div class="section__body">
+      <div class="pub-toolbar">
+        <div class="filters" role="group" aria-label="Filter publications">
+          <button class="filter" type="button" data-filter="selected" aria-pressed="true">Selected<span class="filter__count">{{ selected_count }}</span></button>
+          <button class="filter" type="button" data-filter="all" aria-pressed="false">All<span class="filter__count">{{ pubs | size }}</span></button>
+          <span class="filters__sep" aria-hidden="true"></span>
+          {%- for t in site.topics %}
+          {%- assign n = pubs | where_exp: "p", "p.topics contains t.key" | size %}
+          <button class="filter filter--topic" type="button" data-filter="{{ t.key }}" aria-pressed="false">{{ t.label }}<span class="filter__count">{{ n }}</span></button>
+          {%- endfor %}
+        </div>
+        <p class="sr-only" aria-live="polite" data-pub-status></p>
+      </div>
+
+      <div class="pubs" id="pub-list" data-view="selected">
+        {%- for group in years %}
+        {%- assign group_selected = group.items | where: "selected", true -%}
+        {%- assign has_selected = group_selected | size -%}
+        {%- assign first_selected = group_selected | first %}
+        <div class="pub-year{% if has_selected > 0 %} has-selected{% endif %}">
+          <h3 class="pub-year__label">{{ group.name }}</h3>
+          <ol class="pub-list">
+            {%- for p in group.items %}
+            {%- if first_selected and p.id == first_selected.id %}{% assign is_first = true %}{% else %}{% assign is_first = false %}{% endif %}
+            {% include pub.html pub=p first_selected=is_first %}
+            {%- endfor %}
+          </ol>
+        </div>
+        {%- endfor %}
+      </div>
+
+      <p class="pubs__more">
+        <button class="text-btn" type="button" data-filter="all" data-show-all>Show all {{ pubs | size }} publications <span aria-hidden="true">↓</span></button>
+        <a class="text-btn" href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">↗</span></a>
+      </p>
+    </div>
+  </div>
+</section>

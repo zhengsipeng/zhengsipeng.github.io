@@ -1,0 +1,45 @@
+{%- assign xp = site.data.experience -%}
+<section class="section" id="experience" aria-labelledby="experience-title">
+  <div class="container section__grid">
+    <header class="section__head">
+      <p class="section__index">05</p>
+      <h2 class="section__title" id="experience-title">Experience</h2>
+    </header>
+    <div class="section__body">
+      <div class="columns">
+        <div class="column">
+          <h3 class="subhead">Work</h3>
+          <ul class="tl">
+            {%- for e in xp.work %}
+            <li class="tl__item">
+              <span class="tl__date">{{ e.dates }}</span>
+              <div class="tl__body"><p class="tl__role">{{ e.role }}</p><p class="tl__org">{{ e.org }}<span class="tl__place">{{ e.place }}</span></p></div>
+            </li>
+            {%- endfor %}
+          </ul>
+        </div>
+        <div class="column">
+          <h3 class="subhead" id="education">Education</h3>
+          <ul class="tl">
+            {%- for e in xp.education %}
+            <li class="tl__item">
+              <span class="tl__date">{{ e.dates }}</span>
+              <div class="tl__body"><p class="tl__role">{{ e.role }}</p><p class="tl__org">{{ e.org }}<span class="tl__place">{{ e.place }}</span></p></div>
+            </li>
+            {%- endfor %}
+          </ul>
+
+          <h3 class="subhead subhead--spaced" id="services">Service</h3>
+          <dl class="service">
+            {%- for s in xp.service %}
+            <div class="service__row">
+              <dt>{{ s.label }}</dt>
+              <dd><ul class="chips chips--small">{% for v in s.venues %}<li class="chip">{{ v }}</li>{% endfor %}</ul></dd>
+            </div>
+            {%- endfor %}
+          </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

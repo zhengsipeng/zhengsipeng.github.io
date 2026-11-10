@@ -1,0 +1,124 @@
+/* ==========================================================================
+   Design tokens
+   Light: warm paper + ink + deep teal accent. Dark: graphite + soft teal.
+   All text colors meet WCAG AA (≥ 4.5:1) on their backgrounds.
+   ========================================================================== */
+
+$bp-sm: 40em;   // 640px
+$bp-md: 56em;   // 896px
+$bp-lg: 64em;   // 1024px
+
+$font-serif: "Source Serif 4", "Name SC", "Source Serif Pro", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia,
+  "Noto Serif SC", "Source Han Serif SC", "Songti SC", "STSong", "SimSun", serif;
+$font-sans: "Inter", "Name SC", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+  "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+$font-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
+
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../fonts/inter-var-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url("../fonts/source-serif-4-var-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 100 800;
+  font-display: swap;
+  src: url("../fonts/jetbrains-mono-var-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* 3-glyph subset of Noto Serif SC (郑思鹏) so the Chinese name renders identically everywhere. */
+@font-face {
+  font-family: "Name SC";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/noto-serif-sc-name.woff2") format("woff2");
+  unicode-range: U+601D, U+90D1, U+9E4F;
+}
+
+@mixin tokens-light {
+  --bg: #FAFAF7;
+  --surface: #FFFFFF;
+  --surface-2: #F2F2EC;
+  --ink: #1A1D1F;
+  --ink-2: #3A4246;
+  --muted: #5F6B70;
+  --rule: #E4E4DC;
+  --rule-strong: #CDCDC3;
+  --accent: #0F6B6E;
+  --accent-strong: #0A5154;
+  --accent-wash: #E5EFEE;
+  --accent-line: #A9CBCB;
+  --award: #A84A22;
+  --award-wash: #F8EBE3;
+  --plate: #FFFFFF;
+  --header-bg: rgba(250, 250, 247, 0.86);
+  --shadow-sm: 0 1px 2px rgba(26, 29, 31, 0.04);
+  --shadow-lg: 0 1px 2px rgba(26, 29, 31, 0.04), 0 16px 32px -16px rgba(26, 29, 31, 0.18);
+  --img-filter: none;
+  color-scheme: light;
+}
+
+@mixin tokens-dark {
+  --bg: #0F1214;
+  --surface: #161A1D;
+  --surface-2: #1D2226;
+  --ink: #E7ECEE;
+  --ink-2: #C4CCCF;
+  --muted: #9AA7AC;
+  --rule: #252B2F;
+  --rule-strong: #353D42;
+  --accent: #5CC6C2;
+  --accent-strong: #8ADAD6;
+  --accent-wash: #15292A;
+  --accent-line: #2B5859;
+  --award: #F0A070;
+  --award-wash: #2C1F17;
+  --plate: #ECECE7;
+  --header-bg: rgba(15, 18, 20, 0.82);
+  --shadow-sm: none;
+  --shadow-lg: 0 16px 36px -18px rgba(0, 0, 0, 0.7);
+  --img-filter: brightness(0.92);
+  color-scheme: dark;
+}
+
+:root {
+  @include tokens-light;
+  --header-h: 4rem;
+  --radius: 10px;
+  --radius-sm: 6px;
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+:root[data-theme="dark"] {
+  @include tokens-dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    @include tokens-dark;
+  }
+}
+
+/* Apply styles only when the dark theme is active (explicit or via system). */
+@mixin when-dark {
+  :root[data-theme="dark"] & { @content; }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) & { @content; }
+  }
+}

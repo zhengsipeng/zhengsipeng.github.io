@@ -1,16 +1,77 @@
+{%- assign author = site.author -%}
+{%- assign page_title = site.title | append: " (" | append: site.title_zh | append: ")" -%}
+{%- if page.title and page.title != "" -%}{%- assign page_title = page.title | append: " · " | append: site.title -%}{%- endif -%}
+{%- assign page_desc = page.description | default: site.description | strip_newlines | strip -%}
+{%- assign canonical = page.url | replace: "index.html", "" | absolute_url -%}
 <meta charset="utf-8">
-
-{% include seo.html %}
-
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{ page_title }}</title>
+<meta name="description" content="{{ page_desc | escape }}">
+<meta name="author" content="{{ author.name }}">
+<link rel="canonical" href="{{ canonical }}">
 
 <script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  (function () {
+    var d = document.documentElement;
+    d.className = d.className.replace(/\bno-js\b/, "js");
+    try {
+      var t = localStorage.getItem("theme");
+      if (t === "dark" || t === "light") d.setAttribute("data-theme", t);
+    } catch (e) {}
+  })();
 </script>
 
-<!-- For all browsers -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#FAFAF7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0F1214" media="(prefers-color-scheme: dark)">
+<meta name="format-detection" content="telephone=no">
 
-<meta http-equiv="cleartype" content="on">
+<link rel="preload" href="{{ '/assets/fonts/inter-var-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ '/assets/fonts/source-serif-4-var-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+
+<link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="48x48">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
+<link rel="manifest" href="{{ '/assets/images/site.webmanifest' | relative_url }}">
+
+<!-- Open Graph / social cards -->
+<meta property="og:type" content="profile">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ page_title }}">
+<meta property="og:description" content="{{ page_desc | escape }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:image" content="{{ author.avatar | absolute_url }}">
+<meta property="og:image:width" content="480">
+<meta property="og:image:height" content="600">
+<meta property="og:image:alt" content="Portrait of {{ author.name }}">
+<meta property="og:locale" content="en_US">
+<meta property="profile:first_name" content="Sipeng">
+<meta property="profile:last_name" content="Zheng">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ page_title }}">
+<meta name="twitter:description" content="{{ page_desc | escape }}">
+<meta name="twitter:image" content="{{ author.avatar | absolute_url }}">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ author.name | jsonify }},
+  "alternateName": {{ author.name_zh | jsonify }},
+  "jobTitle": {{ author.role | jsonify }},
+  "worksFor": { "@type": "Organization", "name": {{ author.affiliation | jsonify }}, "url": {{ author.affiliation_url | jsonify }} },
+  "alumniOf": { "@type": "CollegeOrUniversity", "name": "Renmin University of China" },
+  "image": {{ author.avatar | absolute_url | jsonify }},
+  "url": {{ site.url | jsonify }},
+  "email": {{ author.email | prepend: "mailto:" | jsonify }},
+  "knowsAbout": ["Embodied AI", "Vision-Language-Action Models", "Multimodal Large Language Models", "Egocentric Video Understanding", "Humanoid Robotics"],
+  "sameAs": [
+    {{ author.googlescholar | jsonify }},
+    {{ "https://github.com/" | append: author.github | jsonify }},
+    {{ "https://www.linkedin.com/in/" | append: author.linkedin | jsonify }},
+    {{ author.dblp | jsonify }}
+  ]
+}
+</script>

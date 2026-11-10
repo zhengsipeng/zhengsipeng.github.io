@@ -154,6 +154,9 @@ CVPR22 (<span style="color:red">Oral 4.14%</span>)
 BeingBeyond Team,
 [**Blog**](https://research.beingbeyond.com/being-h08) | **Paper** (coming soon).
 
+- ``Arxiv 2026`` [TactoHand: Learning Geometry-Based Dense Hand-Surface Interaction Fields from Video](https://arxiv.org/abs/2610.39585),
+Ziheng Xi, Weibo Li, Jiayi Yu, **Sipeng Zheng**, Wanpeng Zhang, Haiweng Xu, Hao Luo, Chuan Mao, Zongqing Lu.
+
 - ``Arxiv 2026`` [Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](https://arxiv.org/abs/2607.01067), 
 Chi Zhang, Penglin Cai, Ziheng Xi, Haoqi Yuan, Hao Luo, Wanpeng Zhang, **Sipeng Zheng**, Chaoyi Xu, Zongqing Lu.
 

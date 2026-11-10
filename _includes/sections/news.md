@@ -1,6 +1,7 @@
 # News
 <div class="news-list" markdown="1">
 
+- *2026.10*: We introduce [TactoHand](https://arxiv.org/abs/2610.39585), which predicts dense hand-surface contact, proximity, and 3D force fields from video.
 - *2026.09*: Being-H0.7 is accepted to NeurIPS 2026.
 - *2026.09*: Being-H0.5 is accepted to CoRL 2026 as an Oral presentation (21 Orals selected from 2,094 submissions, ~1%).
 - *2026.07*: We introduce [Being-H0.8](https://research.beingbeyond.com/being-h08), a latent tactile world-action model at scale for contact-rich robot manipulation.

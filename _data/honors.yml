@@ -1,0 +1,17 @@
+# Honors & awards, grouped. Newest first within each group.
+
+- group: Challenges & Competitions
+  items:
+    - { year: "2025", rank: 1st, text: "GemBench Challenge, CVPR 2025 Workshop GRAIL" }
+    - { year: "2022", rank: 3rd, text: "Ego4D Natural Language Query Challenge, CVPR 2022" }
+    - { year: "2021", rank: 3rd, text: "NIST TRECVID 2021 Ad-hoc Video Search (AVS) Challenge" }
+    - { year: "2021", rank: 2nd, text: "HOMAGE Scene-graph Generation Challenge, CVPR 2021" }
+    - { year: "2020", rank: 2nd, text: "Video Relationship Understanding Grand Challenge, ACM MM 2020" }
+    - { year: "2019", rank: 2nd, text: "Video Relationship Understanding Grand Challenge, ACM MM 2019" }
+    - { year: "2019", text: "Best Method Prize, ACM MM 2019 Grand Challenge" }
+    - { year: "2015", text: "First Prize, National University Mathematical Modeling Competition (Beijing Area)" }
+
+- group: Scholarships
+  items:
+    - { year: "2022", text: "National Scholarship for Ph.D. Students" }
+    - { year: "2018–21", text: "First Class Scholarship for Ph.D. Students" }

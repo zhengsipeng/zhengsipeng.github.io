@@ -1,0 +1,56 @@
+{%- assign a = site.author -%}
+{%- capture intro -%}{% include sections/intro.md %}{%- endcapture -%}
+{%- capture join -%}{% include sections/join.md %}{%- endcapture -%}
+<section class="hero" id="about" aria-labelledby="hero-name">
+  <span id="about-me" class="legacy-anchor" aria-hidden="true"></span>
+  <div class="container hero__grid">
+    <div class="hero__text">
+      <p class="eyebrow">
+        <span>{{ a.role }}, <a href="{{ a.affiliation_url }}">{{ a.affiliation }}</a></span>
+        <span>{{ a.focus }}</span>
+      </p>
+      <h1 class="hero__name" id="hero-name">
+        {{ a.name }}<span class="hero__zh" lang="zh-CN">{{ a.name_zh }}</span>
+      </h1>
+      <p class="hero__lead">{{ a.tagline }}</p>
+      <div class="hero__bio prose">{{ intro | markdownify }}</div>
+
+      <ul class="hero__links" aria-label="Profiles and contact">
+        <li><a class="btn btn--primary" href="{{ a.cv | relative_url }}">{% include icon.html name="file" %}<span>CV</span></a></li>
+        <li><a class="btn" href="mailto:{{ a.email }}">{% include icon.html name="mail" %}<span>Email</span></a></li>
+        <li><a class="btn" href="{{ a.googlescholar }}">{% include icon.html name="scholar" %}<span>Scholar</span></a></li>
+        <li><a class="btn" href="https://github.com/{{ a.github }}">{% include icon.html name="github" %}<span>GitHub</span></a></li>
+        <li><a class="btn" href="https://www.linkedin.com/in/{{ a.linkedin }}">{% include icon.html name="linkedin" %}<span>LinkedIn</span></a></li>
+        <li><a class="btn" href="{{ a.dblp }}">{% include icon.html name="dblp" %}<span>DBLP</span></a></li>
+        <li><a class="btn" href="{{ a.notes }}">{% include icon.html name="notes" %}<span>Research Notes</span></a></li>
+      </ul>
+    </div>
+
+    <figure class="hero__portrait">
+      <picture>
+        <source srcset="{{ a.avatar_webp | relative_url }}" type="image/webp">
+        <img src="{{ a.avatar | relative_url }}" width="480" height="600" alt="Portrait of {{ a.name }}" fetchpriority="high" decoding="async">
+      </picture>
+      <figcaption>{% include icon.html name="pin" %}<span>{{ a.location }}</span></figcaption>
+    </figure>
+  </div>
+
+  <div class="container hero__aside">
+    <div class="interests">
+      <h2 class="label">Research interests</h2>
+      <ul class="chips">
+        {%- for i in a.interests %}
+        <li class="chip">{{ i }}</li>
+        {%- endfor %}
+      </ul>
+    </div>
+    <aside class="join" aria-labelledby="join-title">
+      <div class="join__head">
+        <span class="join__icon">{% include icon.html name="sparkles" %}</span>
+        <h2 class="join__title" id="join-title">Join our team</h2>
+      </div>
+      <div class="join__text">{{ join | markdownify }}</div>
+      <a class="join__cta" href="mailto:{{ a.recruit_email }}?subject=Application%20%E2%80%94%20Research%20position">{{ a.recruit_email }}<span aria-hidden="true">→</span></a>
+    </aside>
+  </div>
+</section>

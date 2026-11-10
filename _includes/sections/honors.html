@@ -1,0 +1,25 @@
+<section class="section" id="honors" aria-labelledby="honors-title">
+  <div class="container section__grid">
+    <header class="section__head">
+      <p class="section__index">04</p>
+      <h2 class="section__title" id="honors-title">Honors</h2>
+    </header>
+    <div class="section__body">
+      <div class="honors">
+        {%- for g in site.data.honors %}
+        <div class="honors__group">
+          <h3 class="subhead">{{ g.group }}</h3>
+          <ul class="tl">
+            {%- for h in g.items %}
+            <li class="tl__item">
+              <span class="tl__date">{{ h.year }}</span>
+              <p class="tl__body">{% if h.rank %}<span class="rank rank--{{ h.rank }}">{{ h.rank }} place</span>{% endif %}{{ h.text }}</p>
+            </li>
+            {%- endfor %}
+          </ul>
+        </div>
+        {%- endfor %}
+      </div>
+    </div>
+  </div>
+</section>

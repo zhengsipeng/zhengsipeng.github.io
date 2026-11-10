@@ -1,0 +1,22 @@
+{%- assign p = include.pub -%}
+{%- capture authors -%}{{ p.authors | replace: "Sipeng Zheng", '<span class="me">Sipeng Zheng</span>' }}{%- endcapture -%}
+<li class="pub{% if p.selected %} is-selected{% endif %}{% if include.first_selected %} is-first-selected{% endif %}" data-topics="{{ p.topics | join: ' ' }}">
+  {%- if p.selected %}
+  <a class="pub__thumb" href="{{ p.url }}" tabindex="-1" aria-hidden="true">
+    {%- if p.image %}
+    <img src="{{ '/assets/images/papers/' | append: p.image | append: '-640.webp' | relative_url }}" alt="" width="640" height="400" loading="lazy" decoding="async">
+    {%- else %}
+    <span class="pub__plate">{{ p.short | default: p.venue }}</span>
+    {%- endif %}
+  </a>
+  {%- endif %}
+  <div class="pub__body">
+    <h4 class="pub__title"><a href="{{ p.url }}">{{ p.title }}</a></h4>
+    <p class="pub__authors">{{ authors }}</p>
+    <div class="pub__meta">
+      {%- if p.venue and p.venue != "" %}<span class="venue">{{ p.venue }}</span>{% endif -%}
+      {%- if p.award %}<span class="award" title="{{ p.award }} presentation{% if p.award_rate %}, ~{{ p.award_rate }} of submissions{% endif %}">{{ p.award }}{% if p.award_rate %} · {{ p.award_rate }}{% endif %}</span>{% endif -%}
+      {% include pub-links.html links=p.links paper=p.url %}
+    </div>
+  </div>
+</li>

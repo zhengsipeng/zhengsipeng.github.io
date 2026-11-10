@@ -1,0 +1,38 @@
+# Research programs shown as cards in the "Research" section.
+# `current` and `previous` refer to publication ids in _data/publications.yml.
+
+- name: Being-H0.7 & 0.8
+  subtitle: Latent World-Action Models
+  url: https://research.beingbeyond.com/being-h08
+  summary: Future-aware robot control through compact latent world-action modeling.
+  image: being-h08
+  image_alt: Overview of the Being-H0.8 visuo-tactile world-action model
+  current: being-h08
+  previous: [being-h07]
+
+- name: Being-H0 & 0.5
+  subtitle: Vision-Language-Action Models
+  url: https://github.com/BeingBeyond/Being-H
+  summary: Vision-language-action pretraining from large-scale human videos.
+  image: being-h05
+  image_alt: Overview of the Being-H0.5 cross-embodiment VLA model
+  current: being-h05
+  previous: [being-h0]
+
+- name: Being-M
+  subtitle: Large Motion Models
+  url: https://beingbeyond.github.io/Being-M0/
+  summary: Large motion generation models for controllable vision-language-motion generation.
+  image: being-m05
+  image_alt: Overview of the Being-M0.5 vision-language-motion model
+  current: being-m05
+  previous: [being-m0]
+
+- name: Being-VL
+  subtitle: Unified Multimodal Models
+  url: https://github.com/BeingBeyond/Being-VL-0
+  summary: Discrete visual tokenization for unified multimodal understanding.
+  image: being-vl05
+  image_alt: Overview of byte-pair visual encoding in Being-VL-0.5
+  current: being-vl05
+  previous: [being-vl0]

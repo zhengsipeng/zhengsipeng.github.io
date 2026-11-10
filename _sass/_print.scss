@@ -1,18 +1,54 @@
 /* ==========================================================================
-   PRINT STYLES
-   ========================================================================== */
-
-/*
-   Hide the following elements on print
+   Print: a clean, CV-like single column
    ========================================================================== */
 
 @media print {
-  .masthead,
-  .toc,
-  .page__share,
-  .page__related,
-  .ads,
-  .page__footer {
-    display: none;
+  :root {
+    @include tokens-light;
   }
+
+  body {
+    background: #fff;
+    font-size: 10.5pt;
+  }
+
+  .site-header,
+  .site-footer__top,
+  .skip-link,
+  .pub-toolbar,
+  .pubs__more,
+  .hero__links,
+  .join,
+  .pub__thumb,
+  .program__figure,
+  .disclosure > summary {
+    display: none !important;
+  }
+
+  .disclosure > *:not(summary) { display: block !important; }
+
+  .js .pubs[data-view] .pub,
+  .js .pubs[data-view] .pub-year,
+  .pub[hidden],
+  .pub-year[hidden] {
+    display: block !important;
+  }
+
+  .section {
+    padding: 1.25rem 0;
+    break-inside: auto;
+  }
+
+  .section__head { position: static; }
+
+  .program,
+  .pub,
+  .news__item,
+  .tl__item {
+    break-inside: avoid;
+    box-shadow: none;
+    transform: none;
+  }
+
+  a { color: inherit; }
 }

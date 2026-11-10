@@ -9,10 +9,6 @@
     <div class="section__body">
       <div class="programs">
         {%- for prog in site.data.research %}
-        {%- assign cur = pubs | where: "id", prog.current | first -%}
-        {%- assign prefix = cur.short | append: ": " -%}
-        {%- if cur.title contains prefix -%}{%- assign rest = cur.title | remove_first: prefix -%}{%- else -%}{%- assign rest = cur.title -%}{%- endif -%}
-        {%- capture cur_authors -%}{{ cur.authors | replace: "Sipeng Zheng", '<span class="me">Sipeng Zheng</span>' }}{%- endcapture %}
         <article class="program">
           <a class="program__figure" href="{{ prog.url }}" tabindex="-1" aria-hidden="true">
             <img
@@ -28,26 +24,12 @@
             </header>
             <p class="program__summary">{{ prog.summary }}</p>
 
-            <div class="program__current">
-              <div class="program__meta">
-                <span class="venue">{% if cur.venue and cur.venue != "" %}{{ cur.venue }}{% else %}{{ cur.year }}{% endif %}</span>
-                {%- if cur.award %}<span class="award" title="{{ cur.award }} presentation{% if cur.award_rate %}, ~{{ cur.award_rate }} of submissions{% endif %}">{{ cur.award }}{% if cur.award_rate %} · {{ cur.award_rate }}{% endif %}</span>{% endif %}
-              </div>
-              <h4 class="program__paper"><a href="{{ cur.url }}">{% if cur.short %}<strong>{{ cur.short }}</strong>: {% endif %}{{ rest }}</a></h4>
-              <p class="program__authors">{{ cur_authors }}</p>
-              {%- if cur.summary %}<p class="program__note">{{ cur.summary }}</p>{% endif %}
-              {% include pub-links.html links=cur.links paper=cur.url %}
-            </div>
-
-            {%- for pid in prog.previous %}
-            {%- assign prev = pubs | where: "id", pid | first %}
-            <div class="program__prev">
-              <span class="program__prev-label">Previous</span>
-              <p class="program__prev-title"><a href="{{ prev.url }}">{{ prev.short }}</a><span class="venue venue--plain">{{ prev.venue }}</span></p>
-              {%- if prev.summary %}<p class="program__prev-note">{{ prev.summary }}</p>{% endif %}
-              {% include pub-links.html links=prev.links paper=prev.url %}
-            </div>
-            {%- endfor %}
+            <ul class="program__versions">
+              {% include program-version.html pub=prog.current %}
+              {%- for pid in prog.previous %}
+              {% include program-version.html pub=pid %}
+              {%- endfor %}
+            </ul>
           </div>
         </article>
         {%- endfor %}

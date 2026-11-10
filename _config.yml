@@ -24,7 +24,6 @@ author:
   role: "Partner"
   affiliation: "BeingBeyond"
   affiliation_url: "https://www.beingbeyond.com"
-  focus: "Lead, Embodied Multimodal Pretraining"
   location: "Beijing, China"
   avatar: "assets/images/profile.jpg"
   avatar_webp: "assets/images/profile.webp"
@@ -36,7 +35,6 @@ author:
   linkedin: "sipengz"
   dblp: "https://dblp.org/pid/251/3691.html"
   notes: "https://research.beingbeyond.com/"
-  tagline: "Building foundation models that let humanoid robots learn from how humans see and act."
   interests:
     - Embodied foundation models
     - Vision-language-action models

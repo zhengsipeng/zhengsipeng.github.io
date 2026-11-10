@@ -5,14 +5,7 @@
   <span id="about-me" class="legacy-anchor" aria-hidden="true"></span>
   <div class="container hero__grid">
     <div class="hero__text">
-      <p class="eyebrow">
-        <span>{{ a.role }}, <a href="{{ a.affiliation_url }}">{{ a.affiliation }}</a></span>
-        <span>{{ a.focus }}</span>
-      </p>
-      <h1 class="hero__name" id="hero-name">
-        {{ a.name }}<span class="hero__zh" lang="zh-CN">{{ a.name_zh }}</span>
-      </h1>
-      <p class="hero__lead">{{ a.tagline }}</p>
+      <h1 class="hero__name" id="hero-name">{{ a.name }}</h1>
       <div class="hero__bio prose">{{ intro | markdownify }}</div>
 
       <ul class="hero__links" aria-label="Profiles and contact">
@@ -36,18 +29,21 @@
   </div>
 
   <div class="container hero__aside">
-    <div class="interests">
-      <h2 class="label">Research interests</h2>
+    <section class="panel interests" aria-labelledby="interests-title">
+      <div class="panel__head">
+        <span class="panel__icon">{% include icon.html name="book" %}</span>
+        <h2 class="panel__title" id="interests-title">Research interests</h2>
+      </div>
       <ul class="chips">
         {%- for i in a.interests %}
         <li class="chip">{{ i }}</li>
         {%- endfor %}
       </ul>
-    </div>
-    <aside class="join" aria-labelledby="join-title">
-      <div class="join__head">
-        <span class="join__icon">{% include icon.html name="sparkles" %}</span>
-        <h2 class="join__title" id="join-title">Join our team</h2>
+    </section>
+    <aside class="panel join" aria-labelledby="join-title">
+      <div class="panel__head">
+        <span class="panel__icon">{% include icon.html name="sparkles" %}</span>
+        <h2 class="panel__title" id="join-title">Join our team</h2>
       </div>
       <div class="join__text">{{ join | markdownify }}</div>
       <a class="join__cta" href="mailto:{{ a.recruit_email }}?subject=Application%20%E2%80%94%20Research%20position">{{ a.recruit_email }}<span aria-hidden="true">→</span></a>

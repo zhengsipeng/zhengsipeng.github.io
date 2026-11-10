@@ -121,17 +121,6 @@ button {
   font-weight: 600;
 }
 
-.label {
-  margin-bottom: 0.875rem;
-  color: var(--muted);
-  font-family: $font-mono;
-  font-size: 0.75rem;
-  font-weight: 500;
-  letter-spacing: 0.08em;
-  line-height: 1.4;
-  text-transform: uppercase;
-}
-
 .sr-only {
   position: absolute !important;
   width: 1px;

@@ -1,5 +1,5 @@
 Fonts are self-hosted subsets distributed via Fontsource (https://fontsource.org).
-Inter, Source Serif 4, JetBrains Mono and Noto Serif SC (noto-serif-sc-name.woff2, a 3-glyph subset) are licensed under the SIL Open Font License 1.1.
+Inter, Source Serif 4 and JetBrains Mono are licensed under the SIL Open Font License 1.1.
 
 Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter) Inter-Italic[opsz,wght].ttf: Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter)
 

@@ -1,0 +1,10 @@
+{%- comment -%} One model version inside a research card. Param: pub (publication id). {%- endcomment -%}
+{%- assign v = site.data.publications | where: "id", include.pub | first -%}
+<li class="program__version">
+  <p class="program__version-title">
+    <a href="{{ v.url }}">{{ v.short | default: v.title }}</a>
+    <span class="venue venue--plain">{% if v.venue and v.venue != "" %}{{ v.venue }}{% else %}{{ v.year }}{% endif %}</span>
+    {%- if v.award %}<span class="award" title="{{ v.award }} presentation{% if v.award_rate %}, ~{{ v.award_rate }} of submissions{% endif %}">{{ v.award }}{% if v.award_rate %} · {{ v.award_rate }}{% endif %}</span>{% endif %}
+  </p>
+  {% include pub-links.html links=v.links paper=v.url %}
+</li>

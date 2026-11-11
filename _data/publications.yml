@@ -267,6 +267,7 @@
     - { type: page, url: "https://beingbeyond.github.io/Being-M0" }
   topics: [motion]
   selected: true
+  image: being-m0
 
 - id: egoncepp
   title: "EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?"
@@ -288,6 +289,7 @@
   links:
     - { type: page, url: "https://github.com/BeingBeyond/Being-VL-0" }
   topics: [mllm]
+  image: being-vl0
 
 - id: spaformer
   title: "SPAFormer: Sequential 3D Part Assembly with Transformers"
@@ -308,6 +310,7 @@
   authors: Sipeng Zheng, Bohan Zhou, Yicheng Feng, Ye Wang, Zongqing Lu
   topics: [mllm]
   selected: true
+  image: unicode
 
 - id: steve-eye
   short: Steve-Eye
@@ -364,6 +367,7 @@
   authors: Sipeng Zheng, Boshen Xu, Qin Jin
   topics: [video]
   selected: true
+  image: open-category-hoi
 
 - id: audio-clip
   title: Accommodating Audio Modality in CLIP for Multimodal Processing

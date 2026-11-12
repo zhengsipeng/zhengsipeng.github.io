@@ -100,7 +100,7 @@
   image: being-h05
 
 - id: robust-motion
-  title: Robust Motion Generation using Part-level Reliable Data from Videos
+  title: Learning Text-to-Motion from Partially Observed Web Motions via Part-Aware Masked Modeling
   url: https://arxiv.org/abs/2512.12703
   venue: ACM MM 2026
   year: 2026
